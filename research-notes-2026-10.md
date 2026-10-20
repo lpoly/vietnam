@@ -138,6 +138,45 @@ Web research done 17–19 October 2026 for the restructured route. Every new or 
   - 180,000–500,000 VND; relaunched Mar 2026.
   - Suspended during the Oct 2025 floods. No 2026 confirmation that it runs on Sundays in December.
 
+## Other ways to do each leg (researched 20 Oct 2026)
+
+Sources for §2 "Other ways to do each leg" and the guide's "Other ways…" entries. The full links are in the itinerary. Baolau results are live listings for 26 Oct 2026, because Baolau would not search December dates. Where a page shows no date, none is given here.
+
+- **Noi Bai → Old Quarter**
+  - Official taxi ranks and per-km rates from 1 Mar 2025: G7 15,500/17,000, Group 16,700/18,800, Mai Linh 15,500/17,100 VND (5-seat/8-seat). An "8-seat" taxi carries 7 passengers. Bus 86: 50,000 VND, 07:00–22:15 (noibaiairport.vn).
+  - Bus 86 per mia.vn (25 Jul 2025): 45,000 VND, 05:15–22:10, every 25–30 min, from T1 and T2. Vietnam Airlines' guide says T1 only.
+  - Whole taxi fare: 280,000–400,000 VND (taxibambino, Aug 2026); about 600,000 VND (Vietnam Airlines guide).
+  - Grab airport fares from 6 Aug 2026: 4-seat and 6-seat products only; pickup at T2 car park P1/P7 (grab.com blog, 5 Aug 2026). About 250,000 VND including toll for a 4-seater (eternalarrival, Apr 2026).
+  - Vietnam Airlines minibus: 40,000 VND, to 1 Quang Trung, leaves when the 16 seats fill (vietnambooking, 28 Aug 2026).
+- **Hanoi → Tam Coc**
+  - Autumn timetable on sale 17 Aug–30 Dec 2026: SE7 06:00, SE5 08:00 from Hanoi (cophanvantaiduongsat, 3 Jul 2026). Baolau: SE7 → Ninh Binh 08:13 from 113,000 VND; SE5 → 10:13 from 177,000 VND.
+  - Ninh Binh station → Tam Coc about 5 km, 10–15 min by taxi (north-vietnam.com, Oct 2026).
+  - Limousine vans (Baolau): The Long Travel from Hoan Kiem hourly 06:10–19:10, 10 seats; Trang An Limousine from Hai Ba Trung hourly 06:30–19:30; both 2h30, 300,000 VND.
+  - Giap Bat buses 70,000–120,000 VND to Ninh Binh bus station (mia.vn, 12 Feb 2025; airconnect).
+  - 16-seat van door to door US$111 (hanoiecotour, 10 Jul 2026).
+- **Ninh Binh → Dong Hoi / Phong Nha**
+  - Baolau: SE3 21:36 → 04:45 from 409,000 VND; SE1 00:03 → 07:21 from 451,000 VND; private cabins on SE3 1,800,000–2,000,000 VND. north-vietnam.com (Oct 2026): SE3 21:35 → 04:51; SE1 23:07 → 06:30.
+  - Sleeper buses Tam Coc → Phong Nha (Baolau): HK Bus Lines 19:00–22:30, 650,000 VND, 6h. Gecko Routes: Camel 18:50–19:50 €17; The Long Travel 19:00/20:30 €13; Full Moon Party VIP cabin €22.
+  - Private: €440 per 8-passenger minivan (Vietnam Locals via Gecko Routes); US$238–315 (goasia.cc, 8 Mar 2026).
+- **Dong Hoi → Phong Nha**
+  - Taxi 400,000–600,000 VND (Gecko Routes; Phong Nha Farmstay "should not cost more than 600k"). Taxi company rates: Xanh SM page (20 Feb 2025).
+  - GrabCar launched in Quang Binh 24 Sep 2020 (grab.com). No source on 05:00 availability.
+  - Bookaway 8-passenger minivan €48 (Gecko Routes). Bus B4: first 05:30, hourly, 40,000–60,000 VND depending on source.
+- **Phong Nha → Hue**
+  - HQ1 tourist train: Tho Loc 13:15 → Hue 17:25, daily from late Aug 2026 (Oxalis; thitruongtaichinhtiente, 17 Aug 2026). Fares: Oxalis lists 420,000–760,000 VND before discounts; the news article gives 210,000–380,000 VND. Baolau: Dong Hoi 13:56, 244,000 VND.
+  - SE7 Dong Hoi 16:27 → Hue 19:38, 143,000 VND (Baolau).
+  - TP Travel sleeper buses 09:00 and 11:30, 350,000 VND, 4h (Baolau). Oxalis private 7-seater 2,800,000 VND. Vietnam Vacation 10-seat minivan 3,000,000 VND, Vinh Moc +US$10.
+  - DMZ bus tour 07:30, 600,000 VND (Gecko Routes, 8 Sep 2026); its own Hue → Phong Nha page says the stops are suspended.
+- **Hue → Hoi An**
+  - Hue Private Cars: 12-seat van US$99 with stops, 5–7h. Danang Car: 16-seater US$105.
+  - Easy Rider pillion US$58–90 per person (southeastasiabackpacker; Expedia listings).
+  - Limousine buses: Travel Bus 08:00/12:30, 320,000 VND; The Sinh Tourist from 199,000 VND (goodmorning-hoian, 21 Apr 2026).
+  - Grab about 800,000 VND (vietnamspot, 16 Jul 2026). Da Nang station → Hoi An taxi 300,000–400,000 VND (goodmorning-hoian, 1 Sep 2024).
+- **Hoi An → DAD**
+  - Grab 4-seat 250,000–350,000 VND, 7-seat 350,000–450,000 VND (vietnamtourism.com, 7 Oct 2026). Advance booking up to 90 days ahead, at least 2h before; no guaranteed driver (grab.com).
+  - Taxis 300,000–450,000 VND (junglebosstours, Oct 2026); 450,000–600,000 VND (goodmorning-hoian, 2024).
+  - Barri Ann shared shuttle: 06:00, 07:00 and later, about 90 min, from US$6, one 24-inch bag.
+
 ## Descriptions not from this research
 The itinerary and guide also contain short descriptions of famous landmarks from general knowledge rather than from the sources above. They carry no prices, times or addresses:
 - the character of the three Hue tombs (Tu Duc's lake and pavilions, Khai Dinh's concrete and mosaic, Minh Mang's symmetry)

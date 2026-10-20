@@ -46,14 +46,20 @@
       return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
     });
   }
-  function plain(s) { return String(s == null ? '' : s).replace(/\*\*(.+?)\*\*/g, '$1').replace(/(^|[^*\w])\*(?!\*)(.+?)\*(?![*\w])/g, '$1$2'); }
+  var LINK = /\[([^\]]+)\]\((https:\/\/[^\s)]+)\)/g;
+  function plain(s) { return String(s == null ? '' : s).replace(LINK, '$1').replace(/\*\*(.+?)\*\*/g, '$1').replace(/(^|[^*\w])\*(?!\*)(.+?)\*(?![*\w])/g, '$1$2'); }
   var HEDGE = /\bsources?\b|\blistings?\b|listed as|can't (?:confirm|verify|vouch)|cannot confirm|reconfirm|disagree|inconsistent|\bvary\b|\bvaries\b|re-addressed|may be defunct|unsure/i;
   function hedgeTest(s) { return HEDGE.test(String(s).replace(/&#39;/g, "'")); }
 
-  /* Inline markdown as used in the itinerary: **bold**, *italic*. Uncertainty hedges are highlighted,
-     VND amounts emphasised, domains and phone numbers linked. Text is never altered. */
+  /* Inline markdown as used in the itinerary: **bold**, *italic*, [source](https://…) links. Uncertainty hedges are
+     highlighted, VND amounts emphasised, domains and phone numbers linked. Text is never altered.
+     Links are set aside first so their URLs are not run through the other rules. */
   function md(s) {
-    var h = esc(s);
+    var links = [];
+    var h = esc(String(s == null ? '' : s).replace(LINK, function (m, label, url) {
+      links.push('<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">' + esc(label) + '</a>');
+      return '\u0000' + (links.length - 1) + '\u0000';
+    }));
     h = h.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
     h = h.replace(/(^|[^*\w])\*(?!\*)(.+?)\*(?![*\w])/g, function (m, pre, inner) {
       return pre + (hedgeTest(inner) ? '<em class="hedge">' + inner + '</em>' : '<em>' + inner + '</em>');
@@ -63,7 +69,7 @@
     h = h.replace(/~?\d{1,3}(?:,\d{3})+(?:\s*[–-]\s*\d{1,3}(?:,\d{3})+)?\s*VND(?:\/[a-z]+)?/g, '<span class="money">$&</span>');
     h = h.replace(/\b([a-z][a-z0-9-]*\.(?:com|org\.vn|vn))\b/g, '<a href="https://$1" target="_blank" rel="noopener noreferrer">$1</a>');
     h = h.replace(/\+84(?: ?\d){9,10}/g, function (m) { return '<a href="tel:' + m.replace(/ /g, '') + '">' + m + '</a>'; });
-    return h;
+    return h.replace(/\u0000(\d+)\u0000/g, function (m, i) { return links[+i]; });
   }
   function noNum(h) { return String(h || '').replace(/^\d+\.\s*/, ''); }
   function hm(min) { return min == null ? '' : String(Math.floor(min / 60)).padStart(2, '0') + ':' + String(min % 60).padStart(2, '0'); }
@@ -600,6 +606,10 @@
           '<p style="margin-top:8px">' + md(b.why) + '</p>' + chipsHTML(b) + '</div>';
       }).join('') + T.route.notes.map(function (t) { return '<p>' + md(t) + '</p>'; }).join('') + '</div></details>';
     h += '<details class="sec"><summary><span class="sec-name">How to book each of these</span></summary><div class="sec-body">' + nodesHTML(T.legs.howto) + '</div></details>';
+    if (T.legs.other && T.legs.other.nodes.length) {
+      h += '<details class="sec"><summary><span class="sec-name">' + md(T.legs.other.heading) + '</span></summary>' +
+        '<div class="sec-body">' + nodesHTML(T.legs.other.nodes) + '</div></details>';
+    }
     T.route.background.forEach(function (g) {
       h += '<details class="sec"><summary><span class="sec-name">' + md(g.heading) + '</span></summary><div class="sec-body">' + nodesHTML(g.nodes) + '</div></details>';
     });

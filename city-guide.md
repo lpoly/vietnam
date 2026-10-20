@@ -60,6 +60,7 @@ Northern food is restrained, savoury, sour and herb-forward, with dill in places
 
 - **From the airport** — A pre-booked 16-seat van from Noi Bai Terminal 2, ~1 hour, ~1,200,000 VND. Don't rely on airport taxi touts with eight people and eight bags.
 - **Grab** — Download it before you fly and add a card. A Grab bike across the Old Quarter is 20,000–30,000 VND.
+- **Other ways from the airport** — Two 6-seat Grab cars from T2 car park P1 or P7 (about 250,000 VND for a 4-seater to the centre in April 2026). Or two metered taxis from the official rank, 280,000–400,000 VND each (sources disagree). Bus 86 runs to the Old Quarter's edge for 45,000–50,000 VND each, every 25–30 minutes. Sources: [Noi Bai Airport](https://www.noibaiairport.vn/en/public-transportations-nid1.html), [Grab, Aug 2026](https://www.grab.com/vn/en/blog/cap-nhat-diem-don-va-gia-cuoc-grabcar-tai-san-bay-noi-bai/), [Eternal Arrival, Apr 2026](https://eternalarrival.com/grab-at-hanoi-airport-noi-bai/).
 
 ### Good to know
 
@@ -108,6 +109,7 @@ It's one night and two full days, so the timing matters: the quiet places (Van L
 ### Getting around
 
 - **From Hanoi** — 100 km on the CT01 expressway, 2h15 by 16-seat van.
+- **Other ways from Hanoi** — The train: SE7 leaves Hanoi station at 06:00 and SE5 at 08:00, both 2h13 to Ninh Binh, from 113,000 VND, then a 10–15-minute taxi to Tam Coc. Or a limousine van: The Long Travel leaves Hoan Kiem hourly at :10, 2h30 to Tam Coc for 300,000 VND, and its 10 seats fit the eight of you. Sources: [Vietnam Railways timetable](https://cophanvantaiduongsat.vn/2026/07/03/duong-sat-mo-ban-ve-tau-khach-di-cac-tuyen-sau-he-2026/), [Baolau trains](https://www.baolau.com/en/s/Hanoi/Ninh-Binh/train), [Baolau buses](https://www.baolau.com/en/s/Hanoi/Ninh-Binh/bus).
 - **Bicycles** — From the hotel, free or ~50,000 VND a day: ride the lanes between Tam Coc and Ninh Hai through farmyards and paddies.
 
 ### Good to know
@@ -129,6 +131,7 @@ The biggest time win of the trip: **Train SE19** turns a 9-hour road slog into a
 
 - **Ninh Binh Railway Station** — 1 Hoang Dieu St (some listings say 41 Hoang Hoa Tham; the station has been re-addressed). Swap the e-ticket voucher for a paper ticket 30–60 minutes before departure.
 - **Dong Hoi station** — Thuan Ly St (now Quang Tri province, formerly Quang Binh). Two 7-seat transfers take you the 45 km to Phong Nha by about 06:30.
+- **Other trains and buses** — SE3 leaves Ninh Binh about 21:36 and reaches Dong Hoi about 04:45; SE1 leaves around midnight and arrives 06:30–07:21 (listings disagree). Sleeper and cabin buses go from Tam Coc straight to Phong Nha in the evening, 6–9 hours, 650,000 VND with HK Bus Lines or €13–22 with The Long Travel, Camel or Full Moon Party, but most arrive in the middle of the night. Sources: [Baolau trains](https://www.baolau.com/en/s/Ninh-Binh/Dong-Hoi/train), [Baolau buses](https://www.baolau.com/en/s/Ninh-Binh/Phong-Nha), [Gecko Routes](https://geckoroutes.com/vietnam/ninh-binh-to-phong-nha/).
 
 ## Phong Nha
 
@@ -172,7 +175,9 @@ River fish, eel, chicken and clay-pot braises: the plainest cooking on the route
 ### Getting around
 
 - **From the train** — Oxalis transfers, 650,000 VND per 7-seater, ~1 hour. Ask for early check-in: you arrive about 06:30.
+- **Other ways from the train** — Taxis wait outside Dong Hoi station, 400,000–600,000 VND per car (sources disagree), though no one confirms they're there at 05:00. A single 8-passenger minivan is €48 on Bookaway, and most Phong Nha hotels do station pickups. Sources: [Gecko Routes](https://www.geckoroutes.com/vietnam/dong-hoi-to-phong-nha/), [Phong Nha Farmstay](https://phongnhafarmstay.com/to-phong-nha/).
 - **To Hue** — A van via the **Vinh Moc Tunnels**, ~5 hours with the stop, 3,000,000–3,380,000 VND plus US$15–20 for the detour.
+- **Other ways to Hue** — The new Hue–Phong Nha tourist train, HQ1, leaves Tho Loc (about 20 km away) daily at 13:15 and reaches Hue at 17:25, 210,000–760,000 VND depending on the seat (sources disagree). TP Travel's buses leave Phong Nha at 09:00 and 11:30, about 4 hours, 350,000 VND. Neither stops at Vinh Moc. Sources: [Oxalis, tourist train](https://oxalisadventure.com/hue-phong-nha-tourist-train/), [Baolau, Phong Nha → Hue](https://www.baolau.com/s/Phong-Nha/Hue).
 
 ### Good to know
 
@@ -273,7 +278,9 @@ Hoi An's UNESCO old town is the reward: lanterns, the river, assembly halls and 
 ### Getting around
 
 - **The bikes** — One-way Hue → Hoi An with luggage transfer: **Hue Scooter Rental** (from US$25 per bike, drop-off at 200 Le Thanh Tong), **Motorvina** (from US$36 including bag transfer) or **Style Motorbikes**. Take **semi-automatic or manual 110–150 cc** for engine braking on the descent.
+- **Other ways from Hue** — For anyone who won't ride, or if it rains: a 12-seat van over the pass with the same stops, US$99 from Hue Private Cars, 5–7 hours. Or the Heritage Train to Da Nang and a 300,000–400,000 VND taxi on to Hoi An. Limousine buses take about 3 hours for 199,000–320,000 VND, but through the tunnel, so you miss the views. Sources: [Hue Private Cars](https://hueprivatecars.com/tour/hue-hoi-an-1-day/), [Good Morning Hoi An, Apr 2026](https://goodmorning-hoian.com/en/hue-to-hoi-an/).
 - **To the airport** — 40–50 minutes, up to 90 in heavy rain. Grab is scarce at night: book a car or van the evening before, 450,000–750,000 VND.
+- **Other ways to the airport** — Grab can be booked up to 90 days ahead, about 350,000–450,000 VND per 7-seater, but a driver isn't guaranteed. Taxis (Mai Linh 0236 356 5656, Vinasun 0236 368 6868) run 24 hours for 300,000–450,000 VND. Barri Ann's shared shuttle leaves at 06:00 and takes about 90 minutes. Sources: [Grab advance booking](https://www.grab.com/vn/transport/advance-booking/), [Da Nang Airport](https://danangairport.vn/airport-guide-arrival-guide), [Barri Ann Travel](https://barrianntravel.com/st_activity/shared-shuttle-bus-from-hoi-an-to-da-nang/).
 
 ### Good to know
 

@@ -1,6 +1,6 @@
 # Extraction report
 
-Generated 2026-10-19T11:54:07 from `vietnam-itinerary-12-21-dec.md`.
+Generated 2026-10-20T20:41:46 from `vietnam-itinerary-12-21-dec.md`.
 
 ## Warnings
 
@@ -230,7 +230,7 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
 - **Thien Mu dragon boat** → Day 8 rain; Day 8 activities; guide:hue
 - **Night train fares** → cl-night-train-se19-15-dec-two-4-berth-soft-sleeper-cabins
 - **Hoi An Ancient Town ticket** → Day 9 activities; guide:hai-van-pass-and-hoi-an; view:money
-- **SE19 departure from Ninh Binh** → Day 4 movements; Day 5 movements; guide:the-night-train; leg-3; cl-night-train-se19-15-dec-two-4-berth-soft-sleeper-cabins
+- **SE19 departure from Ninh Binh** → Day 4 movements; Day 5 movements; guide:the-night-train; guide:phong-nha; leg-3; cl-night-train-se19-15-dec-two-4-berth-soft-sleeper-cabins
 - **Ho Chi Minh Mausoleum on Sunday** → Day 2 activities; guide:hanoi
 - **Hue Imperial City hours** → Day 8 activities; guide:hue
 - **Water puppet show times** → Day 1 activities; guide:hanoi
@@ -278,6 +278,7 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
     - stay: Hanoi Emerald Waters Hotel & Spa → Hanoi Emerald Waters Hotel & Spa
     - move: From the airport → no map link
     - move: Grab → no map link
+    - move: Other ways from the airport → no map link
     - know: Dress for the mausoleum → no map link
     - know: Train Street → no map link
     - know: Crossing the road → no map link
@@ -301,6 +302,7 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
     - stay: Tam Coc Rice Fields Resort → Tam Coc Rice Fields Resort
     - stay: Tam Coc Garden → Tam Coc Garden · flags v-tam-coc-garden
     - move: From Hanoi → no map link
+    - move: Other ways from Hanoi → no map link
     - move: Bicycles → no map link
     - know: Keep two rooms until 21:00 → no map link
     - know: Boats split the group → no map link
@@ -308,6 +310,7 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
     - stay: Two 4-berth soft-sleeper cabins → no map link
     - move: Ninh Binh Railway Station → Ninh Binh Railway Station · flags v-administrative-reorganisation
     - move: Dong Hoi station → Dong Hoi station · flags v-administrative-reorganisation, v-se19-departure-from-ninh-binh
+    - move: Other trains and buses → no map link
 - **Phong Nha** — base Phong Nha, days [5, 6, 7]
     - glance: When → no map link
     - glance: Weather → no map link
@@ -327,7 +330,9 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
     - stay: Phong Nha Farmstay → Phong Nha Farmstay
     - stay: Thao Nguyen Homestay → Thao Nguyen Homestay
     - move: From the train → no map link
+    - move: Other ways from the train → no map link · flags v-se19-departure-from-ninh-binh
     - move: To Hue → Vinh Moc Tunnels
+    - move: Other ways to Hue → no map link
     - know: Cash → no map link
     - know: Hospital → no map link
     - know: Socks → no map link
@@ -375,7 +380,9 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
     - stay: River Suites Hoi An → River Suites Hoi An
     - stay: Hoi An Historic Hotel → Hoi An Historic Hotel
     - move: The bikes → no map link
+    - move: Other ways from Hue → no map link
     - move: To the airport → no map link
+    - move: Other ways to the airport → no map link
     - know: Motorbike licences → no map link · licence
     - know: If it rains, don't ride → no map link
     - know: If Hoi An floods → no map link · flags v-hoi-an-floods

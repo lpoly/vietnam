@@ -45,6 +45,7 @@ TIME = r"\d{1,2}:\d{2}"
 TIME_RANGE = rf"{TIME}(?:\s*[–-]\s*{TIME})?"
 BOLD = re.compile(r"\*\*(.+?)\*\*")
 ITAL = re.compile(r"(?<![*\w])\*(?!\*)(.+?)(?<!\*)\*(?![*\w])")
+LINK = re.compile(r"\[([^\]]+)\]\((https://[^\s)]+)\)")
 HEDGE = re.compile(
     r"\bsources?\b|\blistings?\b|listed as|can't (?:confirm|verify|vouch)|cannot confirm|"
     r"reconfirm|disagree|inconsistent|\bvary\b|\bvaries\b|re-addressed|may be defunct|unsure",
@@ -63,6 +64,7 @@ MONTHS = {m: i for i, m in enumerate(
 
 
 def plain(s):
+    s = LINK.sub(r"\1", s)
     s = BOLD.sub(r"\1", s)
     s = ITAL.sub(r"\1", s)
     return s
@@ -82,6 +84,7 @@ def tmin(t):
 
 
 def is_uncertain(text):
+    text = LINK.sub(r"\1", text)  # a source URL in parentheses is not a hedge
     for m in ITAL.finditer(text):
         if HEDGE.search(m.group(1)):
             return True
@@ -482,7 +485,10 @@ def parse_legs(sec, year):
             total.append(b.text)
     sub = find_sub(sec, "How to book")
     howto = generic(sub["blocks"])
-    return {"legs": legs, "total": total, "howto": howto}
+    # Optional: the alternatives to each leg, with their sources.
+    other = next(({"heading": s["title"], "nodes": generic(s["blocks"])} for s in sec["subs"]
+                  if s["title"].startswith("Other ways")), None)
+    return {"legs": legs, "total": total, "howto": howto, "other": other}
 
 
 # ---------------------------------------------------------------- days
