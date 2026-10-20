@@ -32,7 +32,8 @@
      "2026-12-13"
     ],
     "key": "hanoi",
-    "index": 0
+    "index": 0,
+    "line": 0
    },
    {
     "dates": "14 Dec",
@@ -45,7 +46,8 @@
      "2026-12-14"
     ],
     "key": "ninh-binh",
-    "index": 1
+    "index": 1,
+    "line": 1
    },
    {
     "dates": "15 Dec",
@@ -59,6 +61,7 @@
     ],
     "key": "night-train-se19",
     "index": 2,
+    "line": 2,
     "flags": [
      "v-se19-departure-from-ninh-binh"
     ]
@@ -75,7 +78,8 @@
      "2026-12-17"
     ],
     "key": "phong-nha",
-    "index": 3
+    "index": 3,
+    "line": 3
    },
    {
     "dates": "18–19 Dec",
@@ -89,7 +93,8 @@
      "2026-12-19"
     ],
     "key": "hue",
-    "index": 4
+    "index": 4,
+    "line": 4
    },
    {
     "dates": "20 Dec",
@@ -102,7 +107,8 @@
      "2026-12-20"
     ],
     "key": "hoi-an",
-    "index": 5
+    "index": 5,
+    "line": 5
    }
   ],
   "notes": [
@@ -7195,7 +7201,19 @@
   ]
  },
  "config": {
-  "timezone": "Asia/Ho_Chi_Minh"
+  "timezone": "Asia/Ho_Chi_Minh",
+  "variant": null,
+  "page": "index.html",
+  "versions": [
+   {
+    "page": "index.html",
+    "label": "Original route"
+   },
+   {
+    "page": "halong.html",
+    "label": "With Ha Long Bay"
+   }
+  ]
  },
  "guide": {
   "title": "Northern → Central Vietnam: the guide",
@@ -11888,5 +11906,5 @@
    "hero": false
   }
  },
- "generated": "2026-10-20T20:41:46"
+ "generated": "2026-10-20T20:56:29"
 }

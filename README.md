@@ -15,7 +15,12 @@ data/photos.json                 ← photo slots; add your own photos here
 data/extraction-report.md        ← what the parser found, and anything it could not place
 research-notes-2026-10.md        ← sources for every price and time changed in the October 2026 re-plan
 archive/                         ← the first version of the itinerary and guide, for reference
+
+vietnam-itinerary-12-21-dec-halong.md, city-guide-halong.md   ← the Ha Long Bay version (see below)
+halong.html, scripts/parse-config.halong.json, data/*-halong.*  ← its page, config and generated data
 ```
+
+**Two versions.** The original route is at `index.html`. The Ha Long Bay version, at `halong.html`, spends Hanoi's second night on an overnight cruise from Tuan Chau (Lan Ha route) and drives straight from the boat to Tam Coc; from 15 December it's identical. Each version's Guide home has a switch to the other, and each keeps its own ticks and settings. Why the night comes out of Hanoi, and what that costs, is in §1 of the Ha Long itinerary and in the research notes.
 
 **Version 2 (October 2026).** The route was re-planned around nature and landmarks, with food alongside: Cuc Phuong dropped, Hue at two nights with the royal tombs, and the last night in Hoi An instead of Da Nang. Prices, hours and hotels were re-researched. Every changed figure is traceable in `research-notes-2026-10.md`, and the old files are in `archive/`.
 
@@ -61,10 +66,13 @@ Node is not needed. There is no `npm start`, because there is nothing to build.
 ## Regenerate after editing the itinerary
 
 ```
-python scripts/parse-itinerary.py
+python scripts/parse-itinerary.py           # the original version
+python scripts/parse-itinerary.py halong    # the Ha Long Bay version
 ```
 
-Python 3.9+ with the standard library only. Then open `data/extraction-report.md` and check two sections:
+Python 3.9+ with the standard library only. Run both after changing anything the versions share (the parser, `parse-config.json`), and the one you edited otherwise. The Ha Long run reads `scripts/parse-config.halong.json` on top of the main config: its lists are added to the main ones, `remove` takes main entries out, and it writes `data/trip-halong.*`, `places-halong.json`, `photos-halong.json` and `extraction-report-halong.md`. The Ha Long markdown was made from the original, so a fact changed in one usually needs changing in the other.
+
+Then open the extraction report and check two sections:
 
 - **Warnings.** For example, a §12 item with no linking rule, or a config name that no longer appears in the markdown.
 - **Unrepresented text.** Any markdown block the parser could not place. Anything listed here is *not* on the site. It currently reads "none".
@@ -131,3 +139,4 @@ Map tiles come from Esri's World Street Map (server.arcgisonline.com). OpenStree
 9. **Every place in a city chapter goes on its city map.** For Hue that includes Vinh Moc, a stop on the drive from Phong Nha. The map frames the city and leaves pins like that at the edge.
 10. **Long Bien Bridge** is now described from its builder's plate (1899–1902, Daydé & Pillé), as seen in the Commons photo, rather than as "1903, Eiffel-designed".
 11. **Food tiles show the first sentence of each entry**, which is often the address and hours. The full entry is under "More".
+12. **Ha Long version: boat prices are "from" prices.** No December 2026 quote was found for any cruise, the Tuan Chau → Tam Coc van price is from a 2024 rate page, and the bay's pins (Lan Ha caves, Viet Hai) have no coordinates yet, only "Open in maps" links. The route map's Ha Long Bay station is the centre of Tuan Chau ward, not the pier itself.

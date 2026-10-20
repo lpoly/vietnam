@@ -1,0 +1,38 @@
+{
+  "_readme": "The Ha Long Bay version. Read on top of parse-config.json by `python scripts/parse-itinerary.py halong`: lists here are added to the main lists, other values replace them, and `remove` takes entries out of the main lists by subject, place or name.",
+  "source": "vietnam-itinerary-12-21-dec-halong.md",
+  "guide_source": "city-guide-halong.md",
+  "page": "halong.html",
+  "_base_lines": "Ha Long Bay gets the seventh line colour so the other stops keep their colours from the original version.",
+  "base_lines": {"Ha Long Bay": 6},
+  "verify_links": [
+    {"subject": "Ha Long and Lan Ha cruises", "match": "US[$]150|US[$]175|US[$]180|Ha Long cruise"},
+    {"subject": "Tuan Chau → Tam Coc van", "match": "US[$]120"},
+    {"subject": "Cruise sailing on 13 Dec", "match": "Tuan Chau|cruise"},
+    {"subject": "Cruise boarding and return", "match": "Check in and board|back at Tuan Chau|10:30–11:00"}
+  ],
+  "place_exclude": [
+    "Ha Long Bay",
+    "Tuan Chau harbour",
+    "Swimming",
+    "Sunset and the evening on deck",
+    "Fog and wind can",
+    "These are \"from\" prices"
+  ],
+  "guide_not_places": [
+    "Kayaking or a bamboo boat"
+  ],
+  "commons": [
+    {
+      "caption": "Lan Ha Bay",
+      "place": "Lan Ha Bay",
+      "file": "File:Lan Ha bay jonques.jpg",
+      "hero": true
+    }
+  ],
+  "remove": {
+    "verify_links": ["Stilt House", "Hoa Lo Prison", "Ho Chi Minh Mausoleum on Sunday", "Temple of Literature night tour", "Hanoi cooking classes"],
+    "place_exclude": ["Temple of Literature night tour"],
+    "commons": ["Ho Chi Minh Mausoleum"]
+  }
+}

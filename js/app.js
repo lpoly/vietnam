@@ -13,17 +13,19 @@
   /* ------------------------------------------------------------------ storage (never throws) */
   var mem = {};
   var storageOk = true;
+  // Each itinerary version keeps its own ticks and settings.
+  var NS = 'vn:' + (T.config.variant ? T.config.variant + ':' : '');
   var store = {
     get: function (k, d) {
       try {
-        var v = window.localStorage.getItem('vn:' + k);
+        var v = window.localStorage.getItem(NS + k);
         if (v != null) return JSON.parse(v);
       } catch (e) { storageOk = false; }
       return Object.prototype.hasOwnProperty.call(mem, k) ? mem[k] : d;
     },
     set: function (k, v) {
       mem[k] = v;
-      try { window.localStorage.setItem('vn:' + k, JSON.stringify(v)); return true; } catch (e) { storageOk = false; return false; }
+      try { window.localStorage.setItem(NS + k, JSON.stringify(v)); return true; } catch (e) { storageOk = false; return false; }
     }
   };
   function obj(v) { return v && typeof v === 'object' && !Array.isArray(v) ? v : {}; }
@@ -134,8 +136,8 @@
 
   /* ------------------------------------------------------------------ lookups */
   var baseIdx = {};
-  T.route.bases.forEach(function (b, i) { baseIdx[b.short] = i; });
-  function lineVar(short) { return short in baseIdx ? 'var(--line-' + (baseIdx[short] % 6) + ')' : 'var(--line-x)'; }
+  T.route.bases.forEach(function (b, i) { baseIdx[b.short] = b.line != null ? b.line : i; });
+  function lineVar(short) { return short in baseIdx ? 'var(--line-' + (baseIdx[short] % 7) + ')' : 'var(--line-x)'; }
   function lineStyle(short) { return 'style="--line:' + lineVar(short) + '"'; }
   var verifyById = {};
   T.verify.items.forEach(function (v) { verifyById[v.id] = v; });
@@ -963,7 +965,7 @@
   function hasCoords(pid) { var c = T.places[pid] && T.places[pid].coords; return Array.isArray(c) && c.length === 2; }
   function cssLine(short) {
     var cs = getComputedStyle(document.documentElement);
-    return (cs.getPropertyValue(short in baseIdx ? '--line-' + (baseIdx[short] % 6) : '--line-x') || '#444').trim();
+    return (cs.getPropertyValue(short in baseIdx ? '--line-' + (baseIdx[short] % 7) : '--line-x') || '#444').trim();
   }
   var MAPQ = [];          // maps waiting to be drawn after the view renders
   var mapsLive = [];
@@ -1017,7 +1019,10 @@
         L.polyline([bc[a.base], bc[b.base]], { color: cssLine(b.base), weight: 5, opacity: 1, dashArray: viaTrain ? '2 10' : null, lineCap: 'round' }).addTo(m);
       }
       stops.forEach(function (c, i) {
-        var icon = L.divIcon({ className: 'station-pin', iconSize: [30, 30], iconAnchor: [15, 15],
+        // Label on the left when another stop sits just to the east at about the same latitude (Hanoi, with Ha Long).
+        var p = bc[c.base];
+        var crowded = stops.some(function (o) { var q = bc[o.base]; return o !== c && q[1] > p[1] && q[1] - p[1] < 1.6 && Math.abs(q[0] - p[0]) < 0.6; });
+        var icon = L.divIcon({ className: 'station-pin' + (crowded ? ' left' : ''), iconSize: [30, 30], iconAnchor: [15, 15],
           html: '<span style="--line:' + cssLine(c.base) + '"></span><b>' + esc(plain(c.base)) + '</b>' });
         L.marker(bc[c.base], { icon: icon, keyboard: true, title: plain(c.title) }).addTo(m)
           .on('click', function () { location.hash = '#/city/' + c.id; });
@@ -1027,11 +1032,21 @@
     return '<div class="route-map" id="route-map" role="img" aria-label="Map of the route from Hanoi to Hoi An"></div>';
   }
 
+  /* Links between the itinerary versions (one page each), from parse-config.json. */
+  function versionsHTML() {
+    var vs = T.config.versions || [];
+    if (vs.length < 2) return '';
+    return '<nav class="versions" aria-label="Itinerary versions">' + vs.map(function (v) {
+      var here = v.page === T.config.page;
+      return '<a class="fchip" href="' + esc(v.page) + '"' + (here ? ' aria-current="page"' : '') + '>' + esc(v.label) + '</a>';
+    }).join('') + '</nav>';
+  }
+
   function viewGuide() {
     var ctx = todayCtx();
     var h = '<section class="home-hero">' + routeMapHTML() +
       '<div class="home-title"><h1>' + esc(plain(G.title || T.title).replace(/: the guide$/, '')) + '</h1>' +
-      '<p>' + esc(firstSentence(G.intro[0])) + '</p></div></section>';
+      '<p>' + esc(firstSentence(G.intro[0])) + '</p>' + versionsHTML() + '</div></section>';
     if (ctx.inTrip) {
       h += '<a class="today-banner" href="#/today"><span class="pill live">Day ' + ctx.day.n + '</span><span><b>' + md(ctx.day.label) + '</b>' +
         '<span class="small">See what’s happening today</span></span>' + ic('arrow') + '</a>';

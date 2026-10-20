@@ -4,6 +4,7 @@ Wikimedia Commons photos for the six well-known sights only (see "commons" in pa
 
     python scripts/fetch-commons.py search "Long Bien Bridge"   # list candidate files + licences to review
     python scripts/fetch-commons.py fetch                        # download the files named in parse-config.json
+    python scripts/fetch-commons.py fetch halong                 # the same for the Ha Long version (parse-config.halong.json)
 
 `fetch` downloads a 1280px rendition of each chosen file into img/commons/, records the author,
 licence and source page in data/photos.json, then re-runs the parser so the site picks it up.
@@ -68,9 +69,15 @@ def search(q):
         print(f"{ok}{t}\n    {i['width']}x{i['height']} {i['licence']} by {i['author'][:60]}\n    {i['description']}\n    {i['thumb']}\n")
 
 
-def fetch():
+def fetch(variant=None):
     cfg = json.loads(CFG_PATH.read_text("utf-8"))
-    photos = json.loads(PHOTOS.read_text("utf-8"))
+    photos_path = PHOTOS
+    if variant:
+        vcfg = json.loads((ROOT / "scripts" / f"parse-config.{variant}.json").read_text("utf-8"))
+        gone = set(vcfg.get("remove", {}).get("commons", []))
+        cfg["commons"] = [c for c in cfg["commons"] if c["place"] not in gone] + vcfg.get("commons", [])
+        photos_path = ROOT / "data" / f"photos-{variant}.json"
+    photos = json.loads(photos_path.read_text("utf-8"))
     slots = {s["caption"]: s for s in photos["slots"]}
     chosen = [c for c in cfg["commons"] if c.get("file")]
     if not chosen:
@@ -101,14 +108,14 @@ def fetch():
         slot["credit"] = {"author": i["author"] or "Unknown", "licence": i["licence"], "licenceUrl": i["licenceUrl"],
                           "sourceUrl": i["page"], "title": i["title"], "via": "Wikimedia Commons"}
         print(f"ok  {c['caption']}: {i['title']} ({i['licence']}, {i['author'][:50]})")
-    PHOTOS.write_text(json.dumps(photos, ensure_ascii=False, indent=1) + "\n", "utf-8")
-    subprocess.run([sys.executable, str(ROOT / "scripts" / "parse-itinerary.py")], check=False)
+    photos_path.write_text(json.dumps(photos, ensure_ascii=False, indent=1) + "\n", "utf-8")
+    subprocess.run([sys.executable, str(ROOT / "scripts" / "parse-itinerary.py")] + ([variant] if variant else []), check=False)
 
 
 if __name__ == "__main__":
     if len(sys.argv) >= 3 and sys.argv[1] == "search":
         search(" ".join(sys.argv[2:]))
-    elif len(sys.argv) == 2 and sys.argv[1] == "fetch":
-        fetch()
+    elif len(sys.argv) in (2, 3) and sys.argv[1] == "fetch":
+        fetch(sys.argv[2] if len(sys.argv) == 3 else None)
     else:
         print(__doc__)

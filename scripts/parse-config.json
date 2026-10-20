@@ -2,6 +2,12 @@
   "_readme": "Structural hints for parse-itinerary.py. Every string here must appear verbatim in the markdown; the parser warns if one no longer does. This file never adds content to the site - it only tells the parser how to classify text that is already in the file.",
   "source": "vietnam-itinerary-12-21-dec.md",
   "timezone": "Asia/Ho_Chi_Minh",
+  "_versions": "One page per itinerary version, shown as a switch on the Guide home. A variant config (parse-config.<name>.json) overrides `page`.",
+  "page": "index.html",
+  "versions": [
+    {"page": "index.html", "label": "Original route"},
+    {"page": "halong.html", "label": "With Ha Long Bay"}
+  ],
   "_place_exclude": "Bold spans that look like proper nouns but are not places (dishes, operators, labels, instructions).",
   "place_exclude": [
     "Grab",

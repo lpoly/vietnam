@@ -29,6 +29,7 @@ main.flush-top { padding-top: 0; }
   position: absolute; left: 34px; top: 4px; white-space: nowrap; font: 800 14px/1 var(--font); color: #000;
   background: #fff; padding: 4px 7px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0, 0, 0, .25);
 }
+.station-pin.left b { left: auto; right: 34px; }
 .leaflet-container { font-family: var(--font); }
 .leaflet-container a.leaflet-popup-close-button { width: 32px; height: 32px; font-size: 22px; }
 .leaflet-popup-content { font-size: 15px; line-height: 1.4; }
@@ -172,3 +173,7 @@ details.why > summary { font-size: 14px; min-height: 36px; }
   .food-tile { flex-basis: 300px; }
   .city-hero h1 { font-size: 60px; }
 }
+
+/* Version switch on the home card: one link per itinerary version. */
+.versions { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 0; }
+.versions .fchip[aria-current="page"] { background: var(--ink); border-color: var(--ink); color: var(--surface); }

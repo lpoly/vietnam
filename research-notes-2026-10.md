@@ -177,6 +177,30 @@ Sources for §2 "Other ways to do each leg" and the guide's "Other ways…" entr
   - Taxis 300,000–450,000 VND (junglebosstours, Oct 2026); 450,000–600,000 VND (goodmorning-hoian, 2024).
   - Barri Ann shared shuttle: 06:00, 07:00 and later, about 90 min, from US$6, one 24-inch bag.
 
+## Ha Long Bay version (researched 20 Oct 2026)
+
+Sources for `vietnam-itinerary-12-21-dec-halong.md` and `city-guide-halong.md`. Most Ha Long material online comes from cruise operators and booking sites, and they often disagree.
+
+- **Why one Hanoi night, not a Phong Nha night or a day trip**
+  - My own judgement, not a source. 12 Dec is too late to board (land ~10:30; boats board ~12:00, 2.5–3 h from the airport). A day cruise on 14 Dec means ~6 h of driving and no night on the water. Giving up a Phong Nha night loses the Paradise Cave day and puts the Oxalis trek straight after the train. Taking the Hanoi night keeps every booking from 15 Dec, and the original Day 2 is the fog fallback.
+  - The research agent preferred taking the Phong Nha night instead.
+- **Weather and sailing**
+  - December: highs ~22°C, lows ~15°C, sea ~21–23°C, ~19–24 mm of rain over 5–7 days (Wikipedia climate table; weather2travel; Bhaya, 18 May 2026). Mornings often misty, clearing by midday (Bhaya).
+  - December–February fog and northeast-monsoon wind can suspend departures. The decision rests with the bay management board and port authority, on the day or the afternoon before. Ha Long and Lan Ha are under different authorities. "Complete cruise cancellations are very rare." Bhaya refunds 100% if cancelled before leaving Hanoi (bhayacruises.com/blog/halong-bay-on-storm, updated 2026).
+  - Crowds: Ha Long busiest, Lan Ha moderate, Bai Tu Long quietest (besthalongcruise.com, 29 Apr 2026; Tonkin Travel, 20 Nov 2025; fewdayshalong, Jul 2026).
+- **Bays and boats**
+  - Ha Long–Lan Ha connecting route licensed from 20 Apr 2026, overnight only (Nhan Dan, 21 Apr 2026).
+  - Indochine Cruise (Lan Ha, from Tuan Chau): from US$150 pp. Indochine Premium (Ha Long, 37 cabins): from US$175 pp, inclusions as listed (indochinasails.com). Check-in 11:30–11:45, back at Tuan Chau ~11:00.
+  - Heritage Binh Chuan (Lan Ha, 20 suites): from US$180 pp; Delta Suite US$420 per cabin (Q&A quote); check-in from 12:10, check-out 10:00; Hanoi pickup with Ninh Binh drop-off US$35 pp (halongbaytours.com, 2 Apr 2026).
+  - Orchid Premium has 5 suites (orchidcruises.com). No December 2026 date-specific price found for any boat.
+- **Transfers**
+  - Hanoi → Tuan Chau: ~130 km, 2.5–3.5 h; pickups 07:30–09:00; shuttle US$30–40 pp round trip (Local Vietnam, 3 Jul 2026; indochinatour, 27 May 2026). Seaplane stopped 1 Apr 2026 (Local Vietnam; Bhaya). 16-seat car "max 8 passengers" 2,700,000 VND Hanoi → Ha Long (Hoabinh Tourist rate sheet, undated).
+  - Tuan Chau → Tam Coc: 190–215 km, 3–4 h direct, 5–6 h via Hanoi (Local Vietnam, 3 Jul 2026); 204 km, 3h20, from €33 pp (Daytrip). Vivu Halong 16-seat US$120 one way (rate page ©2024). Cat Ba Express 11:40, ~3 h, from US$15. The Long Travel hourly 06:00–18:00, 460,000 VND (Baolau). Private US$85–130 (bestofninhbinh, Jul 2026).
+- **Fees and names**
+  - Ha Long routes VHL1–VHL5: 290,000–310,000 VND day (mia.vn 2026; daytripsvietnam, 20 May 2026); overnight fee for 2026 not found. Lan Ha 400,000 VND for 1 night (asiantrails, 1 Aug 2024). Usually included in cruise prices.
+  - Quang Ninh became a centrally governed city on 1 Sep 2026 (Resolution 36/2026/QH16); Tuan Chau is a ward (Resolution 1679/NQ-UBTVQH15). Lan Ha is in Hai Phong (Cat Hai special zone).
+- **Descriptions from general knowledge:** Sung Sot as the bay's "big show cave" and Ti Top as a "climb to a viewpoint".
+
 ## Descriptions not from this research
 The itinerary and guide also contain short descriptions of famous landmarks from general knowledge rather than from the sources above. They carry no prices, times or addresses:
 - the character of the three Hue tombs (Tu Duc's lake and pavilions, Khai Dinh's concrete and mosaic, Minh Mang's symmetry)
