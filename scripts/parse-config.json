@@ -1,0 +1,428 @@
+{
+  "_readme": "Structural hints for parse-itinerary.py. Every string here must appear verbatim in the markdown; the parser warns if one no longer does. This file never adds content to the site - it only tells the parser how to classify text that is already in the file.",
+  "source": "vietnam-itinerary-12-21-dec.md",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "_place_exclude": "Bold spans that look like proper nouns but are not places (dishes, operators, labels, instructions).",
+  "place_exclude": [
+    "Grab",
+    "Ninh Hải",
+    "Nam Hoa Lư",
+    "Ninh Binh city",
+    "HĐ1",
+    "HĐ3",
+    "Culture Pham Travel",
+    "Style Motorbikes",
+    "Motorvina",
+    "Bún Bò Huế",
+    "Hue rice cakes",
+    "Bánh khoái",
+    "Mì Quảng",
+    "Phong Nha town",
+    "Motorbikes, Bong Lai valley loop",
+    "Van, Phong Nha → Hue",
+    "The Heritage Train, Hue → Da Nang",
+    "Oxalis",
+    "Tam Coc",
+    "Hoi An",
+    "Cơm hến",
+    "Train SE19 → Dong Hoi, arriving 05:16",
+    "Motorbikes, Bong Lai valley loop",
+    "Van, Phong Nha → Hue",
+    "Hoan Kiem Lake and Ngoc Son Temple",
+    "Temple of Literature night tour",
+    "Hoi An: cao lầu",
+    "Or",
+    "Bún bò Huế",
+    "The site thanglongwaterpuppet.org is not the theatre's",
+    "Because the train leaves at night",
+    "Back by dragon boat",
+    "Hue, before the bikes",
+    "Hue Private Cars",
+    "Hue Scooter Rental / Hidden Land Travel",
+    "Hang Tien Cave Day Trek",
+    "Oxalis Tu Lan Experience (1 day)",
+    "Bong Lai valley by scooter"
+  ],
+  "place_exclude_prefixes": [
+    "Reserve",
+    "Book",
+    "Go ",
+    "Eat ",
+    "Put ",
+    "Skip",
+    "Tell ",
+    "Pack ",
+    "Cash ",
+    "Be ",
+    "Take ",
+    "If ",
+    "Or ",
+    "This is",
+    "Moderate",
+    "Flag",
+    "Ride ",
+    "Decide",
+    "Declare",
+    "Age ",
+    "All ",
+    "Budget",
+    "Note",
+    "Group",
+    "Season",
+    "Difficulty",
+    "Bikes",
+    "Route",
+    "Fuel",
+    "Luggage",
+    "Reservations",
+    "What ",
+    "On the",
+    "Mì Quảng is",
+    "Goes ",
+    "Arrive",
+    "Motorbikes are",
+    "The reason",
+    "The honest",
+    "The December",
+    "The alternative",
+    "The Heritage",
+    "Ticket",
+    "A market-to-table",
+    "Rent ",
+    "Order",
+    "Ask ",
+    "Say ",
+    "Stand ",
+    "Do ",
+    "Download",
+    "Immediately",
+    "Now",
+    "Anytime",
+    "Return flights",
+    "Night train",
+    "Hanoi hotel",
+    "Hue hotel",
+    "Ninh Binh homestay",
+    "Phong Nha accommodation",
+    "Da Nang hotel",
+    "Travel insurance",
+    "Trang An tickets",
+    "Confirm",
+    "Bomb Crater Bar and",
+    "Boats"
+  ],
+  "_place_include": "Bold spans the rules would reject but which are places.",
+  "place_include": [
+    "the Pub With Cold Beer"
+  ],
+  "_extra_places": "Places named in plain text (not bold) that should get a map link and photo slot. 'day' and 'section' say where they belong.",
+  "extra_places": [
+    {
+      "name": "Ngoc Son Temple",
+      "day": 1,
+      "section": "activities"
+    },
+    {
+      "name": "Hoan Kiem Lake",
+      "day": 1,
+      "section": "activities"
+    }
+  ],
+  "_verify_links": "Ties each item of section 12 ('Verify before you go') to the items it affects. 'subject' is the bold lead of the section-12 entry. 'match' (and optional 'require') are regexes tested against each item's text. 'views' adds the flag to whole views.",
+  "verify_links": [
+    {
+      "subject": "Administrative reorganisation",
+      "match": "July 2025|Quang Tri|re-addressed|drop-off address",
+      "views": [
+        "maps"
+      ]
+    },
+    {
+      "subject": "Van Long",
+      "match": "Van Long",
+      "require": "50,000|60,000|100,000"
+    },
+    {
+      "subject": "Phong Nha Cave boat",
+      "match": "per boat"
+    },
+    {
+      "subject": "Paradise Cave",
+      "match": "Paradise Cave",
+      "require": "270,000"
+    },
+    {
+      "subject": "Dark Cave",
+      "match": "Dark Cave",
+      "require": "350,000|450,000"
+    },
+    {
+      "subject": "Stilt House",
+      "match": "[Ss]tilt [Hh]ouse",
+      "require": "25,000|40,000"
+    },
+    {
+      "subject": "Hoa Lo Prison",
+      "match": "Hoa Lo Prison",
+      "require": "VND"
+    },
+    {
+      "subject": "Vinh Moc Tunnels",
+      "match": "Vinh Moc Tunnels",
+      "require": "50,000|100,000"
+    },
+    {
+      "subject": "Marble Mountains",
+      "match": "Marble Mountains",
+      "require": "40,000|80,000"
+    },
+    {
+      "subject": "Thien Mu dragon boat",
+      "match": "[Dd]ragon boat"
+    },
+    {
+      "subject": "Night train fares",
+      "match": "1,140,000"
+    },
+    {
+      "subject": "Hoi An Ancient Town ticket",
+      "match": "Hoi An Ancient Town|Ancient Town",
+      "require": "120,000"
+    },
+    {
+      "subject": "SE19 departure from Ninh Binh",
+      "match": "Train SE19|train SE19|Dong Hoi station"
+    },
+    {
+      "subject": "Ho Chi Minh Mausoleum on Sunday",
+      "match": "Ho Chi Minh Mausoleum",
+      "require": "11:00"
+    },
+    {
+      "subject": "Hue Imperial City hours",
+      "match": "Hue Imperial City|Imperial City \\(Đại Nội\\)",
+      "require": "07:00|06:30"
+    },
+    {
+      "subject": "Water puppet show times",
+      "match": "Water Puppet Theatre"
+    },
+    {
+      "subject": "Temple of Literature night tour",
+      "match": "night tour",
+      "require": "199,000"
+    },
+    {
+      "subject": "Heritage train HĐ1 departure from Hue",
+      "match": "HĐ1"
+    },
+    {
+      "subject": "Oxalis seasons",
+      "match": "Tu Lan Experience \\(1 day\\)|Hang Tien Cave Day Trek|Hang En"
+    },
+    {
+      "subject": "Hanoi hotels",
+      "match": "La Siesta|Essence"
+    },
+    {
+      "subject": "Tam Coc Garden",
+      "match": "Tam Coc Garden"
+    },
+    {
+      "subject": "Hanoi cooking classes",
+      "match": "Cooking Centre|[Cc]ooking class"
+    },
+    {
+      "subject": "Phong Nha restaurants",
+      "match": "Bamboo Restaurant|Bomb Crater Bar"
+    },
+    {
+      "subject": "Individual goat restaurants in Tam Coc",
+      "match": "goat restaurant|Đức Dê|nhà hàng dê|goat dinner"
+    },
+    {
+      "subject": "Mì Quảng Bà Mua branches",
+      "match": "Bà Mua"
+    },
+    {
+      "subject": "Bún bò Huế opening hours",
+      "match": "Bà Tuyết"
+    },
+    {
+      "subject": "Hoi An floods",
+      "match": "Hoi An floods|Hoi An is flooding"
+    },
+    {
+      "subject": "Exchange rate",
+      "match": "^$",
+      "views": [
+        "money",
+        "route"
+      ]
+    },
+    {
+      "subject": "Visa",
+      "match": "^$",
+      "views": [
+        "checklist",
+        "reference"
+      ]
+    }
+  ],
+  "_risk_links": "Ties a section-11 subsection to the items it affects.",
+  "risk_links": [
+    {
+      "risk": "Motorbike licensing — read this before you book bikes",
+      "days": [
+        7,
+        9
+      ],
+      "sections": [
+        "movements"
+      ],
+      "match": "[Ss]cooter|[Mm]otorbike|bikes"
+    },
+    {
+      "risk": "Motorbike licensing — read this before you book bikes",
+      "checklist": true,
+      "match": "IDP|[Mm]otorbike|motorcycle cover"
+    },
+    {
+      "risk": "Motorbike licensing — read this before you book bikes",
+      "guide": true,
+      "match": "IDP|best on a scooter|one-way rentals|Honda Vision|[Mm]otorbike licen"
+    }
+  ],
+  "_commons": "Wikimedia Commons images for the six well-known sights only. 'caption' must appear verbatim in the markdown. 'place' is the detected place name the photo attaches to. Run scripts/fetch-commons.py after editing.",
+  "commons": [
+    {
+      "caption": "Hoan Kiem Lake",
+      "place": "Hoan Kiem Lake",
+      "file": "File:Sunbeam Bridge, Hoan Kiem Lake, Hanoi (3) (26721020059).jpg",
+      "hero": true
+    },
+    {
+      "caption": "Long Bien Bridge",
+      "place": "Long Bien Bridge",
+      "file": "File:Long-bien-bridge-3371617.jpg",
+      "hero": false
+    },
+    {
+      "caption": "Temple of Literature",
+      "place": "Temple of Literature",
+      "file": "File:Constellation of Literature pavilion - Temple of Literature, Hanoi - DSC04557.JPG",
+      "hero": false
+    },
+    {
+      "caption": "Ho Chi Minh Mausoleum",
+      "place": "Ho Chi Minh Mausoleum",
+      "file": "File:Ho chi minh mausoleum.jpg",
+      "hero": false
+    },
+    {
+      "caption": "Trang An",
+      "place": "Trang An, Route 2",
+      "file": "File:Tour boats at Trang An Landscape Complex, Ninh Binh Province, Vietnam, 20240202 1446 5308.jpg",
+      "hero": true
+    },
+    {
+      "caption": "Mua Cave",
+      "place": "Mua Cave (Hang Múa)",
+      "file": "File:Dragon Mountain (29843112887).jpg",
+      "hero": false
+    },
+    {
+      "caption": "Van Long",
+      "place": "Van Long Nature Reserve",
+      "file": "File:Van Long Nature Reserve Lowland Wetland Halong Bay Ninh Binh Limestone Karst Red River Delta (49234).jpg",
+      "hero": false
+    },
+    {
+      "caption": "Paradise Cave",
+      "place": "Paradise Cave (Thiên Đường)",
+      "file": "File:Cueva Paraíso, Phong Nha, Vietnam (36277324796).jpg",
+      "hero": true
+    },
+    {
+      "caption": "Phong Nha Cave",
+      "place": "Phong Nha Cave by boat",
+      "file": "File:Dong Hoi Phong Nha grotten (68776).jpg",
+      "hero": false
+    },
+    {
+      "caption": "Vinh Moc Tunnels",
+      "place": "Vinh Moc Tunnels",
+      "file": "File:Địa đạo Vịnh Mốc.jpg",
+      "hero": false
+    },
+    {
+      "caption": "Hue Imperial City",
+      "place": "Hue Imperial City (Đại Nội)",
+      "file": "File:Huế (2024) - Meridian Gate - Ngọ Môn (Hoàng thành Huế) - img 02.jpg",
+      "hero": true
+    },
+    {
+      "caption": "Tomb of Tu Duc",
+      "place": "Tomb of Tu Duc",
+      "file": "File:Hue Vietnam Tomb-of-Emperor-Tu-Duc-05.jpg",
+      "hero": false
+    },
+    {
+      "caption": "Tomb of Khai Dinh",
+      "place": "Tomb of Khai Dinh",
+      "file": "File:Khai Dinh Mausoleum Hue (27767160179).jpg",
+      "hero": false
+    },
+    {
+      "caption": "Tomb of Minh Mang",
+      "place": "Tomb of Minh Mang",
+      "file": "File:Hue Vietnam Tomb-of-Emperor-Minh-Mang-01.jpg",
+      "hero": false
+    },
+    {
+      "caption": "Thien Mu Pagoda",
+      "place": "Thien Mu Pagoda",
+      "file": "File:Hue Vietnam Thien-Mu-Temple-and-Pagoda-01.jpg",
+      "hero": false
+    },
+    {
+      "caption": "Lang Co",
+      "place": "Lang Co / Lap An Lagoon",
+      "file": "File:Lăng Cô, Hải Vân Pass, 2020-01 CN-04.jpg",
+      "hero": false
+    },
+    {
+      "caption": "Hai Van Pass",
+      "place": "Hai Van Pass",
+      "file": "File:Hai Van Pass, Vietnam, View southwards.jpg",
+      "hero": false
+    },
+    {
+      "caption": "Marble Mountains",
+      "place": "Marble Mountains",
+      "file": "File:Da Nang Marble Mountains 2020 IMG 4008.jpg",
+      "hero": false
+    },
+    {
+      "caption": "Hoi An Ancient Town",
+      "place": "Hoi An Ancient Town",
+      "file": "File:Hội An, Chùa Cầu, 2020-01 CN-03.jpg",
+      "hero": true
+    }
+  ],
+  "guide_source": "city-guide.md",
+  "_guide_not_places": "Bold leads in city-guide.md that read like names but are not places to put on a map.",
+  "guide_not_places": [
+    "Anywhere central",
+    "Eat before you board",
+    "Hang Tien Cave Day Trek",
+    "Hoan Kiem Lake and Ngoc Son Temple",
+    "Lantern boat on the Thu Bon",
+    "Optional Hoi An evening",
+    "Oxalis Tu Lan Experience (1 day)",
+    "The coast road out of Hue",
+    "The riverfront and Truong Tien Bridge",
+    "The weekend night market",
+    "Two 4-berth soft-sleeper cabins"
+  ]
+}

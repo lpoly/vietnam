@@ -1,0 +1,7 @@
+# Keep the source material and tooling off the public site.
+scripts/
+*.md
+data/extraction-report.md
+.git/
+data/places.candidates.json
+archive/
