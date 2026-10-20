@@ -181,9 +181,11 @@ Sources for §2 "Other ways to do each leg" and the guide's "Other ways…" entr
 
 Sources for `vietnam-itinerary-12-21-dec-halong.md` and `city-guide-halong.md`. Most Ha Long material online comes from cruise operators and booking sites, and they often disagree.
 
-- **Why one Hanoi night, not a Phong Nha night or a day trip**
-  - My own judgement, not a source. 12 Dec is too late to board (land ~10:30; boats board ~12:00, 2.5–3 h from the airport). A day cruise on 14 Dec means ~6 h of driving and no night on the water. Giving up a Phong Nha night loses the Paradise Cave day and puts the Oxalis trek straight after the train. Taking the Hanoi night keeps every booking from 15 Dec, and the original Day 2 is the fog fallback.
-  - The research agent preferred taking the Phong Nha night instead.
+- **Why the night comes out of Phong Nha** (a planning decision, not a source)
+  - Hanoi keeps two nights: one jet-lagged afternoon is not enough for the capital (the group's call, 20 Oct 2026). 12 Dec is too late to board anyway (land ~10:30; boats board ~12:00, 2.5–3 h from the airport).
+  - A day cruise on 14 Dec keeps every night but means ~6 h of driving and no night on the water. Ninh Binh is already one night.
+  - With one Phong Nha day, the show caves (Phong Nha Cave, Paradise Cave) stay and the Oxalis trek becomes an optional swap: the train arrives 05:16 and Oxalis picks up at 07:00–07:30, a lot for a mixed group straight off a sleeper.
+  - SE19 now runs on 16 Dec; no December timetable was out when this was written.
 - **Weather and sailing**
   - December: highs ~22°C, lows ~15°C, sea ~21–23°C, ~19–24 mm of rain over 5–7 days (Wikipedia climate table; weather2travel; Bhaya, 18 May 2026). Mornings often misty, clearing by midday (Bhaya).
   - December–February fog and northeast-monsoon wind can suspend departures. The decision rests with the bay management board and port authority, on the day or the afternoon before. Ha Long and Lan Ha are under different authorities. "Complete cruise cancellations are very rare." Bhaya refunds 100% if cancelled before leaving Hanoi (bhayacruises.com/blog/halong-bay-on-storm, updated 2026).

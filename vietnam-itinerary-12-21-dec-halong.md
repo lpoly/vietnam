@@ -2,11 +2,11 @@
 
 **Group:** 6–8 adults · **Riders:** all experienced, motorcycle licences held · **Hiking:** mixed appetite, need easy and hard options · **Priorities:** nature and the must-see landmarks first; good food alongside, not instead
 
-**Dates fall on a weekend you should know about:** 12 December 2026 is a **Saturday**. So Hanoi is a Saturday (good for the Hoan Kiem walking street and night market), the bay cruise is Sunday night, Ninh Binh is Mon–Tue (fewer domestic coaches), and Hue is Fri–Sat (busier, book early). Departure day, 21 December, is a Monday: Da Nang → Hanoi in the morning, then the long way home via Shanghai and Athens.
+**Dates fall on a weekend you should know about:** 12 December 2026 is a **Saturday**. So Hanoi is a weekend (good for the Hoan Kiem walking street and night market), the bay cruise is Monday night, Ninh Binh is Tue–Wed (fewer domestic coaches), and Hue is Fri–Sat (busier, book early). Departure day, 21 December, is a Monday: Da Nang → Hanoi in the morning, then the long way home via Shanghai and Athens.
 
 **Exchange rate used throughout:** 1 USD ≈ 26,000 VND (mid-September 2026; it has ranged 25,900–26,400 over the past year). Prices were re-checked in October 2026; where sources still disagree, that's flagged.
 
-**This is the Ha Long Bay version.** It spends Hanoi's second night on an overnight cruise: Hanoi on the Saturday afternoon, on board at Tuan Chau on Sunday, and straight from the boat to Tam Coc on Monday. From Tuesday on, nothing changes. The original route is the other version of this plan.
+**This is the Ha Long Bay version.** Hanoi keeps its two nights; the bay takes a night from Phong Nha instead. On Monday you board a boat at Tuan Chau, on Tuesday you drive from the boat straight to Tam Coc, Ninh Binh and the night train move a day later, and Phong Nha becomes one night with the show caves (the Oxalis trek becomes an optional swap). From Friday 18 December on, nothing changes. The original route is the other version of this plan.
 
 ---
 
@@ -16,11 +16,11 @@
 
 | Nights | Base | Nights | Why |
 |---|---|---|---|
-| 12 Dec | **Hanoi** | 1 | The capital in an afternoon and an evening: Hoan Kiem Lake, the Temple of Literature, the water puppets and the weekend walking street, with the north's best food in between. |
-| 13 Dec | **Ha Long Bay (overnight cruise from Tuan Chau)** | 1 (on the water) | Vietnam's best-known landscape: limestone islands rising out of the sea, seen by kayak and from the deck at sunset. A night on board is what sources consistently rate above a day trip, and the boat is the hotel. |
-| 14 Dec | **Ninh Binh (Tam Coc / Hoa Lu)** | 1 | The best karst-and-river landscape reachable in the dry northern winter: Trang An's cave boats, Mua Cave's view, Van Long's wetland. One night and two days is enough if you start early. |
-| 15 Dec | **Night train SE19** | 1 (on rails) | Converts a 9-hour road slog into a night you'd have spent in bed anyway. The single biggest time win in the itinerary. |
-| 16–17 Dec | **Phong Nha (Son Trach)** | 2 | The nature centrepiece. World-class karst, real caving, and the least performative tourism economy on the route. |
+| 12–13 Dec | **Hanoi** | 2 | The capital's landmarks (Hoan Kiem Lake, the Temple of Literature, the Ho Chi Minh complex, Hoa Lo Prison) with the north's best food in between. Also the only sane place to absorb jet lag. |
+| 14 Dec | **Ha Long Bay (overnight cruise from Tuan Chau)** | 1 (on the water) | Vietnam's best-known landscape: limestone islands rising out of the sea, seen by kayak and from the deck at sunset. A night on board is what sources consistently rate above a day trip, and the boat is the hotel. |
+| 15 Dec | **Ninh Binh (Tam Coc / Hoa Lu)** | 1 | The best karst-and-river landscape reachable in the dry northern winter: Trang An's cave boats, Mua Cave's view, Van Long's wetland. One night and two days is enough if you start early. |
+| 16 Dec | **Night train SE19** | 1 (on rails) | Converts a 9-hour road slog into a night you'd have spent in bed anyway. The single biggest time win in the itinerary. |
+| 17 Dec | **Phong Nha (Son Trach)** | 1 | The nature centrepiece, cut to one day in this version: Phong Nha Cave by boat and Paradise Cave, then the Bong Lai valley at dawn before the drive south. |
 | 18–19 Dec | **Hue** | 2 | The imperial capital: the Citadel and the royal tombs of Tu Duc, Khai Dinh and Minh Mang. Two nights is what it takes to see both. Also Vietnam's most distinctive regional cooking. |
 | 20 Dec | **Hoi An** | 1 | The UNESCO old town, at the end of the Hai Van Pass ride: lanterns, the river, and *cao lầu* at its source. 40–50 minutes from DAD for the flight home. |
 
@@ -30,9 +30,9 @@ Six bases, nine nights, one of them on a train and one on a boat. No backtrackin
 
 **Cuc Phuong — cut in this version.** It was a full day of old-growth forest and the Endangered Primate Rescue Centre. It went so that Hue gets a second night and the royal tombs. The nature on this route is still Trang An, Van Long, Phong Nha's caves and the Hai Van ride.
 
-**Hanoi's second day — the price of the bay.** The original plan gives Hanoi two nights; this one gives it one. What goes: the **Ho Chi Minh Mausoleum** (open only on Saturday and Sunday mornings in this season, and you land too late on Saturday), the stilt house, Hoa Lo Prison, the Museum of Ethnology, the Chau Long market breakfast and the *bia hơi* evening. The Temple of Literature moves into Saturday afternoon.
+**Phong Nha's second day — the price of the bay.** The original plan gives Phong Nha two nights; this one gives it one, and Hanoi keeps both of its. What goes is the **Oxalis cave trek** (Hang Tien or Tu Lan), the second Phong Nha day. You still get the show caves, Phong Nha Cave by boat and Paradise Cave, on the day you arrive. **If the group would rather trek**, swap them: book Oxalis for 17 December (pickup 07:00–07:30, half an hour after you reach Phong Nha) and do Paradise Cave on the morning of the 18th instead of the scooters, as the original rain plan does. Day 6 has the details.
 
-The bay could have been paid for elsewhere. A **day cruise on the way to Tam Coc** keeps every night, but means about six hours in a van and no night on the water. **Giving up a Phong Nha night** costs the Paradise Cave day and puts the Oxalis trek straight after the night train. Taking it from Hanoi leaves everything from Tuesday exactly as booked, and if fog cancels the boat, the fallback is the original plan's Day 2.
+The bay could have been paid for elsewhere. A **day cruise on the way to Tam Coc** keeps every night, but means about six hours in a van and no night on the water. **Taking a Hanoi night** leaves the capital one jet-lagged afternoon. Ninh Binh is already one night.
 
 **Pu Luong and Mai Chau — cut.** Pu Luong is quieter than Ninh Binh, has better homestays and better walking. But in mid-December the terraces are bare stubble (harvest is September–October), the valley sits under fog for days at a time, and daytime highs are 13–17°C with high humidity. You would also pay for it in driving hours: Hanoi → Pu Luong is 4.5–5 hours west, then Pu Luong → Ninh Binh another 3, versus a flat 2h15 Hanoi → Ninh Binh on the CT01 expressway. **If you want it anyway, see Variant B below.**
 
@@ -50,11 +50,11 @@ If the 21 December flight out of DAD ends up before about 08:00, or Hoi An is fl
 
 ### Variant B — keep Pu Luong, drop Ninh Binh
 
-Hanoi 12–13, **Pu Luong 14**, then Pu Luong → Thanh Hoa station (2.5h) for the night train south on 15 Dec, Phong Nha 16–17, Hue 18–19, Hoi An 20. Same shape, same number of moves. You trade Trang An's karst rivers for Thai-minority villages, better homestays and worse weather.
+Hanoi 12–13, **Pu Luong 14**, then Pu Luong → Thanh Hoa station (2.5h) for the night train south on 15 Dec, Phong Nha 16–17, Hue 18–19, Hoi An 20. Same shape, same number of moves, but it's a variant of the original route: with the bay as well, it doesn't fit in nine nights. You trade Trang An's karst rivers for Thai-minority villages, better homestays and worse weather.
 
 ### One thing I'd add if the budget allows
 
-**Oxalis Hang En Cave Adventure (2 days, 1 night)** — 9,500,000 VND per person, sleeping on a beach inside one of the world's largest caves. It runs "December to mid-September"; the first December departure date wasn't published in October. It would replace Day 6 and push the Hue drive to Day 7 afternoon, a real squeeze, so only if it runs on 16–17 December.
+**Oxalis Hang En Cave Adventure (2 days, 1 night)** — 9,500,000 VND per person, sleeping on a beach inside one of the world's largest caves. It runs "December to mid-September"; the first December departure date wasn't published in October. It doesn't fit this version: with one Phong Nha night, Hang En would mean giving up the bay.
 
 ---
 
@@ -63,13 +63,12 @@ Hanoi 12–13, **Pu Luong 14**, then Pu Luong → Thanh Hoa station (2.5h) for t
 | Date | Leg | Mode | Depart → Arrive | Duration | Group cost |
 |---|---|---|---|---|---|
 | 12 Dec | HAN → Hanoi Old Quarter | Private 16-seat van | 11:00 → 12:00 | 1h | ~1,200,000 VND |
-| 13 Dec | Hanoi Old Quarter → Tuan Chau harbour | Cruise shuttle or private 16-seat van | 08:00 → 11:00 | 2.5–3h | ~2,700,000 VND |
-| 14 Dec | Tuan Chau → Tam Coc | Private 16-seat van, staying for Van Long | 11:00 → 14:30 | 3–3.5h | ~3,120,000 VND |
-| 15 Dec | Tam Coc local → Ninh Binh station | Private van, full day + bicycles | 07:00 → 21:30 | — | ~3,100,000 VND |
-| 15–16 Dec | Ninh Binh → Dong Hoi | Train SE19, 2× 4-berth soft sleeper | 21:57 → 05:16 | 7h19 | ~9,120,000 VND |
-| 16 Dec | Dong Hoi → Phong Nha | 2× 7-seat transfer | 05:30 → 06:30 | 1h | ~1,300,000 VND |
-| 16 Dec | Phong Nha caves loop | Private van | — | — | ~2,000,000 VND |
-| 17 Dec | Phong Nha → Oxalis office → Phong Nha | Included in Oxalis tour | 07:00 → 20:00 | — | included |
+| 14 Dec | Hanoi Old Quarter → Tuan Chau harbour | Cruise shuttle or private 16-seat van | 08:00 → 11:00 | 2.5–3h | ~2,700,000 VND |
+| 15 Dec | Tuan Chau → Tam Coc | Private 16-seat van, staying for Van Long | 11:00 → 14:30 | 3–3.5h | ~3,120,000 VND |
+| 16 Dec | Tam Coc local → Ninh Binh station | Private van, full day + bicycles | 07:00 → 21:30 | — | ~3,100,000 VND |
+| 16–17 Dec | Ninh Binh → Dong Hoi | Train SE19, 2× 4-berth soft sleeper | 21:57 → 05:16 | 7h19 | ~9,120,000 VND |
+| 17 Dec | Dong Hoi → Phong Nha | 2× 7-seat transfer | 05:30 → 06:30 | 1h | ~1,300,000 VND |
+| 17 Dec | Phong Nha caves loop | Private van | — | — | ~2,000,000 VND |
 | 18 Dec | Bong Lai loop | 8× scooter rental | 07:00 → 09:45 | — | ~1,400,000 VND |
 | 18 Dec | Phong Nha → Hue via Vinh Moc | Private minivan or 16-seat van | 10:15 → 15:30 | ~5h | ~3,400,000–3,900,000 VND |
 | 19 Dec | Hue royal tombs loop | Private 16-seat van, day hire | 10:00 → 17:30 | — | ~1,300,000–1,700,000 VND |
@@ -83,7 +82,7 @@ Hanoi 12–13, **Pu Luong 14**, then Pu Luong → Thanh Hoa station (2.5h) for t
 - **Private vans (Hanoi and Ninh Binh legs):** Ford Transit or Hyundai Solati 16-seaters run $160–200/day including driver, fuel, tolls and parking; airport transfers $50–100 one way. Book by WhatsApp two to three weeks out. HanoiCarRent (Hoan Kiem-based, hanoicarrent.com) and Asia Transport quote these rates publicly. **For eight people plus luggage, insist on a 16-seater, not a 9-seat Dcar limousine**: the Dcar's rear seats fold into recliners and the boot disappears.
 - **Hanoi → Tuan Chau, and the bay:** Book the cruise first, then the transfers. Most boats sell a Hanoi shuttle, about US$30–40 per person for the round trip, picking up at 07:30–09:00. You only need it one way, so ask for a one-way price or a Ninh Binh drop-off: **Heritage Binh Chuan** quotes Hanoi pickup with Ninh Binh drop-off at US$35 per person. Otherwise a private 16-seater, 2,700,000 VND Hanoi → Ha Long on one operator's rate sheet. For **Tuan Chau → Tam Coc**, **Vivu Halong** lists a 16-seat van at US$120 one way, picking up at the pier; ask for it to stay the afternoon for Van Long.
 - **Night train:** Book 3–4 weeks ahead. **dsvn.vn** is the state railway (cheapest, patchy English, often rejects non-Vietnamese cards); **Baolau** and **12go** take foreign cards and issue e-tickets. You want **two whole 4-berth soft-sleeper cabins** (*giường nằm mềm điều hòa*) so your eight fill both. The private operators **Lotus Train** and **Laman Express** still attach refurbished cabins to SE19, at about 1,800,000–2,200,000 VND per berth (Baolau, October 2026). Exchange the e-ticket voucher for a paper ticket at the station at least 30–60 minutes before departure.
-- **Dong Hoi → Phong Nha:** Oxalis runs station transfers at 650,000 VND per 7-seater one way. Book it inside your Oxalis booking and tell them the train now arrives around 05:16.
+- **Dong Hoi → Phong Nha:** Oxalis runs station transfers at 650,000 VND per 7-seater one way. Book it through Oxalis (or inside the trek booking, if you swap the trek in) and tell them the train now arrives around 05:16.
 - **Phong Nha → Hue:** **Culture Pham Travel** quotes 3,000,000 VND for a minivan plus US$15 for the Vinh Moc stop; **Explore Vietnam** quotes US$130 for a van (max 12 people) plus US$20 for Vinh Moc. Arrange 1–2 weeks out by email or WhatsApp.
 - **Hue tomb day:** **Hue Private Cars** lists a 16-seat van with driver at US$50 for a four-site day, US$65 for five; a guide is about US$30 extra. Entry tickets are not included.
 - **Hue → Hoi An motorbikes:** **Hue Scooter Rental / Hidden Land Travel** (huescooterrental.com) does one-way Hue → Hoi An from US$25 per bike, luggage 50,000 VND per piece. **Motorvina** lists it from US$36 per person including bag transfer, helmets and petrol. **Style Motorbikes** (stylemotorbikes.com) has the bigger bikes but no published one-way price. Reserve eight bikes at least three weeks ahead. **Hand over cash deposits, not passports** (see §11).
@@ -100,27 +99,27 @@ The table picks one way for each leg. These are the realistic alternatives, for 
 - **Bus 86:** the express airport bus to the Old Quarter's edge (stops include Hang Dau and Hang Bai), every 25–30 minutes, 45,000–50,000 VND, cash on board. Whether it stops at T2 or only at T1 isn't clear (sources disagree), and it doesn't reach the hotel door. Sources: [Noi Bai Airport, official](https://www.noibaiairport.vn/en/public-transportations-nid1.html), [mia.vn, Jul 2025](https://mia.vn/cam-nang-du-lich/danh-sach-xe-buyt-san-bay-noi-bai-18948).
 - **Vietnam Airlines minibus:** 40,000 VND to 1 Quang Trung, Hoan Kiem. It leaves when its 16 seats are full. Luggage rules not found. Source: [Vietnambooking, Aug 2026](https://www.vietnambooking.com/ve-may-bay/tin-tuc/dich-vu-xe-buyt-noi-bai-trung-tam-ha-noi-cua-vietnam-airlines.html).
 
-**Hanoi → Tuan Chau harbour (13 Dec).** Planned: the cruise's shuttle or a private 16-seat van at 08:00, 2.5–3 hours on the Hanoi–Hai Phong–Ha Long expressway.
+**Hanoi → Tuan Chau harbour (14 Dec).** Planned: the cruise's shuttle or a private 16-seat van at 08:00, 2.5–3 hours on the Hanoi–Hai Phong–Ha Long expressway.
 
 - **The cruise shuttle:** most boats run one from the Old Quarter, picking up at 07:30–09:00, about US$30–40 per person for the round trip; some will drop you in Ninh Binh instead of Hanoi on the way back if you ask in advance. Sources: [Local Vietnam, Jul 2026](https://localvietnam.com/routes/from-hanoi-to-halong-bay/), [Indochina Tour, May 2026](https://www.indochinatour.com/vietnam-guide/halong-bay-cruise-price.html), [Halong Bay Tours, Apr 2026](https://www.halongbaytours.com/cruise/heritage-cruise-binh-chuan/2-day-1-night.html).
 - **Private van:** a 16-seat car for up to 8 passengers is 2,700,000 VND Hanoi → Ha Long, or 3,000,000 VND from Noi Bai, VAT included, on one operator's rate sheet (undated). Source: [Hoabinh Tourist rate sheet](https://iop.vast.vn/icpa/10/public/ICPA_at_EN.pdf).
 - **Seaplane:** the Noi Bai–Ha Long seaplane stopped on 1 April 2026. Source: [Local Vietnam, Jul 2026](https://localvietnam.com/routes/from-hanoi-to-halong-bay/).
 
-**Tuan Chau → Tam Coc (14 Dec).** Planned: a private 16-seat van from the pier at about 11:00, 3–3.5 hours via Hai Phong, not through Hanoi.
+**Tuan Chau → Tam Coc (15 Dec).** Planned: a private 16-seat van from the pier at about 11:00, 3–3.5 hours via Hai Phong, not through Hanoi.
 
 - **Shared limousine:** Cat Ba Express leaves Tuan Chau at 11:40, about 3 hours, from US$15, one medium suitcase each. The Long Travel runs Ha Long → Ninh Binh hourly 06:00–18:00 for 460,000 VND on Baolau. Sources: [Cat Ba Express](https://catbaexpress.com/limousine-bus-halong-to-ninh-binh.html), [Baolau, Ha Long → Ninh Binh](https://www.baolau.com/s/ha-long/ninh-binh).
 - **Per-seat transfer:** Daytrip from €33 per person, 3h20, one suitcase and one carry-on each. Source: [Daytrip](https://daytrip.com/en/transfers/ha-long-vn/tam-coc-vn).
 - **Other private vans:** US$85–130 per vehicle, size not stated. Going back through Hanoi takes 5–6 hours instead, so don't. Sources: [Best of Ninh Binh, Jul 2026](https://bestofninhbinh.com/ha-long-bay-to-ninh-binh/), [Local Vietnam, Jul 2026](https://localvietnam.com/ninh-binh/from-halong-bay-to-ninh-binh/).
 - **The cruise's own drop-off:** Heritage Binh Chuan quotes US$35 per person for Hanoi pickup with a Ninh Binh drop-off. Source: [Halong Bay Tours, Apr 2026](https://www.halongbaytours.com/cruise/heritage-cruise-binh-chuan/2-day-1-night.html).
 
-**Ninh Binh → Dong Hoi overnight (15 Dec).** Planned: SE19, 21:57 → 05:16.
+**Ninh Binh → Dong Hoi overnight (16 Dec).** Planned: SE19, 21:57 → 05:16.
 
 - **SE3, the earlier train:** Ninh Binh 21:36 → Dong Hoi 04:45 on Baolau, or 21:35 → 04:51 on North Vietnam. Standard berths from 409,000 VND. Private cabins (Violette, Livitrans, Damitrans, Charmy) are 1,800,000–2,000,000 VND. It arrives about half an hour earlier, in the dark. Sources: [Baolau, Ninh Binh → Dong Hoi](https://www.baolau.com/en/s/Ninh-Binh/Dong-Hoi/train), [North Vietnam, Oct 2026](https://north-vietnam.com/ninh-binh-to-phong-nha/).
 - **SE1, the later train:** leaves Ninh Binh around midnight (00:03 on Baolau, 23:07 on other listings) and reaches Dong Hoi between 06:30 and 07:21. A late night on the platform, but you arrive in daylight. Sources: [Baolau, Ninh Binh → Dong Hoi](https://www.baolau.com/en/s/Ninh-Binh/Dong-Hoi/train), [North Vietnam, Oct 2026](https://north-vietnam.com/ninh-binh-to-phong-nha/).
 - **Sleeper or cabin bus straight to Phong Nha:** from Tam Coc in the evening, 6–9 hours, with no change at Dong Hoi. HK Bus Lines leaves between 19:00 and 22:30 for 650,000 VND and arrives 01:00–04:30. Camel Travel (18:50–19:50, about €17) and The Long Travel (19:00 and 20:30 from The Long Hotel, about €13) are cheaper. Full Moon Party has VIP cabins at €22. Most arrive in the middle of the night, so the Phong Nha rooms would need to be ready. Sources: [Baolau, Ninh Binh → Phong Nha](https://www.baolau.com/en/s/Ninh-Binh/Phong-Nha), [Gecko Routes](https://geckoroutes.com/vietnam/ninh-binh-to-phong-nha/).
 - **Private minivan:** door to door in 6.5–8 hours. €440 for an 8-passenger minivan (Vietnam Locals, listed on Gecko Routes), or US$238–315 for a van for up to 10. It spends the night on the road, so you lose a night's sleep and a hotel night. Sources: [Gecko Routes](https://geckoroutes.com/vietnam/ninh-binh-to-phong-nha/), [GoAsia, Mar 2026](https://goasia.cc/en/vietnam/ninh-binh-to-phong-nha).
 
-**Dong Hoi station → Phong Nha (16 Dec, about 05:16).** Planned: two Oxalis 7-seaters.
+**Dong Hoi station → Phong Nha (17 Dec, about 05:16).** Planned: two Oxalis 7-seaters.
 
 - **Taxi:** taxis wait outside the station, but no source confirms they're there at 05:00. Expect 400,000–600,000 VND per car for the 45 km (sources disagree), and agree the price first. Mai Linh (1055) and Tien Sa (02323 797 979) run 7-seat cars. Sources: [Gecko Routes](https://www.geckoroutes.com/vietnam/dong-hoi-to-phong-nha/), [Phong Nha Farmstay](https://phongnhafarmstay.com/to-phong-nha/), [Xanh SM, Feb 2025](https://www.greensm.com/vn-vi/news/taxi-quang-binh).
 - **Grab or Xanh SM:** GrabCar has run in Dong Hoi since 2020, but there are few cars, and 5 am availability isn't confirmed. Xanh SM electric taxis have a Dong Hoi branch (1900 2088). Sources: [Grab, Sep 2020](https://www.grab.com/vn/blog/driver/grab-chinh-thuc-trien-khai-dich-vu-grabcar-tai-quang-binh/), [Xanh SM, Feb 2025](https://www.greensm.com/vn-vi/news/taxi-quang-binh).
@@ -161,21 +160,18 @@ The table picks one way for each leg. These are the realistic alternatives, for 
 - Book through your hotel (most Old Quarter hotels run their own cars) or HanoiCarRent. Do **not** rely on airport taxi touts with eight people and eight bags; you'll end up split across three cars at inflated rates.
 - Everything today is on foot. The Old Quarter is roughly 1 km across.
 
-### Accommodation (1 night)
+### Accommodation (2 nights)
 1. **La Siesta Premium Hang Be** — 27 Hang Be, Old Quarter. Rated 9.5; weekend average ~$83 a room (Kayak snapshot, October 2026). Four rooms sleeps eight. Two minutes from Hoan Kiem Lake.
 2. **Hanoi La Siesta Classic Ma May** — 94 Ma May St, Hoan Kiem. Rated 9.5; from ~$47, but the weekend average was ~$152 a room in the October snapshot. Rooftop bar with a view over to Long Bien Bridge.
 3. **Hanoi Emerald Waters Hotel & Spa** — 47 Lo Su. Rated 9.5; weekend average ~$88 a room.
-
-**Book the second night too, with free cancellation.** It's the fallback if fog or wind stops the cruise (see Day 2's rain plan).
 
 **Budget note:** your stated band is $40–80 per person per night. At eight people sharing four rooms, nothing on this route needs the top of it. See §6.
 
 ### Activities
 - **12:00** Check in, shower, do not nap for more than 45 minutes. Jet lag from the west is best broken by staying up to a local bedtime.
-- **14:00 Temple of Literature** — 58 Quoc Tu Giam St; 08:00–17:00 (last entry 16:30); 70,000 VND, cash. Vietnam's 1070 Confucian academy: the stelae of doctoral laureates sit on stone tortoises in the third courtyard. One hour is enough. A short Grab ride from the lake: two or three cars for eight. In the original plan this is Day 2; here it's today, because tomorrow is the bay.
-- **15:30 Hoan Kiem Lake and Ngoc Son Temple** — 30,000 VND, roughly 07:00–18:00. The temple sits on an island in the lake, reached by the red bridge. The lake is the centre of the city.
-- **16:15–17:30** Walk the Old Quarter loop: Ma May → Hang Bac (silversmiths) → Hang Ma (paper goods) → Dong Xuan Market → Hang Chieu → back down Hang Buom. The Old Quarter's street names are its trade names, and walking it is the cheapest orientation there is.
-- **17:30** Coffee at **Cafe Dinh**, 13 Dinh Tien Hoang — up an unmarked staircase beside a silk shop, second floor, overlooking the lake. Egg coffee (*cà phê trứng*), ~30,000 VND.
+- **14:00 Hoan Kiem Lake and Ngoc Son Temple** — 30,000 VND, roughly 07:00–18:00. The temple sits on an island in the lake, reached by the red bridge. The lake is the centre of the city and the start of everything else today.
+- **15:00–16:30** Walk the Old Quarter loop: Ma May → Hang Bac (silversmiths) → Hang Ma (paper goods) → Dong Xuan Market → Hang Chieu → back down Hang Buom. The Old Quarter's street names are its trade names, and walking it is the cheapest orientation there is.
+- **16:30** Coffee at **Cafe Dinh**, 13 Dinh Tien Hoang — up an unmarked staircase beside a silk shop, second floor, overlooking the lake. Egg coffee (*cà phê trứng*), ~30,000 VND.
 - **18:30 Thang Long Water Puppet Theatre** — 57B Dinh Tien Hoang, on the lake. 100,000 / 150,000 / 200,000 VND by seat class. Shows at 16:10, 17:20, 18:30 and 20:00. Book 3–7 days ahead, at the box office or by phone or email. **The site thanglongwaterpuppet.org is not the theatre's** and should not be used.
 - **20:30–22:00** **Hoan Kiem weekend walking street.** The roads around the lake close to traffic from Friday 19:00 to Sunday midnight (suspended in bad weather). Families, badminton, street games, and the least filtered version of Hanoi's public life you'll see. Free.
 
@@ -184,14 +180,48 @@ The table picks one way for each leg. These are the realistic alternatives, for 
 - **Dinner, 19:30 — Chả Cá Thăng Long**, 6B Duong Thanh St, Cua Dong Ward, Hoan Kiem. Michelin Bib Gourmand. ~200,000–250,000 VND/person. One dish only: **chả cá**, turmeric-marinated catfish grilled in banana leaf, then finished at your table with a hedge of dill and spring onion, over rice vermicelli with peanuts and *mắm tôm* shrimp paste. **Reserve for eight**: call the day before; the pale-yellow townhouse at 6B is the good branch of three on the same street.
 
 ### Local-life element
-Walk up to **Long Bien Bridge** at dusk and cross the pedestrian walkway on the upstream side. It's the steel cantilever bridge over the Red River whose builder's plate reads 1899–1902, Daydé & Pillé, Paris, still carrying scooters and some trains (fewer since February 2026). At dusk it fills with commuters, couples and people fishing off the piers. Free, five minutes' walk from Ma May. Stand aside for scooters: the walkway is narrow and they use it. Do it instead of Cafe Dinh, before the puppets: there's no tomorrow in Hanoi in this version.
+Walk up to **Long Bien Bridge** at dusk and cross the pedestrian walkway on the upstream side. It's the steel cantilever bridge over the Red River whose builder's plate reads 1899–1902, Daydé & Pillé, Paris, still carrying scooters and some trains (fewer since February 2026). At dusk it fills with commuters, couples and people fishing off the piers. Free, five minutes' walk from Ma May. Stand aside for scooters: the walkway is narrow and they use it. Do it before the puppets, or skip it today and do it at 17:30 tomorrow.
 
 ### Rain plan
 December rain in Hanoi is drizzle, not downpour, and the whole day works under an umbrella. If it's properly wet, the walking street may be suspended: swap the Old Quarter loop for the **Vietnamese Women's Museum** (36 Ly Thuong Kiet, 08:00–17:00, 40,000 VND), genuinely good on ethnic minority textiles and marriage customs. The water puppets are indoors either way.
 
 ---
 
-## Day 2 — Sunday 13 December · Ha Long Bay
+## Day 2 — Sunday 13 December · Hanoi
+*Theme: the national landmarks, in the right order.*
+
+### Movements
+- All on foot and by Grab. Download **Grab** before you fly and add a card; a Grab bike across the Old Quarter is 20,000–30,000 VND. Eight people in Grab cars is two or three vehicles.
+
+### Accommodation
+Same as Day 1.
+
+### Activities
+- **06:15** Market breakfast at Chau Long (below), ten minutes' walk from the mausoleum.
+- **07:45 Ho Chi Minh Mausoleum** — Free. Open Sundays 08:00–11:00 in the cool season, closed Mondays and Fridays, so today is the day. Arrive early: the queue is long and the rules are strict (shoulders and knees covered, no shorts, bags stored, phones and cameras collected, silence, hats off). The interior is a short walk past the embalmed body.
+- **09:00** **The Presidential Palace grounds and the stilt house** behind the mausoleum: 25,000 or 40,000 VND, open mornings. The palace is seen from outside; the stilt house where Ho Chi Minh lived is the quiet, interesting part. The **One Pillar Pagoda**, next to the mausoleum, is free.
+- **10:30 Temple of Literature** — 58 Quoc Tu Giam St; 08:00–17:00 (last entry 16:30); 70,000 VND, cash. Vietnam's 1070 Confucian academy: the stelae of doctoral laureates sit on stone tortoises in the third courtyard. One hour is enough.
+- **12:00** Lunch (below).
+- **13:30 Hoa Lo Prison** — 08:00–17:00 daily, ~50,000 VND (sources range 30,000–50,000), audio guide 50,000 VND. The French colonial prison later known as the "Hanoi Hilton". About an hour; ten minutes' walk south of the lake.
+- **15:00 Museum of Ethnology** — In Cau Giay, 08:30–17:30 (closed Mondays), 40,000 VND, 25 minutes by Grab. The outdoor collection of reconstructed minority houses is the best thing of its kind in the country. **Or**, for the less museum-minded: **Thang Long Imperial Citadel** (100,000 VND, 08:00–17:00), the excavated royal citadel next to the mausoleum area.
+- **17:30** Long Bien Bridge at dusk if you didn't do it yesterday.
+- **20:00** *Bia hơi* — fresh draught beer, brewed and delivered daily, 15,000–20,000 VND a glass. Go to the corner of **Nguyen Huu Huan and Hang Thung** or **Bia Hơi Hải Xồm**, rather than Ta Hien, which is now largely a backpacker street. Order *nem chua nướng* (grilled fermented pork) and *đậu phụ tẩm hành* (fried tofu with spring onion) with it.
+- **Optional, evening:** the **Temple of Literature night tour** (199,000 VND, with a 3D mapping show, typically Thu–Sun 19:00–22:00; book at least 2 days ahead via vanmieunighttour.com). *December dates weren't published in October.*
+
+### Food
+- **Market breakfast, 06:15 — Chợ Châu Long (Chau Long Market)**, Chau Long St, Ba Dinh. Opens around 05:30, busiest 06:00–08:00. A working neighbourhood market: live fish in basins, women shelling crab, a dozen breakfast stalls along the interior aisles. 30,000–50,000 VND/person. Eat **bánh cuốn** (steamed rice sheets rolled around minced pork and wood-ear mushroom) and **xôi xéo** (sticky rice with mung bean paste and fried shallot). Bring small notes; nobody here takes cards.
+- **Lunch, 12:00 — Phở Hà**, 15 Hang Hom St, Hang Gai, Hoan Kiem. ~60,000–80,000 VND. Order **phở gà** (chicken pho, the northern default more than beef) and **bún thang**, a clear broth with shredded egg crêpe, chicken, pork sausage, dried shrimp and a whisper of shrimp paste: the most technically demanding dish in the Hanoi repertoire.
+- **Dinner, 19:00 — your choice in the Old Quarter**, then *bia hơi*.
+
+### Local-life element
+**A market-to-table cooking class** is now optional rather than built in: it costs a whole afternoon of landmarks. If some of the group would rather cook than do Hoa Lo and the museum, **Hanoi Cooking Centre** on Chau Long St, **Rose Kitchen** and **Hanoi Chef Class** are the commonly cited operators, around 900,000–1,400,000 VND per person for 3–4 hours. *Current pricing and operation in December 2026 aren't confirmed.*
+
+### Rain plan
+Everything today is either indoors or a short walk between buildings. If it's properly wet, drop the Imperial Citadel for the Museum of Ethnology (largely indoors) and add **Bảo tàng Mỹ thuật Việt Nam** (Fine Arts Museum, 66 Nguyen Thai Hoc, 08:30–17:00, 40,000 VND): the lacquer and silk collections are unexpectedly strong.
+
+---
+
+## Day 3 — Monday 14 December · Ha Long Bay
 *Theme: limestone from the water, and a night on the bay.*
 
 ### Movements
@@ -225,12 +255,12 @@ Sources: [Best Ha Long Cruise, Apr 2026](https://besthalongcruise.com/halong-bay
 Lan Ha boats can stop at **Viet Hai**, a village on Cat Ba island. If your boat offers a village stop, take it over a second cave.
 
 ### Rain plan
-Drizzle doesn't stop a cruise: the caves are dry and kayaking runs in light rain. **Fog and wind can.** From December to February, thick fog and the northeast monsoon sometimes suspend departures. The bay's management board and the port authority decide, usually on the day and sometimes the afternoon before, and Ha Long and Lan Ha have different authorities, so one can sail while the other is shut. Complete cancellations are rare. **If it's cancelled before you leave Hanoi**, Bhaya refunds in full (other operators vary): keep the second Hanoi night, follow the original plan's Day 2 (the mausoleum morning, Hoa Lo, the Museum of Ethnology), and take a van to Tam Coc on Monday morning. Source: [Bhaya](https://bhayacruises.com/blog/halong-bay-on-storm/).
+Drizzle doesn't stop a cruise: the caves are dry and kayaking runs in light rain. **Fog and wind can.** From December to February, thick fog and the northeast monsoon sometimes suspend departures. The bay's management board and the port authority decide, usually on the day and sometimes the afternoon before, and Ha Long and Lan Ha have different authorities, so one can sail while the other is shut. Complete cancellations are rare. **If it's cancelled before you leave Hanoi**, Bhaya refunds in full (other operators vary): take the van straight to Tam Coc instead, as in the original plan's Day 3, and book a second Tam Coc night. Source: [Bhaya](https://bhayacruises.com/blog/halong-bay-on-storm/).
 
 ---
 
-## Day 3 — Monday 14 December · Ninh Binh
-*Theme: move south, then find the quiet karst.*
+## Day 4 — Tuesday 15 December · Ninh Binh
+*Theme: off the boat and south, then the quiet karst.*
 
 ### Movements
 - **09:00–10:00** Check out of the cabin. The boat is back at Tuan Chau at about **10:30–11:00** (it varies by boat).
@@ -243,12 +273,12 @@ Drizzle doesn't stop a cruise: the caves are dry and kayaking runs in light rain
 2. **Tam Coc Rice Fields Resort** — From about €39 a room (Expedia, July 2026 snapshot).
 3. **Tam Coc Garden** — Restored brick-and-tile buildings in a garden of fish ponds. Now a boutique resort rather than a homestay, from about US$248 a night for two (Expedia, May 2026); late check-out "for a fee, subject to availability".
 
-**Because the train leaves at night**, keep two rooms until about 21:00 on Day 4 for showers and repacking. Nobody in Tam Coc publishes a day-use rate: either book those two rooms for a second night or get late check-out agreed in writing.
+**Because the train leaves at night**, keep two rooms until about 21:00 on Day 5 for showers and repacking. Nobody in Tam Coc publishes a day-use rate: either book those two rooms for a second night or get late check-out agreed in writing.
 
 ### Activities
 - **14:30** Check in and a late lunch.
 - **15:15–18:00 Van Long Nature Reserve**, ~40 minutes' drive north (Gia Vien). Entry around 20,000 VND plus a boat at 50,000–60,000 VND per person (one older provincial list gives 100,000 VND all-in), **cash only, small notes**. Flat-bottomed boats, two or three passengers each, rowed by local women, 1h30 on open wetland under limestone cliffs. **Go late afternoon:** the light is better, the herons and egrets come in to roost, and if you're lucky the Delacour's langur troop comes down the cliffs to feed.
-- **Bích Động Pagoda** moves to tomorrow afternoon (Day 4, 16:00), because you arrive later than in the original plan.
+- **Bích Động Pagoda** moves to tomorrow afternoon (Day 5, 16:00), because you arrive later than in the original plan.
 - **18:30** Back at the hotel.
 
 ### Food
@@ -263,7 +293,7 @@ Van Long boats run in light rain: take the rain cape the boatwoman offers and go
 
 ---
 
-## Day 4 — Tuesday 15 December · Ninh Binh, then the night train
+## Day 5 — Wednesday 16 December · Ninh Binh, then the night train
 *Theme: the famous karst, beaten at its own game by starting early.*
 
 ### Movements
@@ -272,7 +302,7 @@ Van Long boats run in light rain: take the rain cape the boatwoman offers and go
 - **21:57 Train SE19 → Dong Hoi, arriving 05:16.** Two 4-berth soft-sleeper cabins. *Times disagree between sources: departure is given as 21:51, 21:57, 21:58 and 22:21, arrival anywhere from 04:40 to 06:00. The most recent (Baolau, October 2026) is 21:57 → 05:16. No December timetable was out yet. Reconfirm on dsvn.vn a week out and again the day before.*
 
 ### Accommodation
-**On the train tonight.** Two private 4-berth cabins: bedding, air-con and a power socket per berth. It's the 6-berth hard sleeper you want to avoid, not the 4-berth. **Pack an overnight bag** so you're not opening suitcases in a cabin at 05:00. Keep two Tam Coc rooms until evening (see Day 3).
+**On the train tonight.** Two private 4-berth cabins: bedding, air-con and a power socket per berth. It's the 6-berth hard sleeper you want to avoid, not the 4-berth. **Pack an overnight bag** so you're not opening suitcases in a cabin at 05:00. Keep two Tam Coc rooms until evening (see Day 4).
 
 ### Activities
 
@@ -299,17 +329,17 @@ Trang An operates year-round and is largely sheltered: go in rain. **Skip Mua Ca
 
 ---
 
-## Day 5 — Wednesday 16 December · Phong Nha
+## Day 6 — Thursday 17 December · Phong Nha
 *Theme: arrive off the train, get underground, keep it easy.*
 
 ### Movements
 - **05:16** Arrive **Dong Hoi station**, Thuan Ly St (now Quang Tri province, formerly Quang Binh). Earlier than the old 06:25: the transfer needs to know.
 - **05:30** Two 7-seat transfers to Phong Nha, 45 km, ~1 hour. **650,000 VND per vehicle** through Oxalis. ~1,300,000 VND total.
-- **06:30** Arrive Son Trach (Phong Nha town). Your rooms won't normally be ready this early: **ask for early check-in in writing when you book**, or book the room from the night of the 15th.
+- **06:30** Arrive Son Trach (Phong Nha town). Your rooms won't normally be ready this early: **ask for early check-in in writing when you book**, or book the room from the night of the 16th.
 - Private van for the day from 10:00: ~2,000,000 VND. Paradise Cave is 30 km out; the Phong Nha Cave wharf is in town.
 
-### Accommodation (2 nights)
-1. **Phong Nha Farmstay** — 8 km out of town, surrounded by paddy. Direct rates in October 2026: standard double or twin 1,300,000 VND, family room 2,400,000 VND; check-out 11:00; a 2-night minimum has been reported. French-colonial style, pool, free bikes, and the original foreign-run guesthouse in the region (open since 2010). Genuinely good food, if pricier than town. The quiet and the paddy views are the point.
+### Accommodation (1 night)
+1. **Phong Nha Farmstay** — 8 km out of town, surrounded by paddy. Direct rates in October 2026: standard double or twin 1,300,000 VND, family room 2,400,000 VND; check-out 11:00; a 2-night minimum has been reported, which matters for one night: ask, or take a homestay. French-colonial style, pool, free bikes, and the original foreign-run guesthouse in the region (open since 2010). Genuinely good food, if pricier than town. The quiet and the paddy views are the point.
 2. **Thao Nguyen Homestay**, **Phong Nha Riverside Homestay** or **Jungle Boss Homestay** — In town, family-run, roughly US$15–40 a room (Jungle Boss quoted ~800,000 VND for a double, ~1,000,000 for a family room). Simpler, closer to the morning market and cheap dinners. **Several Phong Nha homestays are cash-only.**
 3. **Chay Lap Farmstay** — If you book Oxalis, a discounted rate of 1,100,000 VND/room/night (~$42). Pool, spa, kayaking. Comfortable rather than local.
 
@@ -327,23 +357,11 @@ Trang An operates year-round and is largely sheltered: go in rain. **Skip Mua Ca
 - **Dinner, 19:00 — home-cooked at your homestay.** 150,000–250,000 VND/person. Ask when you book.
 
 ### Local-life element
-Arrange tomorrow's evening and Day 7's scooters today, through your homestay or any shop on the Son Trach main street: 8 scooters at ~150,000–200,000 VND each for the Bong Lai valley loop.
+Arrange tomorrow morning's scooters today, through your homestay or any shop on the Son Trach main street: 8 scooters at ~150,000–200,000 VND each for the Bong Lai valley loop.
 
-### Rain plan
-Both caves are caves: rain changes nothing about Phong Nha Cave or Paradise Cave except the drive. **What rain does change:** the road to Paradise Cave can flood after heavy rain, and the park very occasionally closes for 1–3 days in a storm. If the road's out, do Phong Nha Cave, Tien Son and the museum, and try Paradise Cave on Day 7 morning instead of the scooters.
+### Optional: the Oxalis trek instead
+This version has one Phong Nha day, so it's the show caves or the trek, not both. **To trek instead:** Oxalis picks you up at 07:00–07:30, half an hour after you reach Phong Nha, and brings you back around 19:30–20:00, with all transport and meals included; do Paradise Cave on Day 7 morning instead of the scooters. It's a long day straight off a sleeper train.
 
----
-
-## Day 6 — Thursday 17 December · Phong Nha
-*Theme: the actual reason you came.*
-
-### Movements
-- **07:00–07:30** Oxalis guide and driver collect you from your hotel in Phong Nha. Return around **19:30–20:00**. All transport included.
-
-### Accommodation
-Same as Day 5.
-
-### The tour — and which one
 
 **Oxalis day tours run on fixed dates with a 12-person cap, so your eight can effectively own a departure. Book the day you commit to the trip.** Two good December choices, both 2,000,000 VND / US$75 per person, both rated for fit beginners, ages 16–70:
 
@@ -352,19 +370,10 @@ Same as Day 5.
 
 You can split the group across two tours on the same date: call the hotline rather than trying to do it through the website. Book online at oxalisadventure.com; full payment confirms; free cancellation to 7 days out. **Declare honestly** on the booking form: health conditions, medications, trekking experience. Oxalis operates in remote valleys with a 30-minute-to-2-hour rescue window and means it.
 
-### What to bring
-Quick-dry long-sleeved shirt and long trousers, a waterproof jacket (Oxalis specifies one for November–March), closed trekking shoes with grip, **calf-length thick socks** (leeches), a change of clothes for afterward, insect repellent, towel, swimwear, passport. Oxalis lends trekking shoes in sizes 36–44 for a 50,000 VND cleaning fee; bring your own if you can. They supply helmet, headlamp, gloves, harness, dry pack, water and first aid.
-
-### Food
-- **All meals on the tour are included**: snack, a cooked picnic lunch, tea and coffee. Reviews consistently single out the food. Note dietary requirements in the booking form.
-- **Breakfast, 06:15** — before pickup. Your homestay will do it early if you ask the night before; otherwise *bánh mì* from the market at 06:00.
-- **Dinner, 20:15 — Phong Nha town.** 100,000–200,000 VND/person. You will be tired and hungry. **Bomb Crater Bar** and **Omar's Namaste** are the standby foreigner options; for local food, eat at whatever *quán* on the main street your homestay recommends and order **gà nướng** (grilled chicken) and rice.
-
-### Local-life element
-Oxalis employs porters, cooks and safety staff from **Tan Hoa**, a village that was 85.7% below the poverty line in 2010 and is at around 2% now, largely through this. The village also built floating houses to survive the annual floods. If your tour starts from the Tan Hoa office, ask the porters about the floods. It is not a rehearsed story.
+**What to bring:** Quick-dry long-sleeved shirt and long trousers, a waterproof jacket (Oxalis specifies one for November–March), closed trekking shoes with grip, **calf-length thick socks** (leeches), a change of clothes for afterward, insect repellent, towel, swimwear, passport. Oxalis lends trekking shoes in sizes 36–44 for a 50,000 VND cleaning fee; bring your own if you can. They supply helmet, headlamp, gloves, harness, dry pack, water and first aid.
 
 ### Rain plan
-Oxalis adjusts or reroutes for weather and tells you the morning of; they don't usually cancel for rain. **If they do cancel**: Paradise Cave if you missed it, plus the **Dark Cave** (zipline, mud bath and kayak). *Its 2026 price is given as 350,000 or 450,000 VND, less off-season.* It's a managed adventure-park experience rather than caving, but covered and fun. Book through an office in Phong Nha town the day before; **avoid Hanoi or Hoi An agencies, who add 20–30%.**
+Both caves are caves: rain changes nothing about Phong Nha Cave or Paradise Cave except the drive. **What rain does change:** the road to Paradise Cave can flood after heavy rain, and the park very occasionally closes for 1–3 days in a storm. If the road's out, do Phong Nha Cave, Tien Son and the museum, and try Paradise Cave on Day 7 morning instead of the scooters.
 
 ---
 
@@ -372,7 +381,7 @@ Oxalis adjusts or reroutes for weather and tells you the morning of; they don't 
 *Theme: two wheels through the valley, the DMZ on the way, then Hue by evening.*
 
 ### Movements
-- **07:00–09:45 Motorbikes, Bong Lai valley loop.** 8 scooters, ~150,000–200,000 VND each (~1,400,000 VND total), arranged on Day 5. An automatic Honda Vision or Yamaha Janus is right for this. The loop is 25–30 km of sealed and hard-packed farm road with almost no traffic; one petrol station in town — **fill up before you leave, there is nothing out there.** Luggage stays at the hotel.
+- **07:00–09:45 Motorbikes, Bong Lai valley loop.** 8 scooters, ~150,000–200,000 VND each (~1,400,000 VND total), arranged on Day 6. An automatic Honda Vision or Yamaha Janus is right for this. The loop is 25–30 km of sealed and hard-packed farm road with almost no traffic; one petrol station in town — **fill up before you leave, there is nothing out there.** Luggage stays at the hotel.
 - **10:15 Van, Phong Nha → Hue.** ~4–4.5 hours direct; with the Vinh Moc stop, about 5 hours elapsed. 3,000,000–3,380,000 VND plus US$15–20 for the Vinh Moc stop (Culture Pham Travel, Explore Vietnam). Their vans take up to 10–12 people, so eight with luggage fits; confirm.
 - **15:30** Arrive Hue.
 
@@ -526,18 +535,18 @@ Food on this route is the thing you do between the landmarks, not instead of the
 | Urgency | Item | Why now |
 |---|---|---|
 | **Immediately** | **Flights: DAD → Hanoi on 21 Dec, and the connections home** | Nothing is booked yet. For the Hoi An night to work, choose a DAD departure no earlier than about 09:00 (Hoi An → DAD is 40–50 min, up to 90 in rain). If Hanoi → Shanghai → Athens → Heraklion are separate tickets, leave a long buffer in Hanoi; on one ticket, the airline protects the connections. It's the week before Christmas. |
-| **Immediately** | **Oxalis day tour (17 Dec), 8 places** | 12-person cap, fixed departure dates. Hang Tien (recommended) or Tu Lan. oxalisadventure.com. Full payment confirms. |
+| **Immediately** | **Ha Long / Lan Ha cruise, 14 Dec, 4 cabins on one boat** | Small boats, a whole group's worth of cabins, the week before Christmas. Get the cancellation terms for fog in writing. |
+| **Immediately** | **Oxalis day tour (17 Dec), 8 places — only if you swap the trek in** | 12-person cap, fixed departure dates. Hang Tien (recommended) or Tu Lan. oxalisadventure.com. Full payment confirms. |
 | **Now** | **1968-Convention IDPs for every rider** | Takes 2–6 weeks depending on country. See §11 — this is the item most likely to sink the Hai Van day. |
-| **4 weeks out** | **Night train SE19, 15 Dec, two 4-berth soft-sleeper cabins** | dsvn.vn, or Baolau / 12go for foreign cards. From ~1,140,000 VND per berth on Vietnam Railways (class not shown); private cabins 1.8–2.2M. |
-| **Immediately** | **Ha Long / Lan Ha cruise, 13 Dec, 4 cabins on one boat** | Small boats, a whole group's worth of cabins, the week before Christmas. Get the cancellation terms for fog in writing. |
-| **4 weeks out** | **Hanoi hotel (1 night, Sat, 4 rooms; book Sunday too, free cancellation)** | Four rooms in one Old Quarter property is not trivial, and Sunday night is the fog fallback. |
+| **4 weeks out** | **Night train SE19, 16 Dec, two 4-berth soft-sleeper cabins** | dsvn.vn, or Baolau / 12go for foreign cards. From ~1,140,000 VND per berth on Vietnam Railways (class not shown); private cabins 1.8–2.2M. |
+| **4 weeks out** | **Hanoi hotel (2 nights, Sat–Sun, 4 rooms)** | Weekend, and four rooms in one Old Quarter property is not trivial. |
 | **4 weeks out** | **Hue hotel (2 nights, Fri–Sat, 4 rooms)** | Small hotel district, weekend. |
 | **3 weeks out** | **Hue → Hoi An motorbikes (8) with luggage transfer** | Hue Scooter Rental, Motorvina or Style Motorbikes. Eight bikes in one class needs lead time. Ask for cancellation terms in writing. |
-| **3 weeks out** | **Ninh Binh (1 night + two rooms until 21:00 on 15 Dec)** | No day-use rates exist: book a second night for two rooms, or late check-out in writing. |
-| **3 weeks out** | **Phong Nha accommodation (2 nights) with early check-in on 16 Dec** | You arrive around 06:30. Several homestays are cash-only. |
+| **3 weeks out** | **Ninh Binh (1 night + two rooms until 21:00 on 16 Dec)** | No day-use rates exist: book a second night for two rooms, or late check-out in writing. |
+| **3 weeks out** | **Phong Nha accommodation (1 night) with early check-in on 17 Dec** | You arrive around 06:30. Several homestays are cash-only, and Phong Nha Farmstay may want two nights. |
 | **3 weeks out** | **Hoi An hotel (1 night, 4 rooms)** | And ask them to book the airport van for the 21st. |
-| **2–3 weeks out** | **All private vans:** HAN transfer, Hanoi→Tuan Chau (unless the cruise shuttle), Tuan Chau→Tam Coc staying for Van Long, Ninh Binh day on 15 Dec until 21:45, Phong Nha day hire, Phong Nha→Hue with Vinh Moc, Hue tomb day, Hoi An→DAD | WhatsApp. Specify the seat count and luggage. |
-| **2 weeks out** | **Dong Hoi → Phong Nha transfers** | Fold into the Oxalis booking. Tell them the train arrives ~05:16. |
+| **2–3 weeks out** | **All private vans:** HAN transfer, Hanoi→Tuan Chau (unless the cruise shuttle), Tuan Chau→Tam Coc staying for Van Long, Ninh Binh day on 16 Dec until 21:45, Phong Nha day hire, Phong Nha→Hue with Vinh Moc, Hue tomb day, Hoi An→DAD | WhatsApp. Specify the seat count and luggage. |
+| **2 weeks out** | **Dong Hoi → Phong Nha transfers** | Book with Oxalis, or fold into the trek booking if you swap it in. Tell them the train arrives ~05:16. |
 | **2 weeks out** | **Water puppet tickets, Sat 12 Dec, 18:30** | Book 3–7 days ahead at least, direct with the theatre — not via thanglongwaterpuppet.org. |
 | **1–2 weeks out** | **Travel insurance with motorcycle cover** | Read the licence clause. See §11. |
 | **Anytime** | **Trang An tickets on Klook** | Same price, QR code, skips the queue — worth it for eight. |
@@ -548,10 +557,10 @@ Food on this route is the thing you do between the landmarks, not instead of the
 | When | Item |
 |---|---|
 | Day 1, Hanoi | Reserve **Chả Cá Thăng Long** for 8 (hotel will call) |
-| Day 3, on arrival in Tam Coc | Bicycles; ask about a **dawn goat walk**; confirm the two rooms kept until 21:00 on Day 4 |
-| Day 3 | Goat restaurant reservation for 8 for Day 4 lunch |
-| Day 5, on arrival | Phong Nha Cave boat (assigned at the wharf, no booking possible); Paradise Cave tickets at the gate (arrive by 13:30); **8 scooters for Day 7**; homestay dinner |
-| Day 5 evening | **Dark Cave** for Day 6, only if the Oxalis tour is cancelled — book in a Phong Nha town office |
+| Day 2 evening | Confirm the 08:00 cruise pickup, and check with the boat that the bay is open (fog) |
+| Day 4, on arrival in Tam Coc | Bicycles; ask about a **dawn goat walk**; confirm the two rooms kept until 21:00 on Day 5 |
+| Day 4 | Goat restaurant reservation for 8 for Day 5 lunch |
+| Day 6, on arrival | Phong Nha Cave boat (assigned at the wharf, no booking possible); Paradise Cave tickets at the gate (arrive by 13:30); **8 scooters for Day 7**; homestay dinner |
 | Day 7, on arrival in Hue | **Bà Đỏ** and **Lạc Thiện** reservations for 8; confirm the tomb van for Day 8 |
 | Day 8 evening | Confirm the bike pick-up time and luggage drop-off address in writing |
 | Day 9, on arrival in Hoi An | **Confirm the airport van at reception** |
@@ -568,17 +577,17 @@ Per person, at eight people sharing four rooms. Excludes international flights, 
 | **Accommodation** | **$237** | 7 hotel nights (one is the train). ~$34/person/night, including two Tam Coc rooms kept for the evening. |
 | **Ha Long cruise** | **$165** | One night on the boat, with meals, kayaking and bay fees. Midpoint of the US$150–180 "from" prices; no December quote yet. |
 | **Food & drink** | **$240** | 8 days at $25–35 (the boat feeds you on the ninth). Generous: you could eat very well on $20. |
-| **Activities & entries** | **$184** | Of which **$77 is the Oxalis day tour.** Everything else on this route is $1–20. |
+| **Activities & entries** | **$110** | Everything on this route is $1–20. Add **$77** if you swap in the Oxalis trek. |
 | **Local transport, coffee, SIM, tips** | **$45** | Grab, *cà phê*, water, incidentals. |
-| **Subtotal** | **$1,048** | |
-| **Contingency (12%)** | **$126** | For a weather diversion (the heritage train instead of bikes), a price that's moved, one restaurant that's closed. |
-| **Total** | **≈ $1,174** | |
+| **Subtotal** | **$975** | |
+| **Contingency (12%)** | **$117** | For a weather diversion (the heritage train instead of bikes), a price that's moved, one restaurant that's closed. |
+| **Total** | **≈ $1,092** | |
 
 ### Activities breakdown
 
 | Item | VND | USD |
 |---|---|---|
-| Hanoi: Temple of Literature, Ngoc Son | 100,000 | $4 |
+| Hanoi: Temple of Literature, Stilt House, Hoa Lo, Ngoc Son | 190,000 | $7 |
 | Water puppets (mid seat) | 150,000 | $6 |
 | Van Long (incl. boat) | 100,000 | $4 |
 | Trang An (incl. boat) | 300,000 | $12 |
@@ -586,7 +595,6 @@ Per person, at eight people sharing four rooms. Excludes international flights, 
 | Mua Cave | 150,000 | $6 |
 | Phong Nha Cave + boat share | 244,000 | $9 |
 | Paradise Cave | 270,000 | $10 |
-| **Oxalis day tour** | **2,000,000** | **$77** |
 | Bong Lai valley stops | 200,000 | $8 |
 | Vinh Moc Tunnels | 100,000 | $4 |
 | Hue: Imperial City + 3 tombs combo | 530,000 | $20 |
@@ -599,11 +607,11 @@ Per person, at eight people sharing four rooms. Excludes international flights, 
 **Your accommodation band is $40–80 per person per night. You will spend about $34 on land and about $165 on the boat.** Over eight nights that's $402 per person against a budget of $320–640, so you are inside it.
 
 Nothing on this route needs the top of that band. Three honest options for the surplus:
-1. **Upgrade the cave day.** The Oxalis **Hang En Cave Adventure 2D1N** (9,500,000 VND) is a step-change in ambition over any day tour, if it's running on your dates.
+1. **Put the trek back.** The Oxalis Hang Tien day (2,000,000 VND) in place of the show caves: see Day 6.
 2. **Upgrade two nights.** Hanoi at La Siesta Classic Ma May, Hue at Silk Path Grand on the river.
 3. **Upgrade the train.** Lotus Train or Laman Express cabins on SE19 at ~1,800,000–2,200,000 VND per berth: better bedding and a welcome drink.
 
-I'd take option 1 if Hang En runs; otherwise option 2.
+I'd take option 2.
 
 ---
 
@@ -624,7 +632,7 @@ I'd take option 1 if Hang En runs; otherwise option 2.
 - Restaurants: round up, or 5–10% if there's no service charge.
 - Homestay family dinner: nothing, but a gift for the household if they've gone out of their way.
 - Boat rowers at Van Long and Trang An: 50,000–100,000 VND per boat is normal and welcome.
-- **Oxalis guides, porters and cooks: the one place to tip properly.** A pooled 500,000–1,000,000 VND from the group, handed to the guide for the team.
+- **Oxalis guides, porters and cooks, if you swap the trek in: the one place to tip properly.** A pooled 500,000–1,000,000 VND from the group, handed to the guide for the team.
 - Drivers: 100,000–200,000 VND for a good full day.
 - Hotel staff: 20,000–50,000 VND for bags.
 
@@ -639,12 +647,12 @@ The temperature swing on this route is the thing people get wrong. Hanoi in Dece
 **Bring:**
 - **A proper rain shell**, not a poncho. You will use it in Hue and possibly on Hai Van. Oxalis specifies a waterproof jacket for November–March tours.
 - **Layers for the north:** a thin merino or fleece mid-layer, a long-sleeved shirt, and something warmer for evenings. Nothing heavy.
-- **Quick-dry long trousers and a long-sleeved quick-dry shirt** for the Oxalis day: required for protection against rock, insects and plants.
-- **Trekking or approach shoes with real grip**, broken in. Mua Cave's 486 steps and the Oxalis trail both demand it.
+- **Quick-dry long trousers and a long-sleeved quick-dry shirt** for the Oxalis trek, if you book it: required for protection against rock, insects and plants.
+- **Trekking or approach shoes with real grip**, broken in. Mua Cave's 486 steps and Paradise Cave's 500 both demand it.
 - **Calf-length thick socks** — for leeches on the Oxalis trek in wet conditions.
 - **Swimwear and a quick-dry towel** — the cave pools, whether or not you go in.
 - **A second pair of shoes** so you're not putting wet ones on the next morning.
-- **Clothes that cover shoulders and knees** for the pagodas and the Hue tombs.
+- **Clothes that cover shoulders and knees** for the Ho Chi Minh Mausoleum, pagodas and the Hue tombs.
 - **A small dry bag** for phones on the boats and in the caves.
 - **Motorcycle gloves and, if you're serious, your own helmet.** Rental helmets in Vietnam are legally compliant and not much more. A jacket with some abrasion resistance for the Hai Van day.
 - **Headtorch** — useful on unlit lanes in Tam Coc and boarding a train at 22:00.
@@ -668,13 +676,15 @@ The temperature swing on this route is the thing people get wrong. Hanoi in Dece
 
 **The night train.** Two 4-berth cabins means the group splits 4/4 for the night. Decide the split before you book, because you're buying specific berths. Upper berths have less headroom; assign accordingly.
 
-**The Oxalis tour.** Eight of a 12-person cap. **Book all eight in one transaction** so you're on the same departure. Ask on the phone whether you can have a private departure.
+**Four cabins on one boat.** Book the cruise as one group of four cabins, not four separate bookings, or you may be split across boats.
+
+**The Oxalis tour, if you swap it in.** Eight of a 12-person cap. **Book all eight in one transaction** so you're on the same departure. Ask on the phone whether you can have a private departure.
 
 **Motorbikes.** Eight bikes is more than a small shop stocks in one model. Book early, and expect a mix of models. **Ride in two groups of four** with a designated lead and sweep in each, and agree stop points in advance: eight bikes trying to stay together through Hue traffic will fragment within a kilometre.
 
 **Hotels.** Room counts are the constraint, not price. **Ask for the room count and configuration explicitly**: "two doubles and two twins" is what you want, and "one dorm and a family room" is not the same thing.
 
-**Four cabins on one boat.** Book the cruise as a group of four cabins, not four separate bookings, or you may be split across boats.
+**The mausoleum queue.** Eight people, no bags, no phones: decide who holds the bags outside, or use the bag store, before you join the queue.
 
 **Pace.** Eight adults move at roughly 70% of the speed of two. Every time above has slack in it, but the compounding effect is real: assume 20 minutes of drift on every departure and build it into the morning starts.
 
@@ -775,10 +785,10 @@ Declare medical conditions truthfully on the booking form. Bring your own medica
 ### Seasonal and weather
 - **December is the tail of central Vietnam's wet season.** Hue averages around 350 mm of rain over about 20 days in December. Flood peaks are usually October–November, but "usually" is doing work in that sentence: Hue had record floods in late October 2025.
 - **Hoi An floods.** The old town's flood risk runs from late October to mid-December; on 15 December 2016 the riverside streets were under 1.5–2 m of water. Watch the forecast in the week before, and use Variant A if it's flooding.
-- **Phong Nha–Ke Bang** occasionally closes for 1–3 days in a storm, and the road to Paradise Cave floods. Have Day 5 and Day 7 morning ready to swap.
+- **Phong Nha–Ke Bang** occasionally closes for 1–3 days in a storm, and the road to Paradise Cave floods. Have Day 6 and Day 7 morning ready to swap.
 - **Cold water.** Cave water sits at 20–22°C and December air won't warm you afterward. A comfort risk, not a safety one.
 - **The north is dry but grey.** Persistent drizzle and fog are normal in Hanoi in December, and buildings are unheated.
-- **Fog on the bay.** From December to February, fog and the northeast monsoon can suspend cruise departures. See Day 2's rain plan.
+- **Fog on the bay.** From December to February, fog and the northeast monsoon can suspend cruise departures. See Day 3's rain plan.
 - **Leeches** on the Oxalis trails in wet conditions. Thick calf-length socks.
 
 ### Health and general
@@ -803,26 +813,31 @@ Things that could not be pinned down in the October 2026 re-check, or that moved
 - **Phong Nha Cave boat:** 550,000 VND per boat, 750,000 VND per boat, or 55,000 VND per person — three sources, three models.
 - **Paradise Cave:** 270,000 VND including the buggy (September 2026) or 250,000 plus the buggy (May 2026).
 - **Dark Cave:** 350,000 or 450,000 VND, possibly less off-season.
-- **Ha Long and Lan Ha cruises:** only "from" prices were found, US$150–180 per person for the boats on Day 2; no December 2026 quote. Bay fees are usually included: 290,000–310,000 VND a day on the Ha Long routes, 400,000 VND for a night in Lan Ha (August 2024); the 2026 overnight fee for Ha Long proper wasn't found.
-- **Tuan Chau → Tam Coc van:** US$120 for a 16-seater on a 2024 rate page; no current quote.
+- **Stilt House:** 25,000 or 40,000 VND; morning-only or morning-and-afternoon hours in winter.
+- **Hoa Lo Prison:** 30,000–50,000 VND; the official site has a fee-change notice that couldn't be read.
 - **Vinh Moc Tunnels:** 50,000 or 100,000 VND.
 - **Marble Mountains:** 40,000 VND to climb or 80,000 with the lift; the listing is ambiguous.
 - **Thien Mu dragon boat:** from ~250,000 to 400,000+ VND; agree before boarding.
+- **Ha Long and Lan Ha cruises:** only "from" prices were found, US$150–180 per person for the boats on Day 3; no December 2026 quote. Bay fees are usually included: 290,000–310,000 VND a day on the Ha Long routes, 400,000 VND for a night in Lan Ha (August 2024); the 2026 overnight fee for Ha Long proper wasn't found.
+- **Tuan Chau → Tam Coc van:** US$120 for a 16-seater on a 2024 rate page; no current quote.
 - **Night train fares:** Vietnam Railways from 1,140,000 VND per berth, class not shown.
 - **Hoi An Ancient Town ticket:** 120,000 VND, but the two 2026 descriptions of what it covers differ.
 
 **Schedules I'm unsure about:**
-- **SE19 departure from Ninh Binh:** 21:51, 21:57, 21:58 and 22:21 all appear; arrival in Dong Hoi from 04:40 to 06:00. **Reconfirm on dsvn.vn** — Day 5 morning hangs off this.
-- **Cruise sailing on 13 Dec:** fog and wind can suspend departures from December to February, decided on the day or the afternoon before. See Day 2's rain plan.
+- **SE19 departure from Ninh Binh:** 21:51, 21:57, 21:58 and 22:21 all appear; arrival in Dong Hoi from 04:40 to 06:00. **Reconfirm on dsvn.vn** — Day 6 morning hangs off this.
+- **Ho Chi Minh Mausoleum on Sunday:** closing at 11:00 (Tuoi Tre) or 11:30 (VT). Arrive by 08:00 and it doesn't matter.
+- **Cruise sailing on 14 Dec:** fog and wind can suspend departures from December to February, decided on the day or the afternoon before. See Day 3's rain plan.
 - **Cruise boarding and return:** boarding 11:30–12:30 and back at the pier 10:00–11:30 the next day, depending on the boat.
 - **Hue Imperial City hours:** 07:00 opening in the most recent source, 06:30 in older ones.
 - **Water puppet show times:** some sources list only 16:10, 17:20 and 18:30.
+- **Temple of Literature night tour:** "typically Thu–Sun"; December dates not published.
 - **Heritage train HĐ1 departure from Hue:** 07:05 in 2026 sources, 07:45 at the 2024 launch; Sunday running in December not confirmed.
 - **Oxalis seasons:** Tu Lan is "year-round" on one Oxalis page and "mid-November to mid-September" on another; Hang En starts "in December" with no date.
 
 **Places I can't confirm:**
 - **Hanoi hotels.** Essence Hanoi (22 Ta Hien) now appears as "Aira Boutique"; La Siesta's own site returned an error, though booking sites list it.
 - **Tam Coc Garden.** Now a boutique resort, not the homestay older guides describe; the late check-out fee isn't published.
+- **Hanoi cooking classes.** Hanoi Cooking Centre, Rose Kitchen and Hanoi Chef Class are the names in circulation; current operation and pricing unverified.
 - **Phong Nha restaurants.** Turnover is high and several names in older guides have closed. Ask your hosts.
 - **Individual goat restaurants in Tam Coc.** A dozen signposted *dê núi* places; hours unverifiable.
 - **Mì Quảng Bà Mua branches.** Sources give 95A Nguyen Tri Phuong, 19 Tran Binh Trong, 22 Trung Nu Vuong and 44 Le Dinh Duong. Some may be defunct.

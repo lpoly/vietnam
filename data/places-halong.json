@@ -254,27 +254,6 @@
    "coordsNote": "auto: OpenStreetMap match 'Đền Ngọc Sơn, Cầu Thê Húc, Khu phố cổ, Phường Hoàn Kiếm, Thành phố Hà Nội, 11024, Việt Nam' (not hand-checked)"
   },
   {
-   "id": "temple-of-literature--hanoi",
-   "name": "Temple of Literature",
-   "base": "Hanoi",
-   "days": [
-    1
-   ],
-   "sections": [
-    "activities"
-   ],
-   "where": null,
-   "hours": null,
-   "price": null,
-   "query": "Temple of Literature, Hanoi",
-   "addressInQuery": false,
-   "coords": [
-    21.02879,
-    105.835953
-   ],
-   "coordsNote": "auto: OpenStreetMap match 'Văn Miếu - Quốc Tử Giám, Phường Văn Miếu - Quốc Tử Giám, Thành phố Hà Nội, 11508, Việt Nam' (not hand-checked)"
-  },
-  {
    "id": "thang-long-water-puppet-theatre--hanoi",
    "name": "Thang Long Water Puppet Theatre",
    "base": "Hanoi",
@@ -317,11 +296,313 @@
    "coordsNote": "auto: OpenStreetMap match 'Bảo tàng Phụ nữ Việt Nam, 36, Phố Lý Thường Kiệt, Phường Cửa Nam, Thành phố Hà Nội, 11018, Việt Nam' (not hand-checked)"
   },
   {
+   "id": "bia-hoi-hai-xom--hanoi",
+   "name": "Bia Hơi Hải Xồm",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "activities",
+    "food"
+   ],
+   "where": null,
+   "hours": null,
+   "price": null,
+   "query": "Bia Hơi Hải Xồm, Hanoi",
+   "addressInQuery": false,
+   "coords": null,
+   "coordsNote": "rejected: auto match did not agree with the itinerary"
+  },
+  {
+   "id": "bao-tang-my-thuat-viet-nam--hanoi",
+   "name": "Bảo tàng Mỹ thuật Việt Nam",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "rain"
+   ],
+   "where": "Fine Arts Museum, 66 Nguyen Thai Hoc",
+   "hours": "08:30–17:00",
+   "price": "40,000 VND",
+   "query": "Bảo tàng Mỹ thuật Việt Nam, Fine Arts Museum, 66 Nguyen Thai Hoc, Hanoi",
+   "addressInQuery": true,
+   "coords": [
+    21.030642,
+    105.837036
+   ],
+   "coordsNote": "auto: OpenStreetMap match 'Bảo tàng Mỹ thuật Việt Nam, 66, Phố Nguyễn Thái Học, Yên Thế, Phường Văn Miếu - Quốc Tử Giám, Thành phố Hà Nội, 11508, V' (not hand-checked)"
+  },
+  {
+   "id": "cho-chau-long--hanoi",
+   "name": "Chợ Châu Long (Chau Long Market)",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "food"
+   ],
+   "where": "Chau Long St, Ba Dinh",
+   "hours": null,
+   "price": null,
+   "query": "Chợ Châu Long (Chau Long Market), Chau Long St, Ba Dinh, Hanoi",
+   "addressInQuery": true,
+   "coords": [
+    21.043886,
+    105.841866
+   ],
+   "coordsNote": "auto: OpenStreetMap match 'Chợ Châu Long, Phố Trấn Vũ, Ngũ Xá, Phường Ba Đình, Thành phố Hà Nội, 11120, Việt Nam' (not hand-checked)"
+  },
+  {
+   "id": "hanoi-chef-class--hanoi",
+   "name": "Hanoi Chef Class",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "local"
+   ],
+   "where": null,
+   "hours": null,
+   "price": null,
+   "query": "Hanoi Chef Class",
+   "addressInQuery": false,
+   "coords": null,
+   "coordsNote": null
+  },
+  {
+   "id": "hanoi-cooking-centre--hanoi",
+   "name": "Hanoi Cooking Centre",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "local"
+   ],
+   "where": null,
+   "hours": null,
+   "price": null,
+   "query": "Hanoi Cooking Centre",
+   "addressInQuery": false,
+   "coords": null,
+   "coordsNote": null
+  },
+  {
+   "id": "ho-chi-minh-mausoleum--hanoi",
+   "name": "Ho Chi Minh Mausoleum",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "activities"
+   ],
+   "where": null,
+   "hours": null,
+   "price": null,
+   "query": "Ho Chi Minh Mausoleum, Hanoi",
+   "addressInQuery": false,
+   "coords": [
+    21.036783,
+    105.834689
+   ],
+   "coordsNote": "auto: OpenStreetMap match 'Lăng Chủ tịch Hồ Chí Minh, 1, Đường Hùng Vương, Phường Ba Đình, Thành phố Hà Nội, 11120, Việt Nam' (not hand-checked)"
+  },
+  {
+   "id": "hoa-lo-prison--hanoi",
+   "name": "Hoa Lo Prison",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "activities"
+   ],
+   "where": null,
+   "hours": null,
+   "price": null,
+   "query": "Hoa Lo Prison, Hanoi",
+   "addressInQuery": false,
+   "coords": [
+    21.025422,
+    105.846509
+   ],
+   "coordsNote": "auto: OpenStreetMap match 'Nhà tù Hỏa Lò, 1, Phố Hỏa Lò, Phường Cửa Nam, Thành phố Hà Nội, 11018, Việt Nam' (not hand-checked)"
+  },
+  {
+   "id": "museum-of-ethnology--hanoi",
+   "name": "Museum of Ethnology",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "activities"
+   ],
+   "where": null,
+   "hours": null,
+   "price": null,
+   "query": "Museum of Ethnology, Hanoi",
+   "addressInQuery": false,
+   "coords": [
+    21.040077,
+    105.79884
+   ],
+   "coordsNote": "auto: OpenStreetMap match 'Bảo tàng Dân tộc học Việt Nam, Đường Nguyễn Văn Huyên, Dịch Vọng Tiền, Làng Nghĩa Đô, Phường Nghĩa Đô, Thành phố Hà Nội,' (not hand-checked)"
+  },
+  {
+   "id": "nguyen-huu-huan-and-hang-thung--hanoi",
+   "name": "Nguyen Huu Huan and Hang Thung",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "activities",
+    "food"
+   ],
+   "where": null,
+   "hours": null,
+   "price": null,
+   "query": "Nguyen Huu Huan and Hang Thung, Hanoi",
+   "addressInQuery": false,
+   "coords": null,
+   "coordsNote": null
+  },
+  {
+   "id": "one-pillar-pagoda--hanoi",
+   "name": "One Pillar Pagoda",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "activities"
+   ],
+   "where": null,
+   "hours": null,
+   "price": null,
+   "query": "One Pillar Pagoda, Hanoi",
+   "addressInQuery": false,
+   "coords": [
+    21.035856,
+    105.833614
+   ],
+   "coordsNote": "auto: OpenStreetMap match 'Chùa Một Cột, Phố Ông Ích Khiêm, Xuân Biểu, Phường Ba Đình, Thành phố Hà Nội, 11120, Việt Nam' (not hand-checked)"
+  },
+  {
+   "id": "pho-ha--hanoi",
+   "name": "Phở Hà",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "food"
+   ],
+   "where": "15 Hang Hom St, Hang Gai, Hoan Kiem",
+   "hours": null,
+   "price": null,
+   "query": "Phở Hà, 15 Hang Hom St, Hang Gai, Hoan Kiem, Hanoi",
+   "addressInQuery": true,
+   "coords": null,
+   "coordsNote": "rejected: auto match did not agree with the itinerary"
+  },
+  {
+   "id": "rose-kitchen--hanoi",
+   "name": "Rose Kitchen",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "local"
+   ],
+   "where": null,
+   "hours": null,
+   "price": null,
+   "query": "Rose Kitchen, Hanoi",
+   "addressInQuery": false,
+   "coords": [
+    21.037796,
+    105.82323
+   ],
+   "coordsNote": "auto: OpenStreetMap match 'Rose Kitchen Cooking Classes, Ngách 173/75 Đường Hoàng Hoa Thám, Vạn Bảo, Phường Ngọc Hà, Thành phố Hà Nội, 11119, Việt ' (not hand-checked)"
+  },
+  {
+   "id": "temple-of-literature--hanoi",
+   "name": "Temple of Literature",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "activities"
+   ],
+   "where": null,
+   "hours": null,
+   "price": null,
+   "query": "Temple of Literature, Hanoi",
+   "addressInQuery": false,
+   "coords": [
+    21.02879,
+    105.835953
+   ],
+   "coordsNote": "auto: OpenStreetMap match 'Văn Miếu - Quốc Tử Giám, Phường Văn Miếu - Quốc Tử Giám, Thành phố Hà Nội, 11508, Việt Nam' (not hand-checked)"
+  },
+  {
+   "id": "thang-long-imperial-citadel--hanoi",
+   "name": "Thang Long Imperial Citadel",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "activities"
+   ],
+   "where": null,
+   "hours": "08:00–17:00",
+   "price": "100,000 VND",
+   "query": "Thang Long Imperial Citadel, Hanoi",
+   "addressInQuery": false,
+   "coords": [
+    21.036262,
+    105.840283
+   ],
+   "coordsNote": "auto: OpenStreetMap match 'Hoàng thành Thăng Long, Phường Ba Đình, Thành phố Hà Nội, 11120, Việt Nam' (not hand-checked)"
+  },
+  {
+   "id": "the-presidential-palace-grounds-and-the-stilt-house--hanoi",
+   "name": "The Presidential Palace grounds and the stilt house",
+   "base": "Hanoi",
+   "days": [
+    2
+   ],
+   "sections": [
+    "activities"
+   ],
+   "where": null,
+   "hours": null,
+   "price": null,
+   "query": "The Presidential Palace grounds and the stilt house, Hanoi",
+   "addressInQuery": false,
+   "coords": [
+    21.038171,
+    105.833152
+   ],
+   "coordsNote": "auto: OpenStreetMap match 'Nhà sàn Bác Hồ, Đường Xoài, Phường Ba Đình, Thành phố Hà Nội, 11120, Việt Nam' (not hand-checked)"
+  },
+  {
    "id": "ba-trai-dao-beach--ha-long-bay",
    "name": "Ba Trai Dao beach",
    "base": "Ha Long Bay",
    "days": [
-    2
+    3
    ],
    "sections": [
     "activities"
@@ -339,7 +620,7 @@
    "name": "Dark & Bright Cave",
    "base": "Ha Long Bay",
    "days": [
-    2
+    3
    ],
    "sections": [
     "activities"
@@ -357,7 +638,7 @@
    "name": "Heritage Binh Chuan",
    "base": "Ha Long Bay",
    "days": [
-    2
+    3
    ],
    "sections": [
     "accommodation"
@@ -375,7 +656,7 @@
    "name": "Indochine Cruise",
    "base": "Ha Long Bay",
    "days": [
-    2
+    3
    ],
    "sections": [
     "accommodation"
@@ -393,7 +674,7 @@
    "name": "Indochine Premium",
    "base": "Ha Long Bay",
    "days": [
-    2
+    3
    ],
    "sections": [
     "accommodation"
@@ -411,7 +692,7 @@
    "name": "Lan Ha Bay",
    "base": "Ha Long Bay",
    "days": [
-    2
+    3
    ],
    "sections": [
     "accommodation",
@@ -430,7 +711,7 @@
    "name": "Sung Sot cave",
    "base": "Ha Long Bay",
    "days": [
-    2
+    3
    ],
    "sections": [
     "activities"
@@ -448,7 +729,7 @@
    "name": "Ti Top island",
    "base": "Ha Long Bay",
    "days": [
-    2
+    3
    ],
    "sections": [
     "activities"
@@ -466,7 +747,7 @@
    "name": "Viet Hai",
    "base": "Ha Long Bay",
    "days": [
-    2
+    3
    ],
    "sections": [
     "local"
@@ -484,8 +765,8 @@
    "name": "Bích Động Pagoda",
    "base": "Ninh Binh",
    "days": [
-    3,
-    4
+    4,
+    5
    ],
    "sections": [
     "activities"
@@ -503,8 +784,8 @@
    "name": "Hoa Lu ancient capital",
    "base": "Ninh Binh",
    "days": [
-    3,
-    4
+    4,
+    5
    ],
    "sections": [
     "rain",
@@ -526,8 +807,8 @@
    "name": "Nhà hàng Đức Dê",
    "base": "Ninh Binh",
    "days": [
-    3,
-    4
+    4,
+    5
    ],
    "sections": [
     "food"
@@ -548,7 +829,7 @@
    "name": "Phát Diệm Cathedral",
    "base": "Ninh Binh",
    "days": [
-    3
+    4
    ],
    "sections": [
     "rain"
@@ -569,7 +850,7 @@
    "name": "Tam Coc Garden",
    "base": "Ninh Binh",
    "days": [
-    3
+    4
    ],
    "sections": [
     "accommodation"
@@ -590,7 +871,7 @@
    "name": "Tam Coc Rice Fields Resort",
    "base": "Ninh Binh",
    "days": [
-    3
+    4
    ],
    "sections": [
     "accommodation"
@@ -611,7 +892,7 @@
    "name": "Tam Coc River View Homestay",
    "base": "Ninh Binh",
    "days": [
-    3
+    4
    ],
    "sections": [
     "accommodation"
@@ -629,7 +910,7 @@
    "name": "Van Long Nature Reserve",
    "base": "Ninh Binh",
    "days": [
-    3
+    4
    ],
    "sections": [
     "activities"
@@ -650,7 +931,7 @@
    "name": "Bái Đính Pagoda",
    "base": "Ninh Binh",
    "days": [
-    4
+    5
    ],
    "sections": [
     "activities",
@@ -672,7 +953,7 @@
    "name": "Mua Cave (Hang Múa)",
    "base": "Ninh Binh",
    "days": [
-    4
+    5
    ],
    "sections": [
     "activities"
@@ -693,7 +974,7 @@
    "name": "Ninh Binh Railway Station",
    "base": "Ninh Binh",
    "days": [
-    4
+    5
    ],
    "sections": [
     "movements"
@@ -711,7 +992,7 @@
    "name": "Thung Nham",
    "base": "Ninh Binh",
    "days": [
-    4
+    5
    ],
    "sections": [
     "activities"
@@ -732,7 +1013,7 @@
    "name": "Trang An, Route 2",
    "base": "Ninh Binh",
    "days": [
-    4
+    5
    ],
    "sections": [
     "activities"
@@ -753,7 +1034,7 @@
    "name": "Bong Lai valley",
    "base": "Phong Nha",
    "days": [
-    5
+    6
    ],
    "sections": [
     "guide"
@@ -774,7 +1055,7 @@
    "name": "Chay Lap Farmstay",
    "base": "Phong Nha",
    "days": [
-    5
+    6
    ],
    "sections": [
     "accommodation"
@@ -795,7 +1076,7 @@
    "name": "Chợ Troc / Son Trach morning market",
    "base": "Phong Nha",
    "days": [
-    5
+    6
    ],
    "sections": [
     "food"
@@ -809,11 +1090,32 @@
    "coordsNote": null
   },
   {
+   "id": "dark-cave--phong-nha",
+   "name": "Dark Cave",
+   "base": "Phong Nha",
+   "days": [
+    6
+   ],
+   "sections": [
+    "guide"
+   ],
+   "where": null,
+   "hours": null,
+   "price": null,
+   "query": "Dark Cave, Phong Nha",
+   "addressInQuery": false,
+   "coords": [
+    17.574531,
+    106.2521
+   ],
+   "coordsNote": "auto: OpenStreetMap match 'Dark Cave, Đường Hồ Chí Minh nhánh Tây, Xã Phong Nha, Tỉnh Quảng Trị, 47257, Việt Nam' (not hand-checked)"
+  },
+  {
    "id": "dong-hoi-station--phong-nha",
    "name": "Dong Hoi station",
    "base": "Phong Nha",
    "days": [
-    5
+    6
    ],
    "sections": [
     "movements"
@@ -834,7 +1136,7 @@
    "name": "Mountain View Restaurant",
    "base": "Phong Nha",
    "days": [
-    5
+    6
    ],
    "sections": [
     "food"
@@ -852,7 +1154,7 @@
    "name": "Paradise Cave (Thiên Đường)",
    "base": "Phong Nha",
    "days": [
-    5
+    6
    ],
    "sections": [
     "activities"
@@ -873,7 +1175,7 @@
    "name": "Phong Nha Bamboo Restaurant",
    "base": "Phong Nha",
    "days": [
-    5
+    6
    ],
    "sections": [
     "food"
@@ -891,7 +1193,7 @@
    "name": "Phong Nha Cave by boat",
    "base": "Phong Nha",
    "days": [
-    5
+    6
    ],
    "sections": [
     "activities"
@@ -912,7 +1214,7 @@
    "name": "Phong Nha Farmstay",
    "base": "Phong Nha",
    "days": [
-    5
+    6
    ],
    "sections": [
     "accommodation"
@@ -933,7 +1235,7 @@
    "name": "Thao Nguyen Homestay",
    "base": "Phong Nha",
    "days": [
-    5
+    6
    ],
    "sections": [
     "accommodation"
@@ -951,7 +1253,7 @@
    "name": "The Phong Nha Caves Exploration Museum",
    "base": "Phong Nha",
    "days": [
-    5
+    6
    ],
    "sections": [
     "activities"
@@ -969,7 +1271,7 @@
    "name": "Tien Son Cave",
    "base": "Phong Nha",
    "days": [
-    5
+    6
    ],
    "sections": [
     "activities"
@@ -984,84 +1286,6 @@
     106.282135
    ],
    "coordsNote": "auto: OpenStreetMap match 'Động Tiên Sơn, Xã Phong Nha, Tỉnh Quảng Trị, Việt Nam' (not hand-checked)"
-  },
-  {
-   "id": "bomb-crater-bar--phong-nha",
-   "name": "Bomb Crater Bar",
-   "base": "Phong Nha",
-   "days": [
-    6
-   ],
-   "sections": [
-    "food"
-   ],
-   "where": null,
-   "hours": null,
-   "price": null,
-   "query": "Bomb Crater Bar, Phong Nha",
-   "addressInQuery": false,
-   "coords": [
-    17.619152,
-    106.340349
-   ],
-   "coordsNote": "auto: OpenStreetMap match 'Bomb Crater Bar, Đường Hồ Chí Minh nhánh Đông, Xã Phong Nha, Tỉnh Quảng Trị, 47257, Việt Nam' (not hand-checked)"
-  },
-  {
-   "id": "dark-cave--phong-nha",
-   "name": "Dark Cave",
-   "base": "Phong Nha",
-   "days": [
-    6
-   ],
-   "sections": [
-    "rain"
-   ],
-   "where": null,
-   "hours": null,
-   "price": null,
-   "query": "Dark Cave, Phong Nha",
-   "addressInQuery": false,
-   "coords": [
-    17.574531,
-    106.2521
-   ],
-   "coordsNote": "auto: OpenStreetMap match 'Dark Cave, Đường Hồ Chí Minh nhánh Tây, Xã Phong Nha, Tỉnh Quảng Trị, 47257, Việt Nam' (not hand-checked)"
-  },
-  {
-   "id": "omar-s-namaste--phong-nha",
-   "name": "Omar's Namaste",
-   "base": "Phong Nha",
-   "days": [
-    6
-   ],
-   "sections": [
-    "food"
-   ],
-   "where": null,
-   "hours": null,
-   "price": null,
-   "query": "Omar's Namaste, Phong Nha",
-   "addressInQuery": false,
-   "coords": null,
-   "coordsNote": null
-  },
-  {
-   "id": "tan-hoa--phong-nha",
-   "name": "Tan Hoa",
-   "base": "Phong Nha",
-   "days": [
-    6
-   ],
-   "sections": [
-    "local"
-   ],
-   "where": null,
-   "hours": null,
-   "price": null,
-   "query": "Tan Hoa, Phong Nha",
-   "addressInQuery": false,
-   "coords": null,
-   "coordsNote": null
   },
   {
    "id": "alba-spa-hotel--hue",

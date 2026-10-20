@@ -1,6 +1,6 @@
 # Extraction report
 
-Generated 2026-10-20T20:56:29 from `vietnam-itinerary-12-21-dec-halong.md`.
+Generated 2026-10-20T21:26:02 from `vietnam-itinerary-12-21-dec-halong.md`.
 
 ## Warnings
 
@@ -14,12 +14,12 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
 
 ## Days
 
-- Day 1 2026-12-12 Hanoi — base Hanoi; movements 3, activities 7, food 2, local 1, rain 1
-- Day 2 2026-12-13 Ha Long Bay — base Ha Long Bay; movements 5, activities 5, food 1, local 1, rain 1
-- Day 3 2026-12-14 Ninh Binh — base Ninh Binh; movements 4, activities 4, food 2, local 1, rain 1
-- Day 4 2026-12-15 Ninh Binh, then the night train — base Night train SE19; movements 3, activities 10, food 3, local 1, rain 1
-- Day 5 2026-12-16 Phong Nha — base Phong Nha; movements 4, activities 6, food 3, local 1, rain 1
-- Day 6 2026-12-17 Phong Nha — base Phong Nha; movements 1, activities 5, food 3, local 1, rain 1
+- Day 1 2026-12-12 Hanoi — base Hanoi; movements 3, activities 6, food 2, local 1, rain 1
+- Day 2 2026-12-13 Hanoi — base Hanoi; movements 1, activities 10, food 3, local 1, rain 1
+- Day 3 2026-12-14 Ha Long Bay — base Ha Long Bay; movements 5, activities 5, food 1, local 1, rain 1
+- Day 4 2026-12-15 Ninh Binh — base Ninh Binh; movements 4, activities 4, food 2, local 1, rain 1
+- Day 5 2026-12-16 Ninh Binh, then the night train — base Night train SE19; movements 3, activities 10, food 3, local 1, rain 1
+- Day 6 2026-12-17 Phong Nha — base Phong Nha; movements 4, activities 12, food 3, local 1, rain 1
 - Day 7 2026-12-18 Phong Nha → Hue — base Hue; movements 3, activities 4, food 5, local 1, rain 2
 - Day 8 2026-12-19 Hue — base Hue; movements 1, activities 10, food 3, local 1, rain 1
 - Day 9 2026-12-20 Hai Van Pass → Hoi An — base Hoi An; movements 7, activities 10, food 4, local 1, rain 5
@@ -39,47 +39,58 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
 | la-siesta-premium-hang-be--hanoi | La Siesta Premium Hang Be | Hanoi | [1] | 27 Hang Be, Old Quarter |  |  | La Siesta Premium Hang Be, 27 Hang Be, Old Quarter, Hanoi |
 | long-bien-bridge--hanoi | Long Bien Bridge | Hanoi | [1] |  |  |  | Long Bien Bridge, Hanoi |
 | ngoc-son-temple--hanoi | Ngoc Son Temple | Hanoi | [1] |  |  |  | Ngoc Son Temple, Hanoi |
-| temple-of-literature--hanoi | Temple of Literature | Hanoi | [1] |  |  |  | Temple of Literature, Hanoi |
 | thang-long-water-puppet-theatre--hanoi | Thang Long Water Puppet Theatre | Hanoi | [1] |  |  |  | Thang Long Water Puppet Theatre, Hanoi |
 | vietnamese-women-s-museum--hanoi | Vietnamese Women's Museum | Hanoi | [1] | 36 Ly Thuong Kiet | 08:00–17:00 | 40,000 VND | Vietnamese Women's Museum, 36 Ly Thuong Kiet, Hanoi |
-| ba-trai-dao-beach--ha-long-bay | Ba Trai Dao beach | Ha Long Bay | [2] |  |  |  | Ba Trai Dao beach, Ha Long Bay |
-| dark-bright-cave--ha-long-bay | Dark & Bright Cave | Ha Long Bay | [2] |  |  |  | Dark & Bright Cave, Ha Long Bay |
-| heritage-binh-chuan--ha-long-bay | Heritage Binh Chuan | Ha Long Bay | [2] | Lan Ha, 20 suites |  |  | Heritage Binh Chuan, Lan Ha, 20 suites, Ha Long Bay |
-| indochine-cruise--ha-long-bay | Indochine Cruise | Ha Long Bay | [2] | Lan Ha route, from Tuan Chau |  |  | Indochine Cruise, Lan Ha route, from Tuan Chau, Ha Long Bay |
-| indochine-premium--ha-long-bay | Indochine Premium | Ha Long Bay | [2] | Ha Long Bay proper, 37 cabins |  |  | Indochine Premium, Ha Long Bay proper, 37 cabins |
-| lan-ha-bay--ha-long-bay | Lan Ha Bay | Ha Long Bay | [2] |  |  |  | Lan Ha Bay, Ha Long Bay |
-| sung-sot-cave--ha-long-bay | Sung Sot cave | Ha Long Bay | [2] |  |  |  | Sung Sot cave, Ha Long Bay |
-| ti-top-island--ha-long-bay | Ti Top island | Ha Long Bay | [2] |  |  |  | Ti Top island, Ha Long Bay |
-| viet-hai--ha-long-bay | Viet Hai | Ha Long Bay | [2] |  |  |  | Viet Hai, Ha Long Bay |
-| bich-dong-pagoda--ninh-binh | Bích Động Pagoda | Ninh Binh | [3, 4] | 2 km from Tam Coc wharf, reached by a stone stair through a cave, usually nearly empty |  | free: three tiers of temple built into a limestone cliff | Bích Động Pagoda, Ninh Binh |
-| hoa-lu-ancient-capital--ninh-binh | Hoa Lu ancient capital | Ninh Binh | [3, 4] |  |  |  | Hoa Lu ancient capital, Ninh Binh |
-| nha-hang-duc-de--ninh-binh | Nhà hàng Đức Dê | Ninh Binh | [3, 4] |  |  |  | Nhà hàng Đức Dê, Ninh Binh |
-| phat-diem-cathedral--ninh-binh | Phát Diệm Cathedral | Ninh Binh | [3] | ~30 km south |  | free | Phát Diệm Cathedral, Ninh Binh |
-| tam-coc-garden--ninh-binh | Tam Coc Garden | Ninh Binh | [3] | Restored brick-and-tile buildings in a garden of fish ponds |  |  | Tam Coc Garden, Restored brick-and-tile buildings in a garden of fish ponds, Ninh Binh |
-| tam-coc-rice-fields-resort--ninh-binh | Tam Coc Rice Fields Resort | Ninh Binh | [3] | From about €39 a room (Expedia, July 2026 snapshot) |  |  | Tam Coc Rice Fields Resort, From about €39 a room, Ninh Binh |
-| tam-coc-river-view-homestay--ninh-binh | Tam Coc River View Homestay | Ninh Binh | [3] | 4.7 km from Ninh Binh centre, 300 m from Tam Coc wharf |  |  | Tam Coc River View Homestay, Ninh Binh |
-| van-long-nature-reserve--ninh-binh | Van Long Nature Reserve | Ninh Binh | [3] |  |  |  | Van Long Nature Reserve, Ninh Binh |
-| bai-dinh-pagoda--ninh-binh | Bái Đính Pagoda | Ninh Binh | [4] |  |  | free entry, electric cart 60,000 VND | Bái Đính Pagoda, Ninh Binh |
-| mua-cave--ninh-binh | Mua Cave (Hang Múa) | Ninh Binh | [4] |  |  |  | Mua Cave (Hang Múa), Ninh Binh |
-| ninh-binh-railway-station--ninh-binh | Ninh Binh Railway Station | Ninh Binh | [4] | 1 Hoang Dieu St (some listings say 41 Hoang Hoa Tham — the station has been re-addressed; both refer to the same place, central Ninh Binh city) |  |  | Ninh Binh Railway Station, 1 Hoang Dieu St |
-| thung-nham--ninh-binh | Thung Nham | Ninh Binh | [4] |  |  |  | Thung Nham, Ninh Binh |
-| trang-an-route-2--ninh-binh | Trang An, Route 2 | Ninh Binh | [4] |  |  |  | Trang An, Route 2, Ninh Binh |
-| bong-lai-valley--phong-nha | Bong Lai valley | Phong Nha | [5] |  |  |  | Bong Lai valley, Phong Nha |
-| chay-lap-farmstay--phong-nha | Chay Lap Farmstay | Phong Nha | [5] | If you book Oxalis |  |  | Chay Lap Farmstay, If you book Oxalis, Phong Nha |
-| cho-troc-son-trach-morning-market--phong-nha | Chợ Troc / Son Trach morning market | Phong Nha | [5] | central Phong Nha, from ~05:30 |  |  | Chợ Troc / Son Trach morning market, Phong Nha |
-| dong-hoi-station--phong-nha | Dong Hoi station | Phong Nha | [5] | Thuan Ly St (now Quang Tri province, formerly Quang Binh) |  |  | Dong Hoi station, Thuan Ly St, Phong Nha |
-| mountain-view-restaurant--phong-nha | Mountain View Restaurant | Phong Nha | [5] | both on the main street in Son Trach |  |  | Mountain View Restaurant, Phong Nha |
-| paradise-cave--phong-nha | Paradise Cave (Thiên Đường) | Phong Nha | [5] |  |  |  | Paradise Cave (Thiên Đường), Phong Nha |
-| phong-nha-bamboo-restaurant--phong-nha | Phong Nha Bamboo Restaurant | Phong Nha | [5] |  |  |  | Phong Nha Bamboo Restaurant |
-| phong-nha-cave-by-boat--phong-nha | Phong Nha Cave by boat | Phong Nha | [5] |  |  |  | Phong Nha Cave by boat |
-| phong-nha-farmstay--phong-nha | Phong Nha Farmstay | Phong Nha | [5] | 8 km out of town, surrounded by paddy |  |  | Phong Nha Farmstay |
-| thao-nguyen-homestay--phong-nha | Thao Nguyen Homestay | Phong Nha | [5] |  |  |  | Thao Nguyen Homestay, Phong Nha |
-| the-phong-nha-caves-exploration-museum--phong-nha | The Phong Nha Caves Exploration Museum | Phong Nha | [5] |  |  |  | The Phong Nha Caves Exploration Museum |
-| tien-son-cave--phong-nha | Tien Son Cave | Phong Nha | [5] |  |  | 80,000 VND | Tien Son Cave, Phong Nha |
-| bomb-crater-bar--phong-nha | Bomb Crater Bar | Phong Nha | [6] |  |  |  | Bomb Crater Bar, Phong Nha |
+| bia-hoi-hai-xom--hanoi | Bia Hơi Hải Xồm | Hanoi | [2] |  |  |  | Bia Hơi Hải Xồm, Hanoi |
+| bao-tang-my-thuat-viet-nam--hanoi | Bảo tàng Mỹ thuật Việt Nam | Hanoi | [2] | Fine Arts Museum, 66 Nguyen Thai Hoc | 08:30–17:00 | 40,000 VND | Bảo tàng Mỹ thuật Việt Nam, Fine Arts Museum, 66 Nguyen Thai Hoc, Hanoi |
+| cho-chau-long--hanoi | Chợ Châu Long (Chau Long Market) | Hanoi | [2] | Chau Long St, Ba Dinh |  |  | Chợ Châu Long (Chau Long Market), Chau Long St, Ba Dinh, Hanoi |
+| hanoi-chef-class--hanoi | Hanoi Chef Class | Hanoi | [2] |  |  |  | Hanoi Chef Class |
+| hanoi-cooking-centre--hanoi | Hanoi Cooking Centre | Hanoi | [2] |  |  |  | Hanoi Cooking Centre |
+| ho-chi-minh-mausoleum--hanoi | Ho Chi Minh Mausoleum | Hanoi | [2] |  |  |  | Ho Chi Minh Mausoleum, Hanoi |
+| hoa-lo-prison--hanoi | Hoa Lo Prison | Hanoi | [2] |  |  |  | Hoa Lo Prison, Hanoi |
+| museum-of-ethnology--hanoi | Museum of Ethnology | Hanoi | [2] |  |  |  | Museum of Ethnology, Hanoi |
+| nguyen-huu-huan-and-hang-thung--hanoi | Nguyen Huu Huan and Hang Thung | Hanoi | [2] |  |  |  | Nguyen Huu Huan and Hang Thung, Hanoi |
+| one-pillar-pagoda--hanoi | One Pillar Pagoda | Hanoi | [2] |  |  |  | One Pillar Pagoda, Hanoi |
+| pho-ha--hanoi | Phở Hà | Hanoi | [2] | 15 Hang Hom St, Hang Gai, Hoan Kiem |  |  | Phở Hà, 15 Hang Hom St, Hang Gai, Hoan Kiem, Hanoi |
+| rose-kitchen--hanoi | Rose Kitchen | Hanoi | [2] |  |  |  | Rose Kitchen, Hanoi |
+| temple-of-literature--hanoi | Temple of Literature | Hanoi | [2] |  |  |  | Temple of Literature, Hanoi |
+| thang-long-imperial-citadel--hanoi | Thang Long Imperial Citadel | Hanoi | [2] |  | 08:00–17:00 | 100,000 VND | Thang Long Imperial Citadel, Hanoi |
+| the-presidential-palace-grounds-and-the-stilt-house--hanoi | The Presidential Palace grounds and the stilt house | Hanoi | [2] |  |  |  | The Presidential Palace grounds and the stilt house, Hanoi |
+| ba-trai-dao-beach--ha-long-bay | Ba Trai Dao beach | Ha Long Bay | [3] |  |  |  | Ba Trai Dao beach, Ha Long Bay |
+| dark-bright-cave--ha-long-bay | Dark & Bright Cave | Ha Long Bay | [3] |  |  |  | Dark & Bright Cave, Ha Long Bay |
+| heritage-binh-chuan--ha-long-bay | Heritage Binh Chuan | Ha Long Bay | [3] | Lan Ha, 20 suites |  |  | Heritage Binh Chuan, Lan Ha, 20 suites, Ha Long Bay |
+| indochine-cruise--ha-long-bay | Indochine Cruise | Ha Long Bay | [3] | Lan Ha route, from Tuan Chau |  |  | Indochine Cruise, Lan Ha route, from Tuan Chau, Ha Long Bay |
+| indochine-premium--ha-long-bay | Indochine Premium | Ha Long Bay | [3] | Ha Long Bay proper, 37 cabins |  |  | Indochine Premium, Ha Long Bay proper, 37 cabins |
+| lan-ha-bay--ha-long-bay | Lan Ha Bay | Ha Long Bay | [3] |  |  |  | Lan Ha Bay, Ha Long Bay |
+| sung-sot-cave--ha-long-bay | Sung Sot cave | Ha Long Bay | [3] |  |  |  | Sung Sot cave, Ha Long Bay |
+| ti-top-island--ha-long-bay | Ti Top island | Ha Long Bay | [3] |  |  |  | Ti Top island, Ha Long Bay |
+| viet-hai--ha-long-bay | Viet Hai | Ha Long Bay | [3] |  |  |  | Viet Hai, Ha Long Bay |
+| bich-dong-pagoda--ninh-binh | Bích Động Pagoda | Ninh Binh | [4, 5] | 2 km from Tam Coc wharf, reached by a stone stair through a cave, usually nearly empty |  | free: three tiers of temple built into a limestone cliff | Bích Động Pagoda, Ninh Binh |
+| hoa-lu-ancient-capital--ninh-binh | Hoa Lu ancient capital | Ninh Binh | [4, 5] |  |  |  | Hoa Lu ancient capital, Ninh Binh |
+| nha-hang-duc-de--ninh-binh | Nhà hàng Đức Dê | Ninh Binh | [4, 5] |  |  |  | Nhà hàng Đức Dê, Ninh Binh |
+| phat-diem-cathedral--ninh-binh | Phát Diệm Cathedral | Ninh Binh | [4] | ~30 km south |  | free | Phát Diệm Cathedral, Ninh Binh |
+| tam-coc-garden--ninh-binh | Tam Coc Garden | Ninh Binh | [4] | Restored brick-and-tile buildings in a garden of fish ponds |  |  | Tam Coc Garden, Restored brick-and-tile buildings in a garden of fish ponds, Ninh Binh |
+| tam-coc-rice-fields-resort--ninh-binh | Tam Coc Rice Fields Resort | Ninh Binh | [4] | From about €39 a room (Expedia, July 2026 snapshot) |  |  | Tam Coc Rice Fields Resort, From about €39 a room, Ninh Binh |
+| tam-coc-river-view-homestay--ninh-binh | Tam Coc River View Homestay | Ninh Binh | [4] | 4.7 km from Ninh Binh centre, 300 m from Tam Coc wharf |  |  | Tam Coc River View Homestay, Ninh Binh |
+| van-long-nature-reserve--ninh-binh | Van Long Nature Reserve | Ninh Binh | [4] |  |  |  | Van Long Nature Reserve, Ninh Binh |
+| bai-dinh-pagoda--ninh-binh | Bái Đính Pagoda | Ninh Binh | [5] |  |  | free entry, electric cart 60,000 VND | Bái Đính Pagoda, Ninh Binh |
+| mua-cave--ninh-binh | Mua Cave (Hang Múa) | Ninh Binh | [5] |  |  |  | Mua Cave (Hang Múa), Ninh Binh |
+| ninh-binh-railway-station--ninh-binh | Ninh Binh Railway Station | Ninh Binh | [5] | 1 Hoang Dieu St (some listings say 41 Hoang Hoa Tham — the station has been re-addressed; both refer to the same place, central Ninh Binh city) |  |  | Ninh Binh Railway Station, 1 Hoang Dieu St |
+| thung-nham--ninh-binh | Thung Nham | Ninh Binh | [5] |  |  |  | Thung Nham, Ninh Binh |
+| trang-an-route-2--ninh-binh | Trang An, Route 2 | Ninh Binh | [5] |  |  |  | Trang An, Route 2, Ninh Binh |
+| bong-lai-valley--phong-nha | Bong Lai valley | Phong Nha | [6] |  |  |  | Bong Lai valley, Phong Nha |
+| chay-lap-farmstay--phong-nha | Chay Lap Farmstay | Phong Nha | [6] | If you book Oxalis |  |  | Chay Lap Farmstay, If you book Oxalis, Phong Nha |
+| cho-troc-son-trach-morning-market--phong-nha | Chợ Troc / Son Trach morning market | Phong Nha | [6] | central Phong Nha, from ~05:30 |  |  | Chợ Troc / Son Trach morning market, Phong Nha |
 | dark-cave--phong-nha | Dark Cave | Phong Nha | [6] |  |  |  | Dark Cave, Phong Nha |
-| omar-s-namaste--phong-nha | Omar's Namaste | Phong Nha | [6] |  |  |  | Omar's Namaste, Phong Nha |
-| tan-hoa--phong-nha | Tan Hoa | Phong Nha | [6] |  |  |  | Tan Hoa, Phong Nha |
+| dong-hoi-station--phong-nha | Dong Hoi station | Phong Nha | [6] | Thuan Ly St (now Quang Tri province, formerly Quang Binh) |  |  | Dong Hoi station, Thuan Ly St, Phong Nha |
+| mountain-view-restaurant--phong-nha | Mountain View Restaurant | Phong Nha | [6] | both on the main street in Son Trach |  |  | Mountain View Restaurant, Phong Nha |
+| paradise-cave--phong-nha | Paradise Cave (Thiên Đường) | Phong Nha | [6] |  |  |  | Paradise Cave (Thiên Đường), Phong Nha |
+| phong-nha-bamboo-restaurant--phong-nha | Phong Nha Bamboo Restaurant | Phong Nha | [6] |  |  |  | Phong Nha Bamboo Restaurant |
+| phong-nha-cave-by-boat--phong-nha | Phong Nha Cave by boat | Phong Nha | [6] |  |  |  | Phong Nha Cave by boat |
+| phong-nha-farmstay--phong-nha | Phong Nha Farmstay | Phong Nha | [6] | 8 km out of town, surrounded by paddy |  |  | Phong Nha Farmstay |
+| thao-nguyen-homestay--phong-nha | Thao Nguyen Homestay | Phong Nha | [6] |  |  |  | Thao Nguyen Homestay, Phong Nha |
+| the-phong-nha-caves-exploration-museum--phong-nha | The Phong Nha Caves Exploration Museum | Phong Nha | [6] |  |  |  | The Phong Nha Caves Exploration Museum |
+| tien-son-cave--phong-nha | Tien Son Cave | Phong Nha | [6] |  |  | 80,000 VND | Tien Son Cave, Phong Nha |
 | alba-spa-hotel--hue | Alba Spa Hotel | Hue | [7] | 29 Tran Quang Khai, Phu Hoi |  |  | Alba Spa Hotel, 29 Tran Quang Khai, Phu Hoi, Hue |
 | chi-hanh--hue | Chị Hạnh | Hue | [7] | 11–15 Pho Duc Chinh | 09:00–21:00 |  | Chị Hạnh, 11–15 Pho Duc Chinh, Hue |
 | cho-dong-ba--hue | Chợ Đông Ba | Hue | [7] | Dong Ba Market | roughly 06:00–19:00 |  | Chợ Đông Ba, Dong Ba Market, Hue |
@@ -132,41 +143,48 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
     - price: ~200,000–250,000 VND/person.
     - reserve: **Reserve for eight**: call the day before; the pale-yellow townhouse at 6B is the good branch of three on the same street.
     - reason: One dish only: **chả cá**, turmeric-marinated catfish grilled in banana leaf, then finished at your table with a hedge of dill and spring onion, over rice vermicelli with peanuts and *mắm tôm* shrimp paste.
-- D1 other 17:30 [Hanoi] **Coffee at **Cafe Dinh**, 13 Dinh Tien Hoang** — Cafe Dinh
+- D1 other 16:30 [Hanoi] **Coffee at **Cafe Dinh**, 13 Dinh Tien Hoang** — Cafe Dinh
     - price: Egg coffee (*cà phê trứng*), ~30,000 VND.
     - reason: Coffee at **Cafe Dinh**, 13 Dinh Tien Hoang — up an unmarked staircase beside a silk shop, second floor, overlooking the lake.
-- D2 breakfast  [Ha Long Bay] **on board** — (no named place)
+- D2 breakfast 06:15 [Hanoi] **Chợ Châu Long (Chau Long Market)** — Chợ Châu Long (Chau Long Market)
+    - hours: Opens around 05:30, busiest 06:00–08:00.
+    - price: 30,000–50,000 VND/person.
+    - reason: A working neighbourhood market: live fish in basins, women shelling crab, a dozen breakfast stalls along the interior aisles.
+- D2 lunch 12:00 [Hanoi] **Phở Hà** — Phở Hà
+    - price: ~60,000–80,000 VND.
+    - order: Order **phở gà** (chicken pho, the northern default more than beef) and **bún thang**, a clear broth with shredded egg crêpe, chicken, pork sausage, dried shrimp and a whisper of shrimp paste: the most technically demanding dish in the Hanoi repertoire.
+- D2 dinner 19:00 [Hanoi] **your choice in the Old Quarter** — (no named place)
+- D2 other 20:00 [Hanoi] ***Bia hơi*** — Nguyen Huu Huan and Hang Thung, Bia Hơi Hải Xồm
+    - price: *Bia hơi* — fresh draught beer, brewed and delivered daily, 15,000–20,000 VND a glass.
+    - order: Order *nem chua nướng* (grilled fermented pork) and *đậu phụ tẩm hành* (fried tofu with spring onion) with it.
+    - reason: Go to the corner of **Nguyen Huu Huan and Hang Thung** or **Bia Hơi Hải Xồm**, rather than Ta Hien, which is now largely a backpacker street.
+- D3 breakfast  [Ha Long Bay] **on board** — (no named place)
     - reason: Included in the price on all three boats above; drinks are extra.
-- D3 lunch 14:45 [Ninh Binh] **at the hotel** — (no named place)
+- D4 lunch 14:45 [Ninh Binh] **at the hotel** — (no named place)
     - price: 150,000–200,000 VND/person.
     - order: Ask for **cơm cháy** (Ninh Binh's crisped rice cake, deep-fried, with a pork or goat topping) and a plate of **dê núi**, mountain goat, grilled or steamed with lemongrass and lime leaf.
     - reason: Goat is the provincial obsession; it's raised on the limestone hills.
-- D3 dinner 19:00 [Ninh Binh] **a goat dinner** — Nhà hàng Đức Dê
+- D4 dinner 19:00 [Ninh Binh] **a goat dinner** — Nhà hàng Đức Dê
     - price: At the homestay if they'll cook it, or at **Nhà hàng Đức Dê** or any of the goat restaurants signposted *dê núi* along the Tam Coc road, ~200,000 VND/person.
-- D4 lunch 12:45 [Ninh Binh] **Nhà hàng Đức Dê** — Nhà hàng Đức Dê
+- D5 lunch 12:45 [Ninh Binh] **Nhà hàng Đức Dê** — Nhà hàng Đức Dê
     - price: ~200,000 VND/person.
     - order: Order **dê tái chanh** (goat sliced thin and "cooked" in lime juice with sesame and herbs), **dê nướng lá lốt** (grilled in wild betel leaf) and **cơm cháy**.
     - reason: The hotel will phone ahead for eight.
-- D4 dinner 19:00 [Ninh Binh] **at the hotel** — (no named place)
+- D5 dinner 19:00 [Ninh Binh] **at the hotel** — (no named place)
     - order: Ask for **ốc nấu chuối đậu** (snails stewed with green banana and tofu) if they'll do it, a northern home dish you will almost never see on a menu.
     - reason: **Eat properly before the train**: there's a trolley service on SE19 with instant noodles and beer, and that's all.
-- D4 other  [Ninh Binh] **Buy on the way to the station** — (no named place)
+- D5 other  [Ninh Binh] **Buy on the way to the station** — (no named place)
     - reason: There's a small market and several shops on the approach to Ninh Binh station.
-- D5 breakfast 06:45 [Phong Nha] **Chợ Troc / Son Trach morning market** — Chợ Troc / Son Trach morning market
+- D6 breakfast 06:45 [Phong Nha] **Chợ Troc / Son Trach morning market** — Chợ Troc / Son Trach morning market
     - price: 30,000–40,000 VND/person.
     - order: Order **bánh mì** with pâté and pickled carrot and a bowl of **bún**.
     - reason: Noodle stalls and *bánh mì* carts serving construction crews and cave guides.
-- D5 lunch 12:15 [Phong Nha] **Phong Nha Bamboo Restaurant** — Phong Nha Bamboo Restaurant, Mountain View Restaurant
+- D6 lunch 12:15 [Phong Nha] **Phong Nha Bamboo Restaurant** — Phong Nha Bamboo Restaurant, Mountain View Restaurant
     - price: 80,000–150,000 VND/person.
     - order: Order **cá kho tộ** (fish braised in a clay pot with caramel and pepper) and **lươn xào nghệ** (eel stir-fried with turmeric).
-- D5 dinner 19:00 [Phong Nha] **home-cooked at your homestay** — (no named place)
+- D6 dinner 19:00 [Phong Nha] **home-cooked at your homestay** — (no named place)
     - price: 150,000–250,000 VND/person.
     - reason: Ask when you book.
-- D6 breakfast 06:15 [Phong Nha] **Breakfast** — (no named place)
-    - reason: Your homestay will do it early if you ask the night before; otherwise *bánh mì* from the market at 06:00.
-- D6 dinner 20:15 [Phong Nha] **Phong Nha town** — Bomb Crater Bar, Omar's Namaste
-    - price: 100,000–200,000 VND/person.
-    - reason: You will be tired and hungry.
 - D7 breakfast 06:30 [Phong Nha] **Phong Nha market** — Phong Nha market
     - reason: Light; you're on a bike.
 - D7 lunch 11:30 [En route] **on the road** — (no named place)
@@ -203,29 +221,34 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
 
 ## Section 12 flags
 
-- **Administrative reorganisation** → Day 3 movements; Day 4 movements; Day 5 movements; Day 9 movements; guide:the-night-train; guide:the-night-train; cg-day-8-evening-confirm-the-bike-pick-up-time-and-luggage-drop; view:maps
-- **Van Long** → Day 3 activities; guide:ninh-binh; view:money
-- **Phong Nha Cave boat** → Day 5 activities; guide:phong-nha
-- **Paradise Cave** → Day 5 activities; guide:phong-nha; view:money
-- **Dark Cave** → Day 6 rain; guide:phong-nha
-- **Ha Long and Lan Ha cruises** → Day 2 accommodation; Day 2 accommodation; Day 2 accommodation; guide:ha-long-bay; guide:ha-long-bay; guide:ha-long-bay
-- **Tuan Chau → Tam Coc van** → Day 3 movements; guide:ha-long-bay
+- **Administrative reorganisation** → Day 4 movements; Day 5 movements; Day 6 movements; Day 9 movements; guide:the-night-train; guide:the-night-train; cg-day-8-evening-confirm-the-bike-pick-up-time-and-luggage-drop; view:maps
+- **Van Long** → Day 4 activities; guide:ninh-binh; view:money
+- **Phong Nha Cave boat** → Day 6 activities; guide:phong-nha
+- **Paradise Cave** → Day 6 activities; guide:phong-nha; view:money
+- **Dark Cave** → guide:phong-nha
+- **Stilt House** → Day 2 activities; guide:hanoi
+- **Hoa Lo Prison** → Day 2 activities; guide:hanoi
 - **Vinh Moc Tunnels** → Day 7 activities; guide:hue; view:money
 - **Marble Mountains** → Day 9 activities; guide:hai-van-pass-and-hoi-an; view:money
 - **Thien Mu dragon boat** → Day 8 rain; Day 8 activities; guide:hue
-- **Night train fares** → cl-night-train-se19-15-dec-two-4-berth-soft-sleeper-cabins
+- **Ha Long and Lan Ha cruises** → Day 3 accommodation; Day 3 accommodation; Day 3 accommodation; guide:ha-long-bay; guide:ha-long-bay; guide:ha-long-bay
+- **Tuan Chau → Tam Coc van** → Day 4 movements; guide:ha-long-bay
+- **Night train fares** → cl-night-train-se19-16-dec-two-4-berth-soft-sleeper-cabins
 - **Hoi An Ancient Town ticket** → Day 9 activities; guide:hai-van-pass-and-hoi-an; view:money
-- **SE19 departure from Ninh Binh** → Day 4 movements; Day 5 movements; guide:the-night-train; guide:phong-nha; leg-4; cl-night-train-se19-15-dec-two-4-berth-soft-sleeper-cabins
-- **Cruise sailing on 13 Dec** → Day 1 accommodation; Day 2 movements; Day 2 movements; Day 2 rain; Day 2 accommodation; Day 2 accommodation; Day 3 movements; Day 3 movements; guide:hanoi; guide:hanoi; guide:ha-long-bay; guide:ha-long-bay; guide:ninh-binh; leg-1; leg-2; cl-ha-long-lan-ha-cruise-13-dec-4-cabins-on-one-boat; cl-all-private-vans-han-transfer-hanoi-tuan-chau-unless-the-cru
-- **Cruise boarding and return** → Day 2 movements; Day 3 movements
+- **SE19 departure from Ninh Binh** → Day 5 movements; Day 6 movements; guide:the-night-train; guide:phong-nha; leg-4; cl-night-train-se19-16-dec-two-4-berth-soft-sleeper-cabins
+- **Ho Chi Minh Mausoleum on Sunday** → Day 2 activities; guide:hanoi
+- **Cruise sailing on 14 Dec** → Day 3 movements; Day 3 rain; guide:hanoi; guide:ha-long-bay; leg-1; cl-all-private-vans-han-transfer-hanoi-tuan-chau-unless-the-cru
+- **Cruise boarding and return** → Day 3 movements; Day 4 movements
 - **Hue Imperial City hours** → Day 8 activities; guide:hue
 - **Water puppet show times** → Day 1 activities; guide:hanoi
+- **Temple of Literature night tour** → Day 2 activities; guide:hanoi
 - **Heritage train HĐ1 departure from Hue** → Day 9 rain; guide:hai-van-pass-and-hoi-an
 - **Oxalis seasons** → Day 6 activities; Day 6 activities; guide:phong-nha; guide:phong-nha
 - **Hanoi hotels** → Day 1 accommodation; Day 1 accommodation; guide:hanoi; guide:hanoi
-- **Tam Coc Garden** → Day 3 accommodation; guide:ninh-binh
-- **Phong Nha restaurants** → Day 5 food; Day 6 food; guide:phong-nha; guide:phong-nha
-- **Individual goat restaurants in Tam Coc** → Day 3 food; Day 4 food; guide:ninh-binh
+- **Tam Coc Garden** → Day 4 accommodation; guide:ninh-binh
+- **Hanoi cooking classes** → Day 2 local
+- **Phong Nha restaurants** → Day 6 food; guide:phong-nha
+- **Individual goat restaurants in Tam Coc** → Day 4 food; Day 5 food; guide:ninh-binh
 - **Mì Quảng Bà Mua branches** → Day 9 food; guide:hai-van-pass-and-hoi-an
 - **Bún bò Huế opening hours** → Day 8 food; guide:hue
 - **Hoi An floods** → Day 9 rain; guide:hai-van-pass-and-hoi-an
@@ -234,32 +257,40 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
 
 ## City guide (city-guide-halong.md)
 
-- **Hanoi** — base Hanoi, days [1]
+- **Hanoi** — base Hanoi, days [1, 2]
     - glance: When → no map link
     - glance: Weather → no map link
     - glance: Don't miss → no map link
     - glance: Signature dish → no map link
     - glance: Sleep → no map link
     - see: Hoan Kiem Lake and Ngoc Son Temple → Ngoc Son Temple, Hoan Kiem Lake
-    - see: Temple of Literature → Temple of Literature
+    - see: Ho Chi Minh Mausoleum → Ho Chi Minh Mausoleum · flags v-ho-chi-minh-mausoleum-on-sunday
+    - see: The Presidential Palace grounds and the stilt house → The Presidential Palace grounds and the stilt house, One Pillar Pagoda · flags v-stilt-house
+    - see: Temple of Literature → Temple of Literature · flags v-temple-of-literature-night-tour
+    - see: Hoa Lo Prison → Hoa Lo Prison · flags v-hoa-lo-prison
+    - see: Museum of Ethnology → Museum of Ethnology
+    - see: Thang Long Imperial Citadel → Thang Long Imperial Citadel
     - see: Thang Long Water Puppet Theatre → Thang Long Water Puppet Theatre · flags v-water-puppet-show-times
     - see: Hoan Kiem weekend walking street → Hoan Kiem weekend walking street
     - see: Long Bien Bridge → Long Bien Bridge
     - eat: Bún Chả Đắc Kim → Bún Chả Đắc Kim
     - eat: Chả Cá Thăng Long → Chả Cá Thăng Long
+    - eat: Phở Hà → Phở Hà
     - eat: Cafe Dinh → Cafe Dinh
+    - eat: Bia hơi → Nguyen Huu Huan and Hang Thung, Bia Hơi Hải Xồm
     - shop: Hang Bac → Hang Bac
+    - shop: Chợ Châu Long (Chau Long Market) → Chợ Châu Long (Chau Long Market)
     - stay: La Siesta Premium Hang Be → La Siesta Premium Hang Be · flags v-hanoi-hotels
     - stay: Hanoi La Siesta Classic Ma May → Hanoi La Siesta Classic Ma May · flags v-hanoi-hotels
     - stay: Hanoi Emerald Waters Hotel & Spa → Hanoi Emerald Waters Hotel & Spa
     - move: From the airport → no map link
     - move: Grab → no map link
-    - move: To the bay → no map link · flags v-cruise-sailing-on-13-dec
+    - move: To the bay → no map link · flags v-cruise-sailing-on-14-dec
     - move: Other ways from the airport → no map link
-    - know: Book Sunday night too → no map link · flags v-cruise-sailing-on-13-dec
+    - know: Dress for the mausoleum → no map link
     - know: Train Street → no map link
     - know: Crossing the road → no map link
-- **Ha Long Bay** — base Ha Long Bay, days [2, 3]
+- **Ha Long Bay** — base Ha Long Bay, days [3, 4]
     - glance: When → no map link
     - glance: Weather → no map link
     - glance: Don't miss → no map link
@@ -270,15 +301,15 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
     - see: Ti Top island → Ti Top island
     - see: Viet Hai → Viet Hai
     - see: Swimming → no map link
-    - stay: Indochine Cruise → Indochine Cruise · flags v-ha-long-and-lan-ha-cruises, v-cruise-sailing-on-13-dec
+    - stay: Indochine Cruise → Indochine Cruise · flags v-ha-long-and-lan-ha-cruises
     - stay: Heritage Binh Chuan → Heritage Binh Chuan · flags v-ha-long-and-lan-ha-cruises
     - stay: Indochine Premium → Indochine Premium · flags v-ha-long-and-lan-ha-cruises
-    - move: From Hanoi → no map link · flags v-cruise-sailing-on-13-dec
+    - move: From Hanoi → no map link
     - move: On to Ninh Binh → no map link · flags v-tuan-chau-tam-coc-van
-    - know: Fog and wind can stop the boats → no map link
+    - know: Fog and wind can stop the boats → no map link · flags v-cruise-sailing-on-14-dec
     - know: Bring everything → no map link
     - know: Prices are "from" prices → no map link
-- **Ninh Binh** — base Ninh Binh, days [3, 4]
+- **Ninh Binh** — base Ninh Binh, days [4, 5]
     - glance: When → no map link
     - glance: Weather → no map link
     - glance: Don't miss → no map link
@@ -297,17 +328,17 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
     - stay: Tam Coc River View Homestay → Tam Coc River View Homestay
     - stay: Tam Coc Rice Fields Resort → Tam Coc Rice Fields Resort
     - stay: Tam Coc Garden → Tam Coc Garden · flags v-tam-coc-garden
-    - move: From the bay → no map link · flags v-cruise-sailing-on-13-dec
+    - move: From the bay → no map link
     - move: Other ways from the bay → no map link
     - move: Bicycles → no map link
     - know: Keep two rooms until 21:00 → no map link
     - know: Boats split the group → no map link
-- **The night train** — base Night train SE19, days [4]
+- **The night train** — base Night train SE19, days [5]
     - stay: Two 4-berth soft-sleeper cabins → no map link
     - move: Ninh Binh Railway Station → Ninh Binh Railway Station · flags v-administrative-reorganisation
     - move: Dong Hoi station → Dong Hoi station · flags v-administrative-reorganisation, v-se19-departure-from-ninh-binh
     - move: Other trains and buses → no map link
-- **Phong Nha** — base Phong Nha, days [5, 6, 7]
+- **Phong Nha** — base Phong Nha, days [6, 7]
     - glance: When → no map link
     - glance: Weather → no map link
     - glance: Don't miss → no map link
@@ -322,7 +353,6 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
     - see: Dark Cave → Dark Cave · flags v-dark-cave
     - eat: Chợ Troc / Son Trach morning market → Chợ Troc / Son Trach morning market
     - eat: Phong Nha Bamboo Restaurant → Phong Nha Bamboo Restaurant, Mountain View Restaurant · flags v-phong-nha-restaurants
-    - eat: After the cave day → Bomb Crater Bar, Omar's Namaste · flags v-phong-nha-restaurants
     - stay: Phong Nha Farmstay → Phong Nha Farmstay
     - stay: Thao Nguyen Homestay → Thao Nguyen Homestay
     - move: From the train → no map link
@@ -390,26 +420,36 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
 - D1 Hoan Kiem weekend walking street — placeholder
 - D1 Long Bien Bridge — img/commons/long-bien-bridge.jpg
 - D1 Ngoc Son Temple — placeholder
-- D1 Temple of Literature — img/commons/temple-of-literature.jpg
 - D1 Thang Long Water Puppet Theatre — placeholder
-- D2 Ba Trai Dao beach — placeholder
-- D2 Dark & Bright Cave — placeholder
-- D2 Lan Ha Bay — img/commons/lan-ha-bay.jpg
-- D2 Sung Sot cave — placeholder
-- D2 Ti Top island — placeholder
-- D2 Viet Hai — placeholder
-- D3 Bích Động Pagoda — placeholder
-- D3 Hoa Lu ancient capital — placeholder
-- D3 Van Long Nature Reserve — img/commons/van-long.jpg
-- D4 Bái Đính Pagoda — placeholder
-- D4 Mua Cave (Hang Múa) — img/commons/mua-cave.jpg
-- D4 Thung Nham — placeholder
-- D4 Trang An, Route 2 — img/commons/trang-an.jpg
-- D5 Paradise Cave (Thiên Đường) — img/commons/paradise-cave.jpg
-- D5 Phong Nha Cave by boat — img/commons/phong-nha-cave.jpg
-- D5 The Phong Nha Caves Exploration Museum — placeholder
-- D5 Tien Son Cave — placeholder
-- D6 Tan Hoa — placeholder
+- D2 Bia Hơi Hải Xồm — placeholder
+- D2 Hanoi Chef Class — placeholder
+- D2 Hanoi Cooking Centre — placeholder
+- D2 Ho Chi Minh Mausoleum — img/commons/ho-chi-minh-mausoleum.jpg
+- D2 Hoa Lo Prison — placeholder
+- D2 Museum of Ethnology — placeholder
+- D2 Nguyen Huu Huan and Hang Thung — placeholder
+- D2 One Pillar Pagoda — placeholder
+- D2 Rose Kitchen — placeholder
+- D2 Temple of Literature — img/commons/temple-of-literature.jpg
+- D2 Thang Long Imperial Citadel — placeholder
+- D2 The Presidential Palace grounds and the stilt house — placeholder
+- D3 Ba Trai Dao beach — placeholder
+- D3 Dark & Bright Cave — placeholder
+- D3 Lan Ha Bay — img/commons/lan-ha-bay.jpg
+- D3 Sung Sot cave — placeholder
+- D3 Ti Top island — placeholder
+- D3 Viet Hai — placeholder
+- D4 Bích Động Pagoda — placeholder
+- D4 Hoa Lu ancient capital — placeholder
+- D4 Van Long Nature Reserve — img/commons/van-long.jpg
+- D5 Bái Đính Pagoda — placeholder
+- D5 Mua Cave (Hang Múa) — img/commons/mua-cave.jpg
+- D5 Thung Nham — placeholder
+- D5 Trang An, Route 2 — img/commons/trang-an.jpg
+- D6 Paradise Cave (Thiên Đường) — img/commons/paradise-cave.jpg
+- D6 Phong Nha Cave by boat — img/commons/phong-nha-cave.jpg
+- D6 The Phong Nha Caves Exploration Museum — placeholder
+- D6 Tien Son Cave — placeholder
 - D7 Chợ Đông Ba — placeholder
 - D7 Duck Stop — placeholder
 - D7 Hien Luong Bridge — placeholder

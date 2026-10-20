@@ -66,9 +66,116 @@
    "hero": false
   },
   {
+   "id": "thang-long-water-puppet-theatre--hanoi",
+   "caption": "Thang Long Water Puppet Theatre",
+   "day": 1,
+   "base": "Hanoi",
+   "file": null,
+   "alt": null,
+   "credit": null,
+   "hero": false
+  },
+  {
+   "id": "bia-hoi-hai-xom--hanoi",
+   "caption": "Bia Hơi Hải Xồm",
+   "day": 2,
+   "base": "Hanoi",
+   "file": null,
+   "alt": null,
+   "credit": null,
+   "hero": false
+  },
+  {
+   "id": "hanoi-chef-class--hanoi",
+   "caption": "Hanoi Chef Class",
+   "day": 2,
+   "base": "Hanoi",
+   "file": null,
+   "alt": null,
+   "credit": null,
+   "hero": false
+  },
+  {
+   "id": "hanoi-cooking-centre--hanoi",
+   "caption": "Hanoi Cooking Centre",
+   "day": 2,
+   "base": "Hanoi",
+   "file": null,
+   "alt": null,
+   "credit": null,
+   "hero": false
+  },
+  {
+   "id": "ho-chi-minh-mausoleum--hanoi",
+   "caption": "Ho Chi Minh Mausoleum",
+   "day": 2,
+   "base": "Hanoi",
+   "file": "img/commons/ho-chi-minh-mausoleum.jpg",
+   "alt": "Ho Chi Minh Mausoleum",
+   "credit": {
+    "author": "Gregor Dodson",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ho_chi_minh_mausoleum.jpg",
+    "title": "File:Ho chi minh mausoleum.jpg",
+    "via": "Wikimedia Commons"
+   },
+   "hero": false
+  },
+  {
+   "id": "hoa-lo-prison--hanoi",
+   "caption": "Hoa Lo Prison",
+   "day": 2,
+   "base": "Hanoi",
+   "file": null,
+   "alt": null,
+   "credit": null,
+   "hero": false
+  },
+  {
+   "id": "museum-of-ethnology--hanoi",
+   "caption": "Museum of Ethnology",
+   "day": 2,
+   "base": "Hanoi",
+   "file": null,
+   "alt": null,
+   "credit": null,
+   "hero": false
+  },
+  {
+   "id": "nguyen-huu-huan-and-hang-thung--hanoi",
+   "caption": "Nguyen Huu Huan and Hang Thung",
+   "day": 2,
+   "base": "Hanoi",
+   "file": null,
+   "alt": null,
+   "credit": null,
+   "hero": false
+  },
+  {
+   "id": "one-pillar-pagoda--hanoi",
+   "caption": "One Pillar Pagoda",
+   "day": 2,
+   "base": "Hanoi",
+   "file": null,
+   "alt": null,
+   "credit": null,
+   "hero": false
+  },
+  {
+   "id": "rose-kitchen--hanoi",
+   "caption": "Rose Kitchen",
+   "day": 2,
+   "base": "Hanoi",
+   "file": null,
+   "alt": null,
+   "credit": null,
+   "hero": false
+  },
+  {
    "id": "temple-of-literature--hanoi",
    "caption": "Temple of Literature",
-   "day": 1,
+   "day": 2,
    "base": "Hanoi",
    "file": "img/commons/temple-of-literature.jpg",
    "alt": "Temple of Literature",
@@ -83,9 +190,19 @@
    "hero": false
   },
   {
-   "id": "thang-long-water-puppet-theatre--hanoi",
-   "caption": "Thang Long Water Puppet Theatre",
-   "day": 1,
+   "id": "thang-long-imperial-citadel--hanoi",
+   "caption": "Thang Long Imperial Citadel",
+   "day": 2,
+   "base": "Hanoi",
+   "file": null,
+   "alt": null,
+   "credit": null,
+   "hero": false
+  },
+  {
+   "id": "the-presidential-palace-grounds-and-the-stilt-house--hanoi",
+   "caption": "The Presidential Palace grounds and the stilt house",
+   "day": 2,
    "base": "Hanoi",
    "file": null,
    "alt": null,
@@ -95,7 +212,7 @@
   {
    "id": "ba-trai-dao-beach--ha-long-bay",
    "caption": "Ba Trai Dao beach",
-   "day": 2,
+   "day": 3,
    "base": "Ha Long Bay",
    "file": null,
    "alt": null,
@@ -105,7 +222,7 @@
   {
    "id": "dark-bright-cave--ha-long-bay",
    "caption": "Dark & Bright Cave",
-   "day": 2,
+   "day": 3,
    "base": "Ha Long Bay",
    "file": null,
    "alt": null,
@@ -115,7 +232,7 @@
   {
    "id": "lan-ha-bay--ha-long-bay",
    "caption": "Lan Ha Bay",
-   "day": 2,
+   "day": 3,
    "base": "Ha Long Bay",
    "file": "img/commons/lan-ha-bay.jpg",
    "alt": "Lan Ha Bay",
@@ -132,7 +249,7 @@
   {
    "id": "sung-sot-cave--ha-long-bay",
    "caption": "Sung Sot cave",
-   "day": 2,
+   "day": 3,
    "base": "Ha Long Bay",
    "file": null,
    "alt": null,
@@ -142,7 +259,7 @@
   {
    "id": "ti-top-island--ha-long-bay",
    "caption": "Ti Top island",
-   "day": 2,
+   "day": 3,
    "base": "Ha Long Bay",
    "file": null,
    "alt": null,
@@ -152,7 +269,7 @@
   {
    "id": "viet-hai--ha-long-bay",
    "caption": "Viet Hai",
-   "day": 2,
+   "day": 3,
    "base": "Ha Long Bay",
    "file": null,
    "alt": null,
@@ -162,7 +279,7 @@
   {
    "id": "bich-dong-pagoda--ninh-binh",
    "caption": "Bích Động Pagoda",
-   "day": 3,
+   "day": 4,
    "base": "Ninh Binh",
    "file": null,
    "alt": null,
@@ -172,7 +289,7 @@
   {
    "id": "hoa-lu-ancient-capital--ninh-binh",
    "caption": "Hoa Lu ancient capital",
-   "day": 3,
+   "day": 4,
    "base": "Ninh Binh",
    "file": null,
    "alt": null,
@@ -182,7 +299,7 @@
   {
    "id": "van-long-nature-reserve--ninh-binh",
    "caption": "Van Long Nature Reserve",
-   "day": 3,
+   "day": 4,
    "base": "Ninh Binh",
    "file": "img/commons/van-long.jpg",
    "alt": "Van Long",
@@ -199,7 +316,7 @@
   {
    "id": "bai-dinh-pagoda--ninh-binh",
    "caption": "Bái Đính Pagoda",
-   "day": 4,
+   "day": 5,
    "base": "Ninh Binh",
    "file": null,
    "alt": null,
@@ -209,7 +326,7 @@
   {
    "id": "mua-cave--ninh-binh",
    "caption": "Mua Cave (Hang Múa)",
-   "day": 4,
+   "day": 5,
    "base": "Ninh Binh",
    "file": "img/commons/mua-cave.jpg",
    "alt": "Mua Cave",
@@ -226,7 +343,7 @@
   {
    "id": "thung-nham--ninh-binh",
    "caption": "Thung Nham",
-   "day": 4,
+   "day": 5,
    "base": "Ninh Binh",
    "file": null,
    "alt": null,
@@ -236,7 +353,7 @@
   {
    "id": "trang-an-route-2--ninh-binh",
    "caption": "Trang An, Route 2",
-   "day": 4,
+   "day": 5,
    "base": "Ninh Binh",
    "file": "img/commons/trang-an.jpg",
    "alt": "Trang An",
@@ -253,7 +370,7 @@
   {
    "id": "paradise-cave--phong-nha",
    "caption": "Paradise Cave (Thiên Đường)",
-   "day": 5,
+   "day": 6,
    "base": "Phong Nha",
    "file": "img/commons/paradise-cave.jpg",
    "alt": "Paradise Cave",
@@ -270,7 +387,7 @@
   {
    "id": "phong-nha-cave-by-boat--phong-nha",
    "caption": "Phong Nha Cave by boat",
-   "day": 5,
+   "day": 6,
    "base": "Phong Nha",
    "file": "img/commons/phong-nha-cave.jpg",
    "alt": "Phong Nha Cave",
@@ -287,7 +404,7 @@
   {
    "id": "the-phong-nha-caves-exploration-museum--phong-nha",
    "caption": "The Phong Nha Caves Exploration Museum",
-   "day": 5,
+   "day": 6,
    "base": "Phong Nha",
    "file": null,
    "alt": null,
@@ -297,16 +414,6 @@
   {
    "id": "tien-son-cave--phong-nha",
    "caption": "Tien Son Cave",
-   "day": 5,
-   "base": "Phong Nha",
-   "file": null,
-   "alt": null,
-   "credit": null,
-   "hero": false
-  },
-  {
-   "id": "tan-hoa--phong-nha",
-   "caption": "Tan Hoa",
    "day": 6,
    "base": "Phong Nha",
    "file": null,

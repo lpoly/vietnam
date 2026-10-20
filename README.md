@@ -20,7 +20,7 @@ vietnam-itinerary-12-21-dec-halong.md, city-guide-halong.md   ← the Ha Long Ba
 halong.html, scripts/parse-config.halong.json, data/*-halong.*  ← its page, config and generated data
 ```
 
-**Two versions.** The original route is at `index.html`. The Ha Long Bay version, at `halong.html`, spends Hanoi's second night on an overnight cruise from Tuan Chau (Lan Ha route) and drives straight from the boat to Tam Coc; from 15 December it's identical. Each version's Guide home has a switch to the other, and each keeps its own ticks and settings. Why the night comes out of Hanoi, and what that costs, is in §1 of the Ha Long itinerary and in the research notes.
+**Two versions.** The original route is at `index.html`. The Ha Long Bay version, at `halong.html`, keeps Hanoi's two nights and adds an overnight cruise from Tuan Chau (Lan Ha route) on 14 December, then drives straight from the boat to Tam Coc. Ninh Binh and the night train move a day later, and Phong Nha drops to one night: the show caves stay, and the Oxalis trek becomes an optional swap. From 18 December it's identical. Each version's Guide home has a switch to the other, and each keeps its own ticks and settings. Why the night comes out of Phong Nha, and what that costs, is in §1 of the Ha Long itinerary and in the research notes.
 
 **Version 2 (October 2026).** The route was re-planned around nature and landmarks, with food alongside: Cuc Phuong dropped, Hue at two nights with the royal tombs, and the last night in Hoi An instead of Da Nang. Prices, hours and hotels were re-researched. Every changed figure is traceable in `research-notes-2026-10.md`, and the old files are in `archive/`.
 

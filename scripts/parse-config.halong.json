@@ -8,7 +8,7 @@
   "verify_links": [
     {"subject": "Ha Long and Lan Ha cruises", "match": "US[$]150|US[$]175|US[$]180|Ha Long cruise"},
     {"subject": "Tuan Chau → Tam Coc van", "match": "US[$]120"},
-    {"subject": "Cruise sailing on 13 Dec", "match": "Tuan Chau|cruise"},
+    {"subject": "Cruise sailing on 14 Dec", "match": "Tuan Chau harbour|ruise shuttle|suspend departures"},
     {"subject": "Cruise boarding and return", "match": "Check in and board|back at Tuan Chau|10:30–11:00"}
   ],
   "place_exclude": [
@@ -30,9 +30,5 @@
       "hero": true
     }
   ],
-  "remove": {
-    "verify_links": ["Stilt House", "Hoa Lo Prison", "Ho Chi Minh Mausoleum on Sunday", "Temple of Literature night tour", "Hanoi cooking classes"],
-    "place_exclude": ["Temple of Literature night tour"],
-    "commons": ["Ho Chi Minh Mausoleum"]
-  }
+  "remove": {}
 }
