@@ -203,6 +203,66 @@ Sources for `vietnam-itinerary-12-21-dec-halong.md` and `city-guide-halong.md`. 
   - Quang Ninh became a centrally governed city on 1 Sep 2026 (Resolution 36/2026/QH16); Tuan Chau is a ward (Resolution 1679/NQ-UBTVQH15). Lan Ha is in Hai Phong (Cat Hai special zone).
 - **Descriptions from general knowledge:** Sung Sot as the bay's "big show cave" and Ti Top as a "climb to a viewpoint".
 
+## Northbound re-plan (researched 26 Oct 2026)
+
+The trip now flies Hanoi → Da Nang on arrival day and travels north: Hoi An 12–13, Hue 14, Phong Nha 15–16, SE20 on 17, Ninh Binh 18, Hanoi 19–20, home from Hanoi on 21 Dec. The southbound files are in `archive/*.v2-southbound.md`. Sources for each "other way" are linked inline in §2 of the itinerary. For the figures below, the source names are recorded but not every URL was kept.
+
+- **Planning decisions** (not sources)
+  - The night split is the group's (26 Oct 2026). They land in Hanoi at 10:00 on 12 Dec.
+  - Hue is now one night: the Imperial City on the arrival afternoon, the tombs at 07:00 the next morning in the same van that drives north. Thien Mu is dropped.
+  - Oxalis moves to the first Phong Nha day. The show caves and Bong Lai go to the second, ending with the SE20.
+- **Hanoi → Da Nang**
+  - About 1h20.
+  - Departure times:
+    - Vietjet's afternoon departures, 14:05 / 14:35 / 15:05 / 16:35, and VN179 at 16:05 come from a July schedule of unknown year.
+    - Vietnam Airlines fares start at 966,181 VND; Vietjet's base fares are 400,000–800,000 VND.
+  - Baggage: Vietjet's cheapest fares include 7 kg of cabin bags only; Vietnam Airlines economy includes 23 kg checked.
+  - Noi Bai:
+    - Terminal 2 to Terminal 1 is a free shuttle (the airport's two pages give different hours) or a 10-minute walk.
+    - A separate-ticket connection needs 3.5–4 h.
+    - International check-in opens 180 min and closes 50 min before departure.
+- **SE20, Dong Hoi → Ninh Binh**
+  - 23:54 → 07:59 (Baolau, 1 Nov 2026); older listings give 00:10–00:53.
+  - Private cabins per berth: Lotus 1,800,000; Charmy and New Livitrans 1,900,000; Violette 2,000,000; Laman 2,200,000 VND.
+  - Vietnam Railways fares on Baolau start at 639,000 VND, class not shown. No 4-berth fare was found; the budget's 1,070,000 VND per berth is an estimate.
+  - SE4 and SE2 reach Ninh Binh at 02:11 and 03:21; SE12 is unconfirmed.
+  - The fare rules found: a return-ticket discount from 25 Nov to 30 Dec, and a 5–7% surcharge for buying 2 days or less ahead.
+- **Hoi An → Hue one-way bikes**
+  - Hidden Land Travel / Hue Scooter Rental:
+    - From US$22.
+    - Delivers to the Hoi An hotel; drop-off at 24A Alley 11 Ly Thuong Kiet, Hue.
+    - Luggage free or 50,000 VND a piece (its two sites disagree).
+    - Deposit: a photo of your passport, or US$300.
+  - Hoianit, 84 Phan Chau Trinh: 750,000 VND including luggage.
+  - Motorvina: ~US$22.71, from a search snippet only.
+  - Style Motorbikes: Hoi An shop at 171 Cua Dai; no one-way price found.
+  - A 70,000 VND Hai Van gate ticket "new in 2026" appears in one source only.
+- **Hue → Phong Nha van with tombs and Vinh Moc**
+  - Culture Pham Travel: 3,000,000 VND plus US$15 for Vinh Moc.
+  - Explore Vietnam: US$130 (max 12) plus US$20.
+  - The ~4,500,000 VND in the budget allows for the tomb stops. It is an estimate; ask for a written quote.
+- **Phong Nha → Dong Hoi**
+  - 40–45 km, 45–60 min.
+  - Private-car quotes vary by source: 300,000–700,000, taxi 350,000–600,000, or 800,000–1,200,000 VND.
+- **Da Nang airport → Hoi An**
+  - 40–50 min, about an hour at 17:00.
+  - 16-seat van 750,000–840,000 VND (Vietnam Drive); 7-seat Grab 350,000–450,000; taxi 300,000–450,000 VND.
+- **Weather**
+  - Chance of a wet day: Hoi An falls from about 41% to 22% across December (213 → 79 mm); Hue from about 41% to 21%. This is climatology, not a forecast.
+  - Past December floods:
+    - 15 Dec 2016: Hoi An's riverside streets under 0.7–1 m.
+    - 1 Dec 2020: flooding.
+    - 14 Dec 2024: Hue's rivers near alarm level 2.
+    - 2025: an event that ended on 6 Dec.
+- **Hoi An sights**
+  - My Son: 150,000 VND, 37–50 km, half a day. Open 06:00–18:00, or 17:00 in some sources.
+  - Ancient Town ticket: 120,000 VND, 08:00–17:00. Two 2026 descriptions of what it covers differ.
+  - Lantern boat: 170,000 VND for 1–3 people, 220,000 for 4–5.
+- **Old Quarter → Noi Bai**
+  - 35–60 min.
+  - 7-seat taxi 350,000–450,000 VND; Grab 250,000–350,000 VND.
+  - The van in the budget is 1,200,000 VND.
+
 ## Descriptions not from this research
 The itinerary and guide also contain short descriptions of famous landmarks from general knowledge rather than from the sources above. They carry no prices, times or addresses:
 - the character of the three Hue tombs (Tu Duc's lake and pavilions, Khai Dinh's concrete and mosaic, Minh Mang's symmetry)
@@ -212,5 +272,6 @@ The itinerary and guide also contain short descriptions of famous landmarks from
 - the Marble Mountains' caves and pagodas
 - the red bridge to Ngoc Son Temple
 - *cao lầu*'s ingredients
+- My Son as the Cham temple ruins
 
 The Long Bien Bridge builder's plate (1899–1902, Daydé & Pillé) is as it appears in the Wikimedia Commons photo used on the site.

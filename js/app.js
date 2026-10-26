@@ -103,7 +103,8 @@
     bag: '<path d="M6 7h12l1 14H5z"/><path d="M9 7a3 3 0 0 1 6 0"/>',
     shield: '<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M12 8v4M12 16h.01"/>',
     map: '<path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2z"/><path d="M9 4v14M15 6v14"/>',
-    camera: '<path d="M3 8a2 2 0 0 1 2-2h2l2-2h6l2 2h2a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><circle cx="12" cy="13" r="3.5"/>'
+    camera: '<path d="M3 8a2 2 0 0 1 2-2h2l2-2h6l2 2h2a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><circle cx="12" cy="13" r="3.5"/>',
+    plane: '<path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"/>'
   };
   function ic(name, cls) {
     return '<svg viewBox="0 0 24 24" aria-hidden="true"' + (cls ? ' class="' + cls + '"' : '') + '>' + (PATHS[name] || PATHS.info) + '</svg>';
@@ -116,7 +117,8 @@
     if (section === 'food') return 'food';
     if (section === 'local') return 'people';
     if (section === 'accommodation') return 'bed';
-    if (/\b(train|SE19)\b/i.test(t)) return 'train';
+    if (/\b(flight|fly)\b/i.test(t)) return 'plane';
+    if (/\b(train|SE19|SE20)\b/i.test(t)) return 'train';
     if (/\b(scooters?|motorbikes?|bikes?|bicycles?|Cycle)\b/i.test(t)) return 'bike';
     if (/\b(boats?|wharf|kayak)\b/i.test(t)) return 'boat';
     if (section === 'movements') return /\b(van|transfer|car|Grab|drive|driver)\b/i.test(t) ? 'van' : /foot|walk/i.test(t) ? 'walk' : 'route';
@@ -129,6 +131,7 @@
   function modeIcon(mode) {
     var m = plain(mode);
     if (/train/i.test(m)) return 'train';
+    if (/flight/i.test(m)) return 'plane';
     if (/motorbike|scooter|bicycle/i.test(m)) return 'bike';
     if (/Oxalis|tour/i.test(m)) return 'walk';
     return 'van';

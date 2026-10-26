@@ -1,6 +1,6 @@
 # Extraction report
 
-Generated 2026-10-26T22:41:13 from `vietnam-itinerary-12-21-dec-halong.md`.
+Generated 2026-10-26T22:46:34 from `vietnam-itinerary-12-21-dec-halong.md`.
 
 ## Warnings
 

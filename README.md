@@ -20,9 +20,11 @@ vietnam-itinerary-12-21-dec-halong.md, city-guide-halong.md   ← the Ha Long Ba
 halong.html, scripts/parse-config.halong.json, data/*-halong.*  ← its page, config and generated data
 ```
 
-**Two versions.** The original route is at `index.html`. The Ha Long Bay version, at `halong.html`, keeps Hanoi's two nights and adds an overnight cruise from Tuan Chau (Lan Ha route) on 14 December, then drives straight from the boat to Tam Coc. Ninh Binh and the night train move a day later, and Phong Nha drops to one night: the show caves stay, and the Oxalis trek becomes an optional swap. From 18 December it's identical. Each version's Guide home has a switch to the other, and each keeps its own ticks and settings. Why the night comes out of Phong Nha, and what that costs, is in §1 of the Ha Long itinerary and in the research notes.
+**Two versions.** The main route, at `index.html`, now runs **northbound**: land in Hanoi at 10:00 on 12 December, fly straight on to Da Nang, then Hoi An (2 nights), Hue (1), Phong Nha (2), the SE20 night train, Ninh Binh (1) and Hanoi (2), flying home from Hanoi on 21 December. The Ha Long Bay version is still the earlier, southbound shape (Hanoi first, Hoi An last). The Ha Long Bay version, at `halong.html`, keeps Hanoi's two nights and adds an overnight cruise from Tuan Chau (Lan Ha route) on 14 December, then drives straight from the boat to Tam Coc. Ninh Binh and the night train move a day later, and Phong Nha drops to one night: the show caves stay, and the Oxalis trek becomes an optional swap. From 18 December it's identical. Each version's Guide home has a switch to the other, and each keeps its own ticks and settings. Why the night comes out of Phong Nha, and what that costs, is in §1 of the Ha Long itinerary and in the research notes.
 
 **Version 2 (October 2026).** The route was re-planned around nature and landmarks, with food alongside: Cuc Phuong dropped, Hue at two nights with the royal tombs, and the last night in Hoi An instead of Da Nang. Prices, hours and hotels were re-researched. Every changed figure is traceable in `research-notes-2026-10.md`, and the old files are in `archive/`.
+
+**Version 3 (26 October 2026): northbound.** Same places, reversed, with the group's night split. A domestic flight on arrival day replaces the Hanoi start; Hue drops to one night (Imperial City on arrival, tombs the next morning); Ninh Binh and Hanoi close the trip. The southbound files are `archive/*.v2-southbound.md`. Each stop has a fixed line colour (`base_lines` in `parse-config.json`), so cities keep their colours across both versions. A variant config can now `remove` main-config entries by `id` as well as by subject or place; the Ha Long config uses that to keep its own riding days and Hoan Kiem day.
 
 ## Two sources: the guide and the itinerary
 
@@ -122,21 +124,22 @@ Map tiles come from Esri's World Street Map (server.arcgisonline.com). OpenStree
 
 ## What the site does with uncertainty
 
-- **§12 flags.** Every item in §12 "Verify before you go" appears as a yellow **⚠ Verify** chip on each item it affects (day items, route legs, checklist rows, budget rows, whole views). Expanding the item shows the §12 text verbatim. All 16 items are linked.
+- **§12 flags.** Every item in §12 "Verify before you go" appears as a yellow **⚠ Verify** chip on each item it affects (day items, route legs, checklist rows, budget rows, whole views). Expanding the item shows the §12 text verbatim. Every item is linked; the parser warns if one isn't.
 - **Inline hedges.** Hedges inside the text ("*sources disagree*", "*I can't confirm…*", "(some sources say…)") are highlighted where they appear, and the item gets an **Uncertain** chip so it's visible while collapsed.
-- **Motorbike licensing.** The §11 licensing subsection is a full red card at the top of Risk notes. It is linked from every riding item on Days 8–9 and from the IDP, motorbike and insurance checklist rows.
+- **Motorbike licensing.** The §11 licensing subsection is a full red card at the top of Risk notes. It is linked from every riding item on Days 3 and 6 (Days 7 and 9 in the Ha Long version) and from the IDP, motorbike and insurance checklist rows.
 
-## Known gaps and judgement calls (version 2)
+## Known gaps and judgement calls (version 3, northbound)
 
-1. **Flights aren't booked.** The plan assumes a Da Nang → Hanoi departure no earlier than about 09:00 on 21 December, so the Hoi An night works. If the only option is earlier, use Variant A (Da Nang) in §1.
-2. **The night train timetable for December wasn't published.** The plan uses the most recent Baolau times (21:57 → 05:16). Other sources range from 21:51 to 22:21 for departure and 04:40 to 06:00 for arrival. Everything on Day 5 morning depends on this.
-3. **Tam Coc has no day-use rates.** Keeping two rooms until the train is either a second night or late check-out agreed in writing.
-4. **Hotel prices are October 2026 booking-site snapshots**, not December quotes. Tam Coc Garden is now a boutique resort (about US$248), so it's listed third rather than as the default.
-5. **Day 6's default tour is now Hang Tien** (dry, rated for a mixed group in December). Tu Lan stays as the alternative. Oxalis's own pages disagree on the Tu Lan season.
-6. **The Hue tomb day is full.** One source warns against doing the Imperial City and all three tombs in a single rushed day. The combo ticket is valid for two days, and the rain plan drops two of the tombs.
-7. **Hoi An dinner has no named restaurant.** None was researched, and the plan says so rather than inventing one.
-8. **Landmark descriptions:** a few short descriptions (for example the character of each Hue tomb, or Thien Mu's seven-storey tower) come from general knowledge, not this month's research. They carry no prices or times. See the end of `research-notes-2026-10.md`.
-9. **Every place in a city chapter goes on its city map.** For Hue that includes Vinh Moc, a stop on the drive from Phong Nha. The map frames the city and leaves pins like that at the edge.
-10. **Long Bien Bridge** is now described from its builder's plate (1899–1902, Daydé & Pillé), as seen in the Commons photo, rather than as "1903, Eiffel-designed".
-11. **Food tiles show the first sentence of each entry**, which is often the address and hours. The full entry is under "More".
-12. **Ha Long version: boat prices are "from" prices.** No December 2026 quote was found for any cruise, the Tuan Chau → Tam Coc van price is from a 2024 rate page, and the bay's pins (Lan Ha caves, Viet Hai) have no coordinates yet, only "Open in maps" links. The route map's Ha Long Bay station is the centre of Tuan Chau ward, not the pier itself.
+1. **Flights aren't booked.** On separate tickets the Hanoi → Da Nang flight should leave no earlier than about 14:00 (3.5–4 hours after landing at 10:00, with a terminal change). The afternoon times in the plan come from a July schedule. Vietjet's cheapest fares include only 7 kg of cabin bags.
+2. **The night train timetable for December wasn't published.** The plan uses Baolau's 1 November times for SE20 (Dong Hoi 23:54 → Ninh Binh 07:59); older listings leave Dong Hoi at 00:10–00:53. The 4-berth fare in the budget is an estimate.
+3. **The central coast comes first, in the wetter half of December**, and Hoi An's flood risk runs to mid-December. Days 1–4 all have rain plans; Variant A (sleep in Da Nang) covers a flood.
+4. **Two estimates in the transport budget:** the Hue → Phong Nha van with the tomb stops (~4,500,000 VND; the published quotes don't include the tombs) and the train fare.
+5. **Phong Nha has no day-use rates.** Keeping two rooms until the 22:15 station transfer is a third night or late check-out agreed in writing.
+6. **Hotel prices are October 2026 booking-site snapshots**, not December quotes.
+7. **Day 5's default tour is Hang Tien** (dry, rated for a mixed group in December). Tu Lan stays as the alternative. Oxalis's own pages disagree on the Tu Lan season.
+8. **Hoi An dinner has no named restaurant.** None was researched, and the plan says so rather than inventing one.
+9. **Landmark descriptions:** a few short descriptions (for example the character of each Hue tomb, or My Son as the Cham ruins) come from general knowledge, not this month's research. They carry no prices or times. See the end of `research-notes-2026-10.md`.
+10. **Ride-day places sit under the night's base when they're after 11:00.** Lang Co and the untimed route line on Day 3 file under Hue; the city map frames each city and clips pins far outside it.
+11. **Long Bien Bridge** is now described from its builder's plate (1899–1902, Daydé & Pillé), as seen in the Commons photo, rather than as "1903, Eiffel-designed".
+12. **Food tiles show the first sentence of each entry**, which is often the address and hours. The full entry is under "More".
+13. **Ha Long version: boat prices are "from" prices.** No December 2026 quote was found for any cruise, the Tuan Chau → Tam Coc van price is from a 2024 rate page, and the bay's pins (Lan Ha caves, Viet Hai) have no coordinates yet, only "Open in maps" links. The route map's Ha Long Bay station is the centre of Tuan Chau ward, not the pier itself.
