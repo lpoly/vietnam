@@ -3664,7 +3664,9 @@
        "places": [
         "white-lotus-hue--hue"
        ],
-       "flags": [],
+       "flags": [
+        "v-night-train-fares"
+       ],
        "risks": [],
        "uncertain": false,
        "base": "Hue",
@@ -7146,6 +7148,17 @@
     "line": 823,
     "affects": [
      {
+      "day": 7,
+      "section": "accommodation",
+      "item": "d7-acc-1",
+      "title": "White Lotus Hue"
+     },
+     {
+      "guide": "hue",
+      "item": "g-hue-stay-1",
+      "title": "White Lotus Hue"
+     },
+     {
       "checklist": "cl-night-train-se19-16-dec-two-4-berth-soft-sleeper-cabins",
       "title": "**Night train SE19, 16 Dec, two 4-berth soft-sleeper cabins**"
      }
@@ -7636,7 +7649,7 @@
   "versions": [
    {
     "page": "index.html",
-    "label": "Original route"
+    "label": "Northbound from Da Nang"
    },
    {
     "page": "halong.html",
@@ -9524,7 +9537,9 @@
         "places": [
          "white-lotus-hue--hue"
         ],
-        "flags": [],
+        "flags": [
+         "v-night-train-fares"
+        ],
         "risks": [],
         "line": 268,
         "uncertain": false
@@ -12783,5 +12798,5 @@
    "hero": false
   }
  },
- "generated": "2026-10-20T21:26:02"
+ "generated": "2026-10-26T22:41:13"
 }

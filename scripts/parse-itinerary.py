@@ -37,9 +37,10 @@ if VARIANT:
     for k, v in VCFG.items():
         if k != "remove":
             CFG[k] = CFG.get(k, []) + v if isinstance(v, list) and k != "versions" else v
-    # Entries of the main lists that don't apply to this version, by subject, place or plain string.
+    # Entries of the main lists that don't apply to this version, by subject, place, id or plain string.
     for k, names in VCFG.get("remove", {}).items():
-        CFG[k] = [x for x in CFG[k] if (x.get("subject") or x.get("place") if isinstance(x, dict) else x) not in names]
+        CFG[k] = [x for x in CFG[k]
+                  if (x.get("subject") or x.get("place") or x.get("id") if isinstance(x, dict) else x) not in names]
 SUFFIX = f"-{VARIANT}" if VARIANT else ""
 SRC = ROOT / CFG["source"]
 DATA = ROOT / "data"

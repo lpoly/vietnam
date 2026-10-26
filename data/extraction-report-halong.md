@@ -1,6 +1,6 @@
 # Extraction report
 
-Generated 2026-10-20T21:26:02 from `vietnam-itinerary-12-21-dec-halong.md`.
+Generated 2026-10-26T22:41:13 from `vietnam-itinerary-12-21-dec-halong.md`.
 
 ## Warnings
 
@@ -233,7 +233,7 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
 - **Thien Mu dragon boat** → Day 8 rain; Day 8 activities; guide:hue
 - **Ha Long and Lan Ha cruises** → Day 3 accommodation; Day 3 accommodation; Day 3 accommodation; guide:ha-long-bay; guide:ha-long-bay; guide:ha-long-bay
 - **Tuan Chau → Tam Coc van** → Day 4 movements; guide:ha-long-bay
-- **Night train fares** → cl-night-train-se19-16-dec-two-4-berth-soft-sleeper-cabins
+- **Night train fares** → Day 7 accommodation; guide:hue; cl-night-train-se19-16-dec-two-4-berth-soft-sleeper-cabins
 - **Hoi An Ancient Town ticket** → Day 9 activities; guide:hai-van-pass-and-hoi-an; view:money
 - **SE19 departure from Ninh Binh** → Day 5 movements; Day 6 movements; guide:the-night-train; guide:phong-nha; leg-4; cl-night-train-se19-16-dec-two-4-berth-soft-sleeper-cabins
 - **Ho Chi Minh Mausoleum on Sunday** → Day 2 activities; guide:hanoi
@@ -380,7 +380,7 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
     - eat: Bánh khoái → Lạc Thiện, Chị Hạnh
     - eat: Cơm hến → Cơm Hến Bà Đen, Cơm hến Hương
     - shop: Chợ Đông Ba (Dong Ba Market) → Chợ Đông Ba
-    - stay: White Lotus Hue → White Lotus Hue
+    - stay: White Lotus Hue → White Lotus Hue · flags v-night-train-fares
     - stay: Alba Spa Hotel → Alba Spa Hotel
     - stay: Silk Path Grand Hue → Silk Path Grand Hue
     - move: The tomb day → no map link

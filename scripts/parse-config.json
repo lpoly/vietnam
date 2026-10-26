@@ -5,17 +5,20 @@
   "_versions": "One page per itinerary version, shown as a switch on the Guide home. A variant config (parse-config.<name>.json) overrides `page`.",
   "page": "index.html",
   "versions": [
-    {"page": "index.html", "label": "Original route"},
-    {"page": "halong.html", "label": "With Ha Long Bay"}
+    {
+      "page": "index.html",
+      "label": "Northbound from Da Nang"
+    },
+    {
+      "page": "halong.html",
+      "label": "With Ha Long Bay"
+    }
   ],
   "_place_exclude": "Bold spans that look like proper nouns but are not places (dishes, operators, labels, instructions).",
   "place_exclude": [
     "Grab",
     "Ninh Hải",
-    "Nam Hoa Lư",
     "Ninh Binh city",
-    "HĐ1",
-    "HĐ3",
     "Culture Pham Travel",
     "Style Motorbikes",
     "Motorvina",
@@ -25,29 +28,29 @@
     "Mì Quảng",
     "Phong Nha town",
     "Motorbikes, Bong Lai valley loop",
-    "Van, Phong Nha → Hue",
-    "The Heritage Train, Hue → Da Nang",
     "Oxalis",
     "Tam Coc",
     "Hoi An",
-    "Cơm hến",
-    "Train SE19 → Dong Hoi, arriving 05:16",
-    "Motorbikes, Bong Lai valley loop",
-    "Van, Phong Nha → Hue",
     "Hoan Kiem Lake and Ngoc Son Temple",
     "Temple of Literature night tour",
     "Hoi An: cao lầu",
     "Or",
     "Bún bò Huế",
     "The site thanglongwaterpuppet.org is not the theatre's",
-    "Because the train leaves at night",
-    "Back by dragon boat",
-    "Hue, before the bikes",
-    "Hue Private Cars",
-    "Hue Scooter Rental / Hidden Land Travel",
     "Hang Tien Cave Day Trek",
     "Oxalis Tu Lan Experience (1 day)",
-    "Bong Lai valley by scooter"
+    "Bong Lai valley by scooter",
+    "Flight Hanoi → Da Nang",
+    "Hoi An Ancient Town at night",
+    "Lantern boat on the Thu Bon",
+    "Terminal 1",
+    "Terminal 2",
+    "Hidden Land Travel / Hue Scooter Rental",
+    "Hoianit",
+    "HĐ2",
+    "HĐ4",
+    "Late afternoon is right",
+    "Van, Tam Coc → Hanoi Old Quarter"
   ],
   "place_exclude_prefixes": [
     "Reserve",
@@ -125,13 +128,15 @@
   "extra_places": [
     {
       "name": "Ngoc Son Temple",
-      "day": 1,
-      "section": "activities"
+      "day": 8,
+      "section": "activities",
+      "id": "ngoc-son-temple-north"
     },
     {
       "name": "Hoan Kiem Lake",
-      "day": 1,
-      "section": "activities"
+      "day": 8,
+      "section": "activities",
+      "id": "hoan-kiem-lake-north"
     }
   ],
   "_verify_links": "Ties each item of section 12 ('Verify before you go') to the items it affects. 'subject' is the bold lead of the section-12 entry. 'match' (and optional 'require') are regexes tested against each item's text. 'views' adds the flag to whole views.",
@@ -183,21 +188,38 @@
       "require": "40,000|80,000"
     },
     {
-      "subject": "Thien Mu dragon boat",
-      "match": "[Dd]ragon boat"
+      "subject": "Night train fares",
+      "match": "8,560,000|1,800,000–2,200,000|Lotus|1,140,000"
     },
     {
-      "subject": "Night train fares",
-      "match": "1,140,000"
+      "subject": "Hai Van gate ticket",
+      "match": "gate ticket"
+    },
+    {
+      "subject": "Hoi An → Hue bikes",
+      "match": "Hidden Land|Hoianit|Motorvina"
+    },
+    {
+      "subject": "Phong Nha → Dong Hoi transfer",
+      "match": "Dong Hoi station",
+      "require": "1,300,000|1,200,000"
+    },
+    {
+      "subject": "Hanoi → Da Nang afternoon flights",
+      "match": "Hanoi → Da Nang|Da Nang flight|14:05"
+    },
+    {
+      "subject": "SE20 departure from Dong Hoi",
+      "match": "SE20"
+    },
+    {
+      "subject": "Heritage train HĐ2 departure from Da Nang",
+      "match": "HĐ2"
     },
     {
       "subject": "Hoi An Ancient Town ticket",
       "match": "Hoi An Ancient Town|Ancient Town",
       "require": "120,000"
-    },
-    {
-      "subject": "SE19 departure from Ninh Binh",
-      "match": "Train SE19|train SE19|Dong Hoi station"
     },
     {
       "subject": "Ho Chi Minh Mausoleum on Sunday",
@@ -219,10 +241,6 @@
       "require": "199,000"
     },
     {
-      "subject": "Heritage train HĐ1 departure from Hue",
-      "match": "HĐ1"
-    },
-    {
       "subject": "Oxalis seasons",
       "match": "Tu Lan Experience \\(1 day\\)|Hang Tien Cave Day Trek|Hang En"
     },
@@ -235,20 +253,12 @@
       "match": "Tam Coc Garden"
     },
     {
-      "subject": "Hanoi cooking classes",
-      "match": "Cooking Centre|[Cc]ooking class"
-    },
-    {
       "subject": "Phong Nha restaurants",
       "match": "Bamboo Restaurant|Bomb Crater Bar"
     },
     {
       "subject": "Individual goat restaurants in Tam Coc",
       "match": "goat restaurant|Đức Dê|nhà hàng dê|goat dinner"
-    },
-    {
-      "subject": "Mì Quảng Bà Mua branches",
-      "match": "Bà Mua"
     },
     {
       "subject": "Bún bò Huế opening hours",
@@ -280,13 +290,14 @@
     {
       "risk": "Motorbike licensing — read this before you book bikes",
       "days": [
-        7,
-        9
+        3,
+        6
       ],
       "sections": [
         "movements"
       ],
-      "match": "[Ss]cooter|[Mm]otorbike|bikes"
+      "match": "[Ss]cooter|[Mm]otorbike|bikes",
+      "id": "bike-days"
     },
     {
       "risk": "Motorbike licensing — read this before you book bikes",
@@ -386,12 +397,6 @@
       "hero": false
     },
     {
-      "caption": "Thien Mu Pagoda",
-      "place": "Thien Mu Pagoda",
-      "file": "File:Hue Vietnam Thien-Mu-Temple-and-Pagoda-01.jpg",
-      "hero": false
-    },
-    {
       "caption": "Lang Co",
       "place": "Lang Co / Lap An Lagoon",
       "file": "File:Lăng Cô, Hải Vân Pass, 2020-01 CN-04.jpg",
@@ -430,5 +435,14 @@
     "The riverfront and Truong Tien Bridge",
     "The weekend night market",
     "Two 4-berth soft-sleeper cabins"
-  ]
+  ],
+  "_base_lines": "Fixed line colour per stop, so each city keeps its colour in every version whatever the order.",
+  "base_lines": {
+    "Hanoi": 0,
+    "Ninh Binh": 1,
+    "Night train SE20": 2,
+    "Phong Nha": 3,
+    "Hue": 4,
+    "Hoi An": 5
+  }
 }

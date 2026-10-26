@@ -101,6 +101,9 @@ def nominatim(q):
 ALIASES = {
     "Hue Imperial City (Đại Nội)": ["Đại Nội, Huế", "Hoàng thành Huế"],
     "Thien Mu Pagoda": ["Chùa Thiên Mụ, Huế"],
+    "My Son Sanctuary": ["Thánh địa Mỹ Sơn", "Mỹ Sơn"],
+    "Bích Động Pagoda": ["Chùa Bích Động", "Bích Động"],
+    "Tan Hoa": ["Tân Hóa, Minh Hóa", "Tân Hóa, Quảng Trị"],
     "Hai Van Pass": ["Hải Vân Quan", "Đèo Hải Vân"],
     "Marble Mountains": ["Ngũ Hành Sơn, Đà Nẵng"],
     "Trang An, Route 2": ["Bến thuyền Tràng An", "Khu du lịch sinh thái Tràng An"],

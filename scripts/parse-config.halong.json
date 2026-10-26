@@ -3,13 +3,53 @@
   "source": "vietnam-itinerary-12-21-dec-halong.md",
   "guide_source": "city-guide-halong.md",
   "page": "halong.html",
-  "_base_lines": "Ha Long Bay gets the seventh line colour so the other stops keep their colours from the original version.",
-  "base_lines": {"Ha Long Bay": 6},
+  "_base_lines": "Ha Long Bay gets the seventh line colour; the other stops keep the fixed colours from parse-config.json, with the forward-direction night train's own name.",
+  "base_lines": {
+    "Hanoi": 0,
+    "Ninh Binh": 1,
+    "Night train SE19": 2,
+    "Phong Nha": 3,
+    "Hue": 4,
+    "Hoi An": 5,
+    "Ha Long Bay": 6
+  },
   "verify_links": [
-    {"subject": "Ha Long and Lan Ha cruises", "match": "US[$]150|US[$]175|US[$]180|Ha Long cruise"},
-    {"subject": "Tuan Chau → Tam Coc van", "match": "US[$]120"},
-    {"subject": "Cruise sailing on 14 Dec", "match": "Tuan Chau harbour|ruise shuttle|suspend departures"},
-    {"subject": "Cruise boarding and return", "match": "Check in and board|back at Tuan Chau|10:30–11:00"}
+    {
+      "subject": "Thien Mu dragon boat",
+      "match": "[Dd]ragon boat"
+    },
+    {
+      "subject": "SE19 departure from Ninh Binh",
+      "match": "Train SE19|train SE19|Dong Hoi station"
+    },
+    {
+      "subject": "Heritage train HĐ1 departure from Hue",
+      "match": "HĐ1"
+    },
+    {
+      "subject": "Hanoi cooking classes",
+      "match": "Cooking Centre|[Cc]ooking class"
+    },
+    {
+      "subject": "Mì Quảng Bà Mua branches",
+      "match": "Bà Mua"
+    },
+    {
+      "subject": "Ha Long and Lan Ha cruises",
+      "match": "US[$]150|US[$]175|US[$]180|Ha Long cruise"
+    },
+    {
+      "subject": "Tuan Chau → Tam Coc van",
+      "match": "US[$]120"
+    },
+    {
+      "subject": "Cruise sailing on 14 Dec",
+      "match": "Tuan Chau harbour|ruise shuttle|suspend departures"
+    },
+    {
+      "subject": "Cruise boarding and return",
+      "match": "Check in and board|back at Tuan Chau|10:30–11:00"
+    }
   ],
   "place_exclude": [
     "Ha Long Bay",
@@ -17,7 +57,19 @@
     "Swimming",
     "Sunset and the evening on deck",
     "Fog and wind can",
-    "These are \"from\" prices"
+    "These are \"from\" prices",
+    "Nam Hoa Lư",
+    "HĐ1",
+    "HĐ3",
+    "Van, Phong Nha → Hue",
+    "The Heritage Train, Hue → Da Nang",
+    "Cơm hến",
+    "Train SE19 → Dong Hoi, arriving 05:16",
+    "Because the train leaves at night",
+    "Back by dragon boat",
+    "Hue, before the bikes",
+    "Hue Private Cars",
+    "Hue Scooter Rental / Hidden Land Travel"
   ],
   "guide_not_places": [
     "Kayaking or a bamboo boat"
@@ -28,7 +80,67 @@
       "place": "Lan Ha Bay",
       "file": "File:Lan Ha bay jonques.jpg",
       "hero": true
+    },
+    {
+      "caption": "Thien Mu Pagoda",
+      "place": "Thien Mu Pagoda",
+      "file": "File:Hue Vietnam Thien-Mu-Temple-and-Pagoda-01.jpg",
+      "hero": false
     }
   ],
-  "remove": {}
+  "remove": {
+    "verify_links": [
+      "Hai Van gate ticket",
+      "Hoi An → Hue bikes",
+      "Phong Nha → Dong Hoi transfer",
+      "Hanoi → Da Nang afternoon flights",
+      "SE20 departure from Dong Hoi",
+      "Heritage train HĐ2 departure from Da Nang"
+    ],
+    "risk_links": [
+      "bike-days"
+    ],
+    "extra_places": [
+      "ngoc-son-temple-north",
+      "hoan-kiem-lake-north"
+    ],
+    "place_exclude": [
+      "Flight Hanoi → Da Nang",
+      "Hoi An Ancient Town at night",
+      "Terminal 1",
+      "Hidden Land Travel / Hue Scooter Rental",
+      "Hoianit",
+      "HĐ2",
+      "HĐ4",
+      "Late afternoon is right",
+      "Van, Tam Coc → Hanoi Old Quarter",
+      "Lantern boat on the Thu Bon"
+    ]
+  },
+  "risk_links": [
+    {
+      "id": "bike-days-halong",
+      "risk": "Motorbike licensing — read this before you book bikes",
+      "days": [
+        7,
+        9
+      ],
+      "sections": [
+        "movements"
+      ],
+      "match": "[Ss]cooter|[Mm]otorbike|bikes"
+    }
+  ],
+  "extra_places": [
+    {
+      "name": "Ngoc Son Temple",
+      "day": 1,
+      "section": "activities"
+    },
+    {
+      "name": "Hoan Kiem Lake",
+      "day": 1,
+      "section": "activities"
+    }
+  ]
 }
