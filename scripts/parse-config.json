@@ -10,8 +10,8 @@
       "label": "Northbound from Da Nang"
     },
     {
-      "page": "halong.html",
-      "label": "With Ha Long Bay"
+      "page": "southbound.html",
+      "label": "Southbound from Hanoi"
     }
   ],
   "_place_exclude": "Bold spans that look like proper nouns but are not places (dishes, operators, labels, instructions).",

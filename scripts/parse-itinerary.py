@@ -29,8 +29,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CFG = json.loads((ROOT / "scripts" / "parse-config.json").read_text("utf-8"))
-# Another version of the trip: `python scripts/parse-itinerary.py halong` reads scripts/parse-config.halong.json
-# on top of the main config (lists are extended, everything else replaced) and writes data/*-halong.* files.
+# Another version of the trip: `python scripts/parse-itinerary.py southbound` reads scripts/parse-config.southbound.json
+# on top of the main config (lists are extended, everything else replaced) and writes data/*-southbound.* files.
 VARIANT = sys.argv[1] if len(sys.argv) > 1 else None
 if VARIANT:
     VCFG = json.loads((ROOT / "scripts" / f"parse-config.{VARIANT}.json").read_text("utf-8"))

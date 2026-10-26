@@ -14,17 +14,17 @@ data/places.json                 ← every place; add coordinates here
 data/photos.json                 ← photo slots; add your own photos here
 data/extraction-report.md        ← what the parser found, and anything it could not place
 research-notes-2026-10.md        ← sources for every price and time changed in the October 2026 re-plan
-archive/                         ← the first version of the itinerary and guide, for reference
+archive/                         ← earlier versions, and the retired Ha Long Bay version, for reference
 
-vietnam-itinerary-12-21-dec-halong.md, city-guide-halong.md   ← the Ha Long Bay version (see below)
-halong.html, scripts/parse-config.halong.json, data/*-halong.*  ← its page, config and generated data
+vietnam-itinerary-12-21-dec-southbound.md, city-guide-southbound.md   ← the southbound version (see below)
+southbound.html, scripts/parse-config.southbound.json, data/*-southbound.*  ← its page, config and generated data
 ```
 
-**Two versions.** The main route, at `index.html`, now runs **northbound**: land in Hanoi at 10:00 on 12 December, fly straight on to Da Nang, then Hoi An (2 nights), Hue (1), Phong Nha (2), the SE20 night train, Ninh Binh (1) and Hanoi (2), flying home from Hanoi on 21 December. The Ha Long Bay version is still the earlier, southbound shape (Hanoi first, Hoi An last). The Ha Long Bay version, at `halong.html`, keeps Hanoi's two nights and adds an overnight cruise from Tuan Chau (Lan Ha route) on 14 December, then drives straight from the boat to Tam Coc. Ninh Binh and the night train move a day later, and Phong Nha drops to one night: the show caves stay, and the Oxalis trek becomes an optional swap. From 18 December it's identical. Each version's Guide home has a switch to the other, and each keeps its own ticks and settings. Why the night comes out of Phong Nha, and what that costs, is in §1 of the Ha Long itinerary and in the research notes.
+**Two versions.** The main route, at `index.html`, now runs **northbound**: land in Hanoi at 10:00 on 12 December, fly straight on to Da Nang, then Hoi An (2 nights), Hue (1), Phong Nha (2), the SE20 night train, Ninh Binh (1) and Hanoi (2), flying home from Hanoi on 21 December. The southbound version, at `southbound.html`, is the version 2 route unchanged: Hanoi 12–13, Ninh Binh 14, SE19 on 15, Phong Nha 16–17, Hue 18–19 and Hoi An 20, flying out of Da Nang. Each version's Guide home has a switch to the other, and each keeps its own ticks and settings. The Ha Long Bay version it replaced (an overnight cruise on 14 December) is in `archive/` with its config, places and photos; to bring it back, move those files out and restore `halong.html` and its `versions` entry from git.
 
 **Version 2 (October 2026).** The route was re-planned around nature and landmarks, with food alongside: Cuc Phuong dropped, Hue at two nights with the royal tombs, and the last night in Hoi An instead of Da Nang. Prices, hours and hotels were re-researched. Every changed figure is traceable in `research-notes-2026-10.md`, and the old files are in `archive/`.
 
-**Version 3 (26 October 2026): northbound.** Same places, reversed, with the group's night split. A domestic flight on arrival day replaces the Hanoi start; Hue drops to one night (Imperial City on arrival, tombs the next morning); Ninh Binh and Hanoi close the trip. The southbound files are `archive/*.v2-southbound.md`. Each stop has a fixed line colour (`base_lines` in `parse-config.json`), so cities keep their colours across both versions. A variant config can now `remove` main-config entries by `id` as well as by subject or place; the Ha Long config uses that to keep its own riding days and Hoan Kiem day.
+**Version 3 (26 October 2026): northbound.** Same places, reversed, with the group's night split. A domestic flight on arrival day replaces the Hanoi start; Hue drops to one night (Imperial City on arrival, tombs the next morning); Ninh Binh and Hanoi close the trip. The southbound files became the southbound version. Each stop has a fixed line colour (`base_lines` in `parse-config.json`), so cities keep their colours across both versions. A variant config can now `remove` main-config entries by `id` as well as by subject or place; the southbound config uses that to keep its own riding days and Hoan Kiem day.
 
 ## Two sources: the guide and the itinerary
 
@@ -68,11 +68,11 @@ Node is not needed. There is no `npm start`, because there is nothing to build.
 ## Regenerate after editing the itinerary
 
 ```
-python scripts/parse-itinerary.py           # the original version
-python scripts/parse-itinerary.py halong    # the Ha Long Bay version
+python scripts/parse-itinerary.py              # the northbound version (index.html)
+python scripts/parse-itinerary.py southbound   # the southbound version
 ```
 
-Python 3.9+ with the standard library only. Run both after changing anything the versions share (the parser, `parse-config.json`), and the one you edited otherwise. The Ha Long run reads `scripts/parse-config.halong.json` on top of the main config: its lists are added to the main ones, `remove` takes main entries out, and it writes `data/trip-halong.*`, `places-halong.json`, `photos-halong.json` and `extraction-report-halong.md`. The Ha Long markdown was made from the original, so a fact changed in one usually needs changing in the other.
+Python 3.9+ with the standard library only. Run both after changing anything the versions share (the parser, `parse-config.json`), and the one you edited otherwise. The southbound run reads `scripts/parse-config.southbound.json` on top of the main config: its lists are added to the main ones, `remove` takes main entries out, and it writes `data/trip-southbound.*`, `places-southbound.json`, `photos-southbound.json` and `extraction-report-southbound.md`. The two markdown files share most facts, so a fact changed in one usually needs changing in the other.
 
 Then open the extraction report and check two sections:
 
@@ -126,7 +126,7 @@ Map tiles come from Esri's World Street Map (server.arcgisonline.com). OpenStree
 
 - **§12 flags.** Every item in §12 "Verify before you go" appears as a yellow **⚠ Verify** chip on each item it affects (day items, route legs, checklist rows, budget rows, whole views). Expanding the item shows the §12 text verbatim. Every item is linked; the parser warns if one isn't.
 - **Inline hedges.** Hedges inside the text ("*sources disagree*", "*I can't confirm…*", "(some sources say…)") are highlighted where they appear, and the item gets an **Uncertain** chip so it's visible while collapsed.
-- **Motorbike licensing.** The §11 licensing subsection is a full red card at the top of Risk notes. It is linked from every riding item on Days 3 and 6 (Days 7 and 9 in the Ha Long version) and from the IDP, motorbike and insurance checklist rows.
+- **Motorbike licensing.** The §11 licensing subsection is a full red card at the top of Risk notes. It is linked from every riding item on Days 3 and 6 (Days 7 and 9 in the southbound version) and from the IDP, motorbike and insurance checklist rows.
 
 ## Known gaps and judgement calls (version 3, northbound)
 
@@ -142,4 +142,3 @@ Map tiles come from Esri's World Street Map (server.arcgisonline.com). OpenStree
 10. **Ride-day places sit under the night's base when they're after 11:00.** Lang Co and the untimed route line on Day 3 file under Hue; the city map frames each city and clips pins far outside it.
 11. **Long Bien Bridge** is now described from its builder's plate (1899–1902, Daydé & Pillé), as seen in the Commons photo, rather than as "1903, Eiffel-designed".
 12. **Food tiles show the first sentence of each entry**, which is often the address and hours. The full entry is under "More".
-13. **Ha Long version: boat prices are "from" prices.** No December 2026 quote was found for any cruise, the Tuan Chau → Tam Coc van price is from a 2024 rate page, and the bay's pins (Lan Ha caves, Viet Hai) have no coordinates yet, only "Open in maps" links. The route map's Ha Long Bay station is the centre of Tuan Chau ward, not the pier itself.

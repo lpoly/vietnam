@@ -4,7 +4,7 @@ Wikimedia Commons photos for the six well-known sights only (see "commons" in pa
 
     python scripts/fetch-commons.py search "Long Bien Bridge"   # list candidate files + licences to review
     python scripts/fetch-commons.py fetch                        # download the files named in parse-config.json
-    python scripts/fetch-commons.py fetch halong                 # the same for the Ha Long version (parse-config.halong.json)
+    python scripts/fetch-commons.py fetch southbound             # the same for the southbound version (parse-config.southbound.json)
 
 `fetch` downloads a 1280px rendition of each chosen file into img/commons/, records the author,
 licence and source page in data/photos.json, then re-runs the parser so the site picks it up.

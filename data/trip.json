@@ -7056,8 +7056,8 @@
     "label": "Northbound from Da Nang"
    },
    {
-    "page": "halong.html",
-    "label": "With Ha Long Bay"
+    "page": "southbound.html",
+    "label": "Southbound from Hanoi"
    }
   ]
  },
@@ -11579,5 +11579,5 @@
    "hero": false
   }
  },
- "generated": "2026-10-26T22:46:34"
+ "generated": "2026-10-26T23:08:49"
 }
