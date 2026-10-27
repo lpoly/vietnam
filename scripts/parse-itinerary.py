@@ -1402,6 +1402,22 @@ def report(trip, unused, places, slots):
     (DATA / f"extraction-report{SUFFIX}.md").write_text("\n".join(L) + "\n", "utf-8")
 
 
+def parse_bookings():
+    """The group's own log (bookings.md): what's booked, what's to do, decisions. Kept verbatim; the site picks
+    the layout from each table's columns."""
+    name = CFG.get("bookings_source")
+    if not name:
+        return None, []
+    path = ROOT / name
+    if not path.exists():
+        warn(f"Bookings source {name} not found; the Bookings log will be empty")
+        return None, []
+    blocks = parse_blocks(path.read_text("utf-8").splitlines())
+    doc = sectionize(blocks)
+    return {"title": doc["title"], "intro": generic(doc["pre"]),
+            "sections": [{"title": s["title"], "nodes": generic(s["blocks"])} for s in doc["sections"]]}, blocks
+
+
 def main():
     if not SRC.exists():
         sys.exit(f"Source not found: {SRC}")
@@ -1430,6 +1446,7 @@ def main():
                    "versions": CFG.get("versions", [])},
     }
     trip["guide"], guide_blocks = parse_guide(route["bases"], days)
+    trip["bookings"], booking_blocks = parse_bookings()
     # The "3. Day by day" heading has no body of its own.
     find_section(doc, "3.")
     link_verify(trip)
@@ -1448,7 +1465,7 @@ def main():
     slots = merge_photos(days)
     trip["places"] = {p["id"]: p for p in places}
     trip["photos"] = {s["id"]: s for s in slots}
-    unused = unused_blocks(blocks) + unused_blocks(guide_blocks)
+    unused = unused_blocks(blocks) + unused_blocks(guide_blocks) + unused_blocks(booking_blocks)
 
     DATA.mkdir(exist_ok=True)
     trip["generated"] = datetime.datetime.now().isoformat(timespec="seconds")

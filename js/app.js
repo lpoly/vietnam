@@ -720,6 +720,71 @@
     setTitle('Booking checklist');
     return h;
   }
+  /* ------------------------------------------------------------------ views: BOOKINGS (bookings.md) */
+  // The layout follows each table's columns: one with "Paid" lists bookings, one with "Who" is a to-do list.
+  function colIndex(n, name) {
+    for (var i = 0; i < n.header.length; i++) if (plain(n.header[i]).toLowerCase() === name) return i;
+    return -1;
+  }
+  function bookingTables(kind) {
+    var out = [];
+    ((T.bookings || {}).sections || []).forEach(function (s) {
+      s.nodes.forEach(function (n) { if (n.kind === 'table' && colIndex(n, kind) >= 0) out.push(n); });
+    });
+    return out;
+  }
+  function todoId(row, ai) { return 'todo-' + plain(row[ai]).toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 60); }
+  function bookingCounts() {
+    var booked = 0, todo = 0, open = 0;
+    bookingTables('paid').forEach(function (n) { booked += n.rows.length; });
+    bookingTables('who').forEach(function (n) {
+      var ai = colIndex(n, 'action');
+      n.rows.forEach(function (r) { todo++; if (!S.checks[todoId(r, ai)]) open++; });
+    });
+    return { booked: booked, todo: todo, open: open };
+  }
+  function bookedCardsHTML(n) {
+    var c = function (r, k) { var i = colIndex(n, k); return i >= 0 ? r[i] : ''; };
+    return n.rows.map(function (r) {
+      var paid = plain(c(r, 'paid'));
+      var cls = /^(yes|paid)/i.test(paid) ? 'status-ok' : /^not yet|^no\b/i.test(paid) ? 'status-bad' : 'muted';
+      return '<div class="card booking"><div class="card-label">' + ic('check', 'i-sm') + esc(plain(c(r, 'date'))) + '</div>' +
+        '<div class="booking-what">' + md(c(r, 'what')) + '</div>' +
+        '<div class="booking-price">' + md(c(r, 'price')) + '</div>' +
+        '<p class="small">' + md(c(r, 'with')) + ' · booked by <b>' + md(c(r, 'booked by')) + '</b> via ' + md(c(r, 'how')) + '</p>' +
+        '<p class="small">Paid: <span class="' + cls + '">' + md(c(r, 'paid')) + '</span></p></div>';
+    }).join('');
+  }
+  function todoHTML(n) {
+    var wi = colIndex(n, 'when'), ai = colIndex(n, 'action'), oi = colIndex(n, 'who');
+    return n.rows.map(function (r) {
+      var id = todoId(r, ai), isDone = !!S.checks[id], who = plain(r[oi] || '');
+      return '<div class="check' + (isDone ? ' done' : '') + '"><input type="checkbox" id="c-' + esc(id) + '" data-check="' + esc(id) + '"' + (isDone ? ' checked' : '') + '>' +
+        '<div><label for="c-' + esc(id) + '">' + (wi >= 0 ? '<span class="urgency">' + esc(plain(r[wi])) + '</span>' : '') +
+        '<div class="check-item">' + md(r[ai]) + '</div>' +
+        (who && who !== '—' ? '<div class="check-why">' + ic('people', 'i-xs') + ' ' + md(r[oi]) + '</div>' : '') + '</label></div></div>';
+    }).join('');
+  }
+  function viewBookings() {
+    var B = T.bookings;
+    if (!B) return notFound();
+    var k = bookingCounts();
+    var h = '<h1 class="view-title">' + md(B.title) + '</h1>' + nodesHTML(B.intro);
+    if (!storageOk) h += '<p class="storage-note">This browser is blocking storage, so ticks will be lost when you close the page.</p>';
+    B.sections.forEach(function (s) {
+      var count = s.nodes.some(function (n) { return n.kind === 'table' && colIndex(n, 'who') >= 0; })
+        ? ' <span class="sec-count">' + (k.todo - k.open) + '/' + k.todo + '</span>' : '';
+      h += '<h2 class="section-title">' + md(s.title) + count + '</h2>';
+      s.nodes.forEach(function (n) {
+        if (n.kind === 'table' && colIndex(n, 'paid') >= 0) h += bookedCardsHTML(n);
+        else if (n.kind === 'table' && colIndex(n, 'who') >= 0 && colIndex(n, 'action') >= 0) h += todoHTML(n);
+        else h += nodesHTML([n]);
+      });
+    });
+    h += '<p class="small muted" style="margin-top:18px">Ticks are saved on this device only. To mark something done for everyone, edit <code>bookings.md</code> and regenerate.</p>';
+    setTitle('Bookings');
+    return h;
+  }
   function progress(done, total) {
     var pct = total ? Math.round(done / total * 100) : 0;
     return '<div class="progress"><div class="progress-text">' + done + ' of ' + total + ' done</div><div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="' + total + '" aria-valuenow="' + done + '"><span style="width:' + pct + '%"></span></div></div>';
@@ -903,6 +968,7 @@
   function viewMore() {
     var h = '<h1 class="view-title">More</h1><ul class="menu">' +
       menuItem('#/today', 'Today', 'Next movement, where you sleep, meals', 'clock') +
+      (T.bookings ? menuItem('#/bookings', 'Bookings log', 'What’s booked, who does what next, and what we decided', 'wallet') : '') +
       menuItem('#/checklist', 'Booking checklist', 'What to book, in order of urgency', 'check') +
       menuItem('#/reference/verify', 'Verify before you go', 'Every uncertain price, time and place', 'alert') +
       menuItem('#/maps', 'All places on maps', 'Every place, with maps search links', 'map') +
@@ -1053,6 +1119,11 @@
     if (ctx.inTrip) {
       h += '<a class="today-banner" href="#/today"><span class="pill live">Day ' + ctx.day.n + '</span><span><b>' + md(ctx.day.label) + '</b>' +
         '<span class="small">See what’s happening today</span></span>' + ic('arrow') + '</a>';
+    }
+    if (T.bookings) {
+      var bk = bookingCounts();
+      h += '<a class="today-banner" href="#/bookings"><span class="pill">' + bk.booked + ' booked</span><span><b>Bookings log</b>' +
+        '<span class="small">' + bk.open + ' things still to do</span></span>' + ic('arrow') + '</a>';
     }
     h += '<div class="prose home-intro">' + G.intro.slice(1).map(function (t) { return '<p>' + md(t) + '</p>'; }).join('') + '</div>';
     h += '<h2 class="h2">The places</h2><div class="city-stack">';
@@ -1235,7 +1306,8 @@
     var h = '<h1 class="view-title">The plan</h1>' +
       '<div class="plan-links">' +
       '<a class="card plan-link" href="#/today">' + ic('clock') + '<span><b>' + (ctx.inTrip ? 'Today · Day ' + ctx.day.n : 'Today') + '</b><span class="muted small">Next movement, bed, meals</span></span></a>' +
-      '<a class="card plan-link" href="#/checklist">' + ic('check') + '<span><b>Bookings</b><span class="muted small">' + done + ' of ' + all.length + ' done</span></span></a>' +
+      (T.bookings ? '<a class="card plan-link" href="#/bookings">' + ic('wallet') + '<span><b>Bookings log</b><span class="muted small">' + bookingCounts().booked + ' booked · ' + bookingCounts().open + ' to do</span></span></a>' : '') +
+      '<a class="card plan-link" href="#/checklist">' + ic('check') + '<span><b>Checklist</b><span class="muted small">' + done + ' of ' + all.length + ' done</span></span></a>' +
       '</div>';
     h += viewRoute().replace(/^<h1 class="view-title">[\s\S]*?<\/h1>/, '<h2 class="section-title">Day by day</h2>');
     setTitle('The plan');
@@ -1273,6 +1345,7 @@
     else if (tab === 'route') html = viewRoute();
     else if (tab === 'food') html = viewFood();
     else if (tab === 'checklist') html = viewChecklist();
+    else if (tab === 'bookings') html = viewBookings();
     else if (tab === 'money') html = viewReference('money');
     else if (tab === 'reference' || tab === 'essentials') html = viewReference(p[1]);
     else if (tab === 'maps') html = viewMaps();
@@ -1282,7 +1355,7 @@
     view.classList.toggle('flush-top', tab === 'guide' || tab === 'city');
     flushMaps();
     paintRainToggle();
-    var navTab = { city: 'guide', day: 'plan', today: 'plan', route: 'plan', checklist: 'plan', money: 'essentials', reference: (p[1] === 'verify' ? 'more' : 'essentials'), maps: 'more' }[tab] || tab;
+    var navTab = { city: 'guide', day: 'plan', today: 'plan', route: 'plan', checklist: 'plan', bookings: 'plan', money: 'essentials', reference: (p[1] === 'verify' ? 'more' : 'essentials'), maps: 'more' }[tab] || tab;
     document.body.classList.toggle('show-rain', ['plan', 'today', 'day', 'route'].indexOf(tab) >= 0);
     Array.prototype.forEach.call(document.querySelectorAll('.tabbar a'), function (a) {
       if (a.getAttribute('data-tab') === navTab) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');

@@ -177,3 +177,9 @@ details.why > summary { font-size: 14px; min-height: 36px; }
 /* Version switch on the home card: one link per itinerary version. */
 .versions { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 0; }
 .versions .fchip[aria-current="page"] { background: var(--ink); border-color: var(--ink); color: var(--surface); }
+
+/* Bookings log */
+.booking { margin: 0 0 10px; }
+.booking-what { font-weight: 800; font-size: 17px; line-height: 1.3; }
+.booking-price { font-weight: 800; color: var(--money); margin: 4px 0 2px; }
+.booking p { margin: 4px 0 0; }

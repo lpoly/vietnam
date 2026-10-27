@@ -9298,6 +9298,7 @@
   ],
   "source": "city-guide-southbound.md"
  },
+ "bookings": null,
  "viewFlags": {
   "maps": [
    "v-administrative-reorganisation"
@@ -11921,5 +11922,5 @@
    "hero": false
   }
  },
- "generated": "2026-10-26T23:09:43"
+ "generated": "2026-10-27T10:57:42"
 }

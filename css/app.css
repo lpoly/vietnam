@@ -124,6 +124,12 @@ details > summary, .toolbar a, .toolbar button, .chip.risk {
   display: flex; align-items: center; gap: 10px;
   background: #101114; color: #ffffff;
 }
+.home-btn {
+  flex: none; display: inline-flex; align-items: center; justify-content: center;
+  width: 44px; height: 44px; margin-left: -10px; border-radius: 999px; color: inherit;
+}
+.home-btn svg { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.home-btn:active { background: rgba(255, 255, 255, 0.14); }
 .topbar-title {
   color: inherit; text-decoration: none; font-weight: 800; font-size: 17px;
   flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;

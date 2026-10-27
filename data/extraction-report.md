@@ -1,6 +1,6 @@
 # Extraction report
 
-Generated 2026-10-26T23:08:49 from `vietnam-itinerary-12-21-dec.md`.
+Generated 2026-10-27T10:57:42 from `vietnam-itinerary-12-21-dec.md`.
 
 ## Warnings
 
@@ -16,7 +16,7 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
 
 - Day 1 2026-12-12 Hanoi → Hoi An — base Hoi An; movements 5, activities 4, food 2, local 1, rain 1
 - Day 2 2026-12-13 Hoi An — base Hoi An; movements 1, activities 3, food 3, local 1, rain 1
-- Day 3 2026-12-14 Hai Van Pass → Hue — base Hue; movements 7, activities 7, food 5, local 1, rain 5
+- Day 3 2026-12-14 Hai Van Pass → Hue — base Hue; movements 4, activities 7, food 5, local 1, rain 3
 - Day 4 2026-12-15 Hue → Phong Nha — base Phong Nha; movements 2, activities 7, food 3, local 1, rain 1
 - Day 5 2026-12-16 Phong Nha — base Phong Nha; movements 1, activities 5, food 3, local 1, rain 1
 - Day 6 2026-12-17 Phong Nha, then the night train — base Night train SE20; movements 4, activities 6, food 3, local 1, rain 1
@@ -28,8 +28,9 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
 
 | id | name | base | days | where | hours | price | maps query |
 |---|---|---|---|---|---|---|---|
-| emm-hotel-hoi-an--hoi-an | Emm Hotel Hoi An | Hoi An | [1] | 0.7 km from the old town, rated 9.2 |  |  | Emm Hotel Hoi An |
+| emm-hotel-hoi-an--hoi-an | Emm Hotel Hoi An | Hoi An | [1] | If the booking falls through: 0.7 km from the old town, rated 9.2 |  |  | Emm Hotel Hoi An, If the booking falls through: 0.7 km from the old town, rated 9.2 |
 | hoi-an-historic-hotel--hoi-an | Hoi An Historic Hotel | Hoi An | [1] |  |  |  | Hoi An Historic Hotel |
+| nu-ni-hotel-hoi-an--hoi-an | Nu Ni Hotel Hoi An | Hoi An | [1] |  |  |  | Nu Ni Hotel Hoi An |
 | river-suites-hoi-an--hoi-an | River Suites Hoi An | Hoi An | [1] |  |  |  | River Suites Hoi An |
 | hoi-an-ancient-town--hoi-an | Hoi An Ancient Town | Hoi An | [2] |  |  |  | Hoi An Ancient Town |
 | japanese-covered-bridge--hoi-an | Japanese Covered Bridge | Hoi An | [2] |  |  |  | Japanese Covered Bridge, Hoi An |
@@ -194,7 +195,7 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
 
 ## Section 12 flags
 
-- **Administrative reorganisation** → Day 3 movements; Day 6 movements; Day 7 movements; Day 7 movements; guide:the-night-train; guide:the-night-train; cg-day-2-hoi-an-confirm-the-bike-delivery-time-and-the-hue-drop; view:maps
+- **Administrative reorganisation** → Day 6 movements; Day 7 movements; Day 7 movements; guide:the-night-train; guide:the-night-train; cg-day-2-hoi-an-confirm-quang-s-08-00-pick-up-the-pass-road-and; view:maps
 - **Van Long** → Day 7 rain; Day 7 activities; guide:ninh-binh; view:money
 - **Phong Nha Cave boat** → Day 6 activities; guide:phong-nha
 - **Paradise Cave** → Day 6 activities; guide:phong-nha; view:money
@@ -204,7 +205,6 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
 - **Vinh Moc Tunnels** → Day 4 activities; guide:hue; view:money
 - **Marble Mountains** → Day 3 activities; guide:hoi-an-and-the-hai-van-pass; view:money
 - **Hai Van gate ticket** → Day 3 movements; guide:hoi-an-and-the-hai-van-pass; view:money
-- **Hoi An → Hue bikes** → Day 3 movements; guide:hoi-an-and-the-hai-van-pass; cl-hoi-an-hue-motorbikes-8-with-luggage-transfer
 - **Night train fares** → Day 3 accommodation; guide:hue; guide:the-night-train
 - **Phong Nha → Dong Hoi transfer** → Day 6 movements; guide:phong-nha
 - **Hoi An Ancient Town ticket** → Day 2 activities; guide:hoi-an-and-the-hai-van-pass; view:money
@@ -242,16 +242,14 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
     - eat: Cao lầu → no map link
     - eat: Mì Quảng → no map link
     - eat: Seafood at Lang Co → no map link
-    - stay: Emm Hotel Hoi An → Emm Hotel Hoi An
-    - stay: River Suites Hoi An → River Suites Hoi An
-    - stay: Hoi An Historic Hotel → Hoi An Historic Hotel
+    - stay: Nu Ni Hotel Hoi An → Nu Ni Hotel Hoi An
+    - stay: If that falls through → no map link
     - move: The Da Nang flight → no map link · flags v-hanoi-da-nang-afternoon-flights
     - move: From Da Nang airport → no map link
     - move: Other ways from the airport → no map link
-    - move: The bikes → no map link · flags v-hoi-an-hue-bikes
+    - move: To Hue → no map link
     - move: Other ways to Hue → no map link · flags v-heritage-train-hd2-departure-from-da-nang
-    - know: Motorbike licences → no map link · licence
-    - know: If it rains, don't ride → no map link
+    - know: Rain on the pass → no map link
     - know: If Hoi An floods → no map link · flags v-hoi-an-floods
     - know: Laundry → no map link
 - **Hue** — base Hue, days [3, 4]
@@ -306,6 +304,7 @@ Markdown blocks that no extractor claimed. These are NOT shown on the site.
     - know: Keep two rooms until 22:00 → no map link
     - know: Hospital → no map link
     - know: Socks → no map link
+    - know: Scooter licences → no map link · licence
 - **The night train** — base Night train SE20, days [6]
     - stay: Two 4-berth soft-sleeper cabins → no map link · flags v-night-train-fares, v-se20-departure-from-dong-hoi
     - move: Dong Hoi station → Dong Hoi station · flags v-administrative-reorganisation

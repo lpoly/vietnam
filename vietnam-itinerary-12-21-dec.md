@@ -61,8 +61,8 @@ Take the night train from Dong Hoi to Thanh Hoa instead, then 2.5 hours to **Pu 
 |---|---|---|---|---|---|
 | 12 Dec | HAN Terminal 2 → Terminal 1 | Free airport shuttle | 10:00 → 13:30 | 3.5–4h with formalities | free |
 | 12 Dec | Hanoi → Da Nang | Domestic flight | 14:05 → 15:30 | 1h20 | per person, see §6 |
-| 12 Dec | DAD → Hoi An | Private 16-seat van | 16:00 → 17:00 | 40–60 min | ~750,000–840,000 VND |
-| 14 Dec | Hoi An → Hue over Hai Van | 8× one-way motorbike + luggage transfer | 08:00 → 16:00 | 7–9h with stops | ~6,000,000 VND |
+| 12 Dec | DAD → Hoi An | Private transfer with Quang (booked) | 16:00 → 17:00 | 40–60 min | 400,000 VND |
+| 14 Dec | Hoi An → Hue over Hai Van, with stops | Private car with Quang (booked) | 08:00 → 16:00 | 7–9h with stops | 3,200,000 VND |
 | 15 Dec | Hue tombs → Phong Nha via Vinh Moc | Private van | 07:00 → 17:00 | ~10h with stops | ~4,500,000 VND |
 | 16 Dec | Phong Nha → Oxalis → Phong Nha | Included in Oxalis tour | 07:00 → 20:00 | — | included |
 | 17 Dec | Bong Lai loop | 8× scooter rental | 07:00 → 09:30 | — | ~1,400,000 VND |
@@ -73,13 +73,13 @@ Take the night train from Dong Hoi to Thanh Hoa instead, then 2.5 hours to **Pu 
 | 19 Dec | Tam Coc → Hanoi Old Quarter | Private 16-seat van | 13:30 → 16:00 | 2h15–2h30 | ~1,800,000 VND |
 | 21 Dec | Old Quarter → HAN Terminal 2 | Private 16-seat van | per flight | 35–60 min | ~1,200,000 VND |
 
-**Total transport, group:** roughly 29,600,000 VND ≈ **$1,138**, or **$142 per person** at eight. Not included: the Hanoi → Da Nang flight, about 680,000–1,500,000 VND per person one way.
+**Total transport, group:** roughly 26,400,000 VND ≈ **$1,014**, or **$127 per person** at eight. Not included: the Hanoi → Da Nang flight, about 680,000–1,500,000 VND per person one way.
 
 ### How to book each of these
 
 - **The Da Nang flight:** you land at Terminal 2 (international) at 10:00 and fly from Terminal 1 (domestic). On separate tickets you clear immigration, collect bags, take the free shuttle or walk 10 minutes, and check in again: allow **3.5–4 hours**. Vietjet lists afternoon departures at 14:05, 14:35 and 15:05; Vietnam Airlines around 16:05 (a July schedule; check December). Vietnam Airlines economy includes 23 kg checked; Vietjet's cheapest fares include only 7 kg of cabin bags, and a 20 kg bag costs 180,000–350,000 VND bought online. Book the domestic leg on the same ticket as the international one if you can: the airline then protects the connection.
+- **Booked with Quang (driver):** the Da Nang airport pick-up (400,000 VND) and Hoi An → Hue by car over the Hai Van Pass with stops (3,200,000 VND), both arranged by Lefteris on WhatsApp. Confirm in writing that the vehicle takes eight people and eight bags, and for Day 3 the pass road rather than the tunnel. See the Bookings log.
 - **Private vans:** Ford Transit or Hyundai Solati 16-seaters. For eight people plus luggage, insist on a 16-seater, not a 9-seat Dcar limousine. Book by WhatsApp two to three weeks out.
-- **Hoi An → Hue motorbikes:** **Hidden Land Travel / Hue Scooter Rental** (hiddenlandtravel.com, huescooterrental.com) delivers bikes to your Hoi An hotel and takes them back at its Hue office, 24A Alley 11 Ly Thuong Kiet; from US$22 a bike, luggage either free or 50,000 VND a piece (its two sites disagree). **Hoianit**, 84 Phan Chau Trinh, Hoi An, charges 750,000 VND one-way including luggage to your Hue hotel. **Motorvina** lists about US$23; **Style Motorbikes** has a Hoi An shop at 171 Cua Dai but no published one-way price. Reserve eight bikes at least three weeks ahead. **Hand over cash deposits, not passports** (see §11).
 - **Hue → Phong Nha with the tombs and Vinh Moc:** **Culture Pham Travel** quotes 3,000,000 VND for a minivan Hue ↔ Phong Nha plus US$15 for Vinh Moc; **Explore Vietnam** US$130 for a van (max 12) plus US$20. Ask for a 07:00 start that takes in Tu Duc, Khai Dinh and Minh Mang before heading north, and get the quote in writing.
 - **Night train:** **dsvn.vn** is the state railway (cheapest, often rejects foreign cards); **Baolau** and **12go** take foreign cards. You want **two whole 4-berth soft-sleeper cabins** on **SE20, 17 December** (*giường nằm mềm điều hòa*). Private cabins on SE20: Lotus 1,800,000, Charmy and New Livitrans 1,900,000, Violette 2,000,000, Laman 2,200,000 VND per berth (Baolau, October 2026). Exchange the e-ticket voucher at the station 30–60 minutes before departure.
 - **Tam Coc → Hanoi:** any of the Hanoi or Ninh Binh van operators, ~1,800,000 VND one way for a 16-seater.
@@ -92,7 +92,7 @@ The table picks one way for each leg. These are the realistic alternatives, for 
 
 - **Airlines:** Vietnam Airlines, Vietjet, Bamboo and Vietravel all fly it, about 1h20. One-way fares start around US$33. Undated ranges for the route: Vietjet 390,000–2,340,000 VND, Bamboo 639,000–4,000,000, Vietnam Airlines 1,600,000–4,780,000. December 2026 fares weren't found. Sources: [Kupi](https://kupi.com/en/flights/from-hanoi/to-da-nang), [Trip.com](https://www.trip.com/flights/hanoi-to-da-nang/airfares-han-dad/), [VinWonders](https://vinwonders.com/en/wonderpedia/news/flights-from-da-nang-to-hanoi/).
 
-**Da Nang airport → Hoi An (12 Dec, late afternoon).** Planned: the pre-booked 16-seat van.
+**Da Nang airport → Hoi An (12 Dec, late afternoon).** Booked: Quang, 400,000 VND.
 
 - **Vietnam Drive vans:** 600,000 VND for 5–7 guests or 840,000 VND for 8–10 on one page; 750,000 VND for up to 8 on another. Sources: [Vietnam Drive](https://www.vietnamdrive.com/danang-airport-to-hoi-an/), [Vietnam Drive](https://www.vietnamdrive.com/car-rental/da-nang-airport-to-hoi-an/).
 - **Grab:** 250,000–350,000 VND for a 4-seat car, 350,000–450,000 for a 7-seat SUV, 45–60 minutes. Eight people with bags need two 7-seaters. Sources: [Vietnamtourism.com, Oct 2026](https://www.vietnamtourism.com/en/getting-to-hoi-an-from-da-nang-airport-and-beyond), [Jungle Boss, Oct 2026](https://junglebosstours.com/explorer/tourism-blog/da-nang-to-hoi-an).
@@ -100,8 +100,9 @@ The table picks one way for each leg. These are the realistic alternatives, for 
 - **Shared shuttle:** Hoi An Express and others, 130,000–150,000 VND a seat. Timetables disagree: about hourly 06:00–21:00, hourly 05:00–23:00, or evening departures at 17:15, 19:15, 21:15 and 22:15. Sources: [Jungle Boss, Oct 2026](https://junglebosstours.com/explorer/tourism-blog/da-nang-to-hoi-an), [Musement](https://b2c-tuimusement.prod.musement.com/dk/vietnam/da-nang/shuttle-bus-to-hoi-an-from-da-nang-city/e_5dzq25-d_4456-c_190), [Trazy](https://www.trazy.com/experience/detail/hoi-an-da-nang-da-nang-airport-shuttle-bus).
 - **Public bus:** sources disagree on whether it serves the airport at all (yellow bus no. 1 from about 200 m away at 30,000 VND, or route LK02, 35,000 VND, not from the airport, until about 18:00). Not for eight suitcases in the evening. Sources: [Vietnamtourism.com, Oct 2026](https://www.vietnamtourism.com/en/getting-to-hoi-an-from-da-nang-airport-and-beyond), [Jungle Boss, Oct 2026](https://junglebosstours.com/explorer/tourism-blog/da-nang-to-hoi-an).
 
-**Hoi An → Hue (14 Dec).** Planned: one-way motorbikes over the Hai Van Pass. For anyone who doesn't ride, or if it rains:
+**Hoi An → Hue (14 Dec).** Booked: a private car with Quang over the Hai Van Pass, with stops, 3,200,000 VND. If that falls through, or some of you want to ride:
 
+- **One-way motorbikes with luggage transfer:** Hidden Land Travel / Hue Scooter Rental delivers bikes to your Hoi An hotel and takes them back at 24A Alley 11 Ly Thuong Kiet, Hue, from US$22 a bike (luggage free or 50,000 VND a piece; its two sites disagree). Hoianit, 84 Phan Chau Trinh, charges 750,000 VND including luggage. Motorvina lists about US$23. Take semi-automatic or manual 110–150 cc for engine braking on the descent, and see §11 on licences. Sources: [Hue Scooter Rental](https://huescooterrental.com/), [Hidden Land Travel](https://hiddenlandtravel.com/).
 - **Other one-way rentals:** Style Motorbikes and Motorvina have offices in both towns, about US$16–43 a day (a Honda Wave at US$20 for the first day). Source: [Goodmorning Hoi An, Apr 2026](https://goodmorning-hoian.com/en/hue-to-hoi-an/).
 - **Easy Rider:** ride pillion with a local driver. Mr Thong's day trip is about 1,500,000 VND (the page says per person but its table shows a single price, so confirm); booking-site listings run US$58–75 per person. Luggage usually follows by car at no extra cost. Sources: [Goodmorning Hoi An, Oct 2026](https://goodmorning-hoian.com/en/how-to-get-from-hoi-an-to-hue/), [Local Vietnam](https://localvietnam.com/tour/hoi-an-hue-easy-rider-tour/).
 - **Private van over the pass:** Vietnam Drive lists a 16-seat van at 3,120,000 VND / US$120 (max 8 guests) for the same road in the other direction; Go365 runs 4-, 7- and 16-seaters that stop at the summit but publishes no price. Sources: [Vietnam Drive](https://www.vietnamdrive.com/car-rental/private-car-from-hue-to-hoi-an/), [Go365, Jun 2026](https://go365.vn/en/blog/xe-hue-di-hoi-an).
@@ -152,13 +153,14 @@ The table picks one way for each leg. These are the realistic alternatives, for 
 - **10:00** Land at Noi Bai, **Terminal 2** (international). Immigration, collect bags, customs.
 - **12:00** The free shuttle to **Terminal 1** (domestic), 8–10 minutes, every 15 minutes in the day (the airport's two pages give 06:00–01:30 and 05:00–01:00). Or walk: about 10 minutes. Check in again at Terminal 1.
 - **14:05 Flight Hanoi → Da Nang.** About 1h20. Book a departure from about 14:00: on separate tickets you need 3.5–4 hours from landing. *The afternoon times here come from a July schedule; check the December one.*
-- **16:00** Van from Da Nang airport to Hoi An, 40–50 minutes, about an hour around 17:00 and up to 90 minutes in heavy rain. ~750,000–840,000 VND for a 16-seater with eight bags.
+- **16:00** Transfer from Da Nang airport to the hotel with Quang, the driver: **booked** by Lefteris on WhatsApp, 400,000 VND (≈ €14). 40–50 minutes, about an hour around 17:00 and up to 90 minutes in heavy rain. Send him the flight number.
 - **17:00** Arrive Hoi An.
 
 ### Accommodation (2 nights)
-1. **Emm Hotel Hoi An** — 0.7 km from the old town, rated 9.2, from ~US$76 a room (October 2026 snapshot).
-2. **River Suites Hoi An** — 0.6 km, rated 8.8, from ~US$66.
-3. **Hoi An Historic Hotel** — 0.5 km, rated 9.1, from ~US$99.
+1. **Nu Ni Hotel Hoi An** — **Booked** by Christina through Booking.com: 2 nights, €149 for the whole group (≈ 4,320,000 VND), not paid yet.
+2. **Emm Hotel Hoi An** — If the booking falls through: 0.7 km from the old town, rated 9.2, from ~US$76 a room (October 2026 snapshot).
+3. **River Suites Hoi An** — 0.6 km, rated 8.8, from ~US$66.
+4. **Hoi An Historic Hotel** — 0.5 km, rated 9.1, from ~US$99.
 
 **Budget note:** your stated band is $40–80 per person per night. At eight people sharing four rooms, nothing on this route needs the top of it. See §6.
 
@@ -192,7 +194,7 @@ Same as Day 1.
 ### Activities
 - **07:00 My Son Sanctuary**, optional. The Cham temple ruins, 37–50 km from Hoi An, 1–1.5 hours each way: 150,000 VND, open 06:00–18:00 (some sources say 17:00). Allow 2–4 hours on site; back for lunch. Go early, before the heat and the groups.
 - **13:30 Hoi An Ancient Town.** A ticket for foreigners is **120,000 VND**, open 08:00–17:00. It covers a set of the old houses (Tan Ky, Phung Hung, Duc An, Quan Thang), the assembly halls (Fujian, Cantonese, Chaozhou, Hainan), the Tran Family Chapel, Quan Cong Temple, the museums and the **Japanese Covered Bridge**, which reopened on 3 August 2024 after restoration. *Sources describe the ticket differently (5 sites valid 10 days, or two tiers of 80,000 and 120,000 VND valid up to 3 days).* Folk performances at 10:15, 15:15 and 16:15.
-- **17:30** The river and the lantern boats again if you skipped them last night, or rest: tomorrow is the long ride.
+- **17:30** The river and the lantern boats again if you skipped them last night, or rest: tomorrow is a long day on the road.
 
 ### Food
 - **Breakfast, 06:30 — at the hotel**, or *bánh mì* to go if you're heading to My Son.
@@ -208,15 +210,12 @@ The old houses and assembly halls are indoors: a wet day is a good old-town day.
 ---
 
 ## Day 3 — Monday 14 December · Hai Van Pass → Hue
-*Theme: the ride north, then the imperial city in the afternoon light.*
+*Theme: the drive north over the pass, then the imperial city in the afternoon light.*
 
 ### Movements
-- **08:00** Bikes delivered to your Hoi An hotel. 8 one-way rentals to Hue with luggage transfer: **Hidden Land Travel / Hue Scooter Rental** (from US$22 a bike, drop-off at 24A Alley 11 Ly Thuong Kiet, Hue), **Hoianit** (750,000 VND including luggage to your Hue hotel), or **Motorvina**. ~6,000,000 VND for the group. **Reserve three weeks out.**
-- **Bikes:** take **semi-automatic or manual 110–150 cc** rather than automatic scooters. The descent off the pass into Lang Co is long and steep and you want engine braking; a CVT scooter on that descent cooks its brakes.
+- **08:00** Quang collects you at the hotel: private car Hoi An → Hue over the Hai Van Pass, stopping at the landmarks on the way. **Booked** by Lefteris on WhatsApp, 3,200,000 VND (≈ €110). Your bags travel with you.
 - **Route:** Hoi An → **Marble Mountains** → Da Nang (Thuan Phuoc Bridge) → **Hai Van Pass** → Lap An lagoon and **Lang Co** → Hue. **About 150 km; guided versions take 7–9 hours with stops.** The pass is 21 km of switchbacks topping out around 500 m. *One 2026 source mentions a new 70,000 VND gate ticket at Hai Van per person; no other source confirms it.*
-- **Motorbikes are banned from the Hai Van tunnel.** That's fine: the tunnel is what makes the pass quiet, because the trucks and coaches are underneath you.
-- **Fuel:** fill up in Hoi An, and again in Da Nang before the climb. There's nothing on the pass.
-- **Luggage:** goes ahead by the rental company's van and reaches Hue in the afternoon. Carry a day bag only. Confirm the drop-off address in writing.
+- **The pass road, not the tunnel.** Cars can take either; the tunnel is quicker and sees nothing. Agree the pass road with Quang in advance. The tunnel is also what keeps the pass quiet: the trucks and coaches go underneath.
 - **16:00** Arrive Hue.
 
 ### Accommodation (1 night)
@@ -225,17 +224,17 @@ The old houses and assembly halls are indoors: a wet day is a good old-town day.
 3. **Silk Path Grand Hue** — 2 Le Loi, on the river. Upper mid-range, ~US$59–110 a room.
 
 ### Activities
-- **07:30** Breakfast, check out; bags to the rental company's van.
+- **07:30** Breakfast, check out.
 - **08:15 Marble Mountains**, on the coast road south of Da Nang. Limestone hills with caves and pagodas inside: 40,000 VND to climb, *80,000 VND with the lift (the listing's wording is ambiguous)*. An hour.
-- **10:30–11:30 Hai Van Pass.** Stop at the top: French bunkers, a Nguyen-dynasty gate, and the view back over Da Nang Bay on one side and ahead to Lang Co on the other. There's a café. **Go slowly on the descent**; the switchbacks are tight, the surface is patched, and the sea mist makes it wet even on a dry day.
-- **12:00 Lang Co / Lap An Lagoon.** Oyster rafts, mountains behind, lunch and fuel.
+- **10:30–11:30 Hai Van Pass.** Stop at the top: French bunkers, a Nguyen-dynasty gate, and the view back over Da Nang Bay on one side and ahead to Lang Co on the other. There's a café.
+- **12:00 Lang Co / Lap An Lagoon.** Oyster rafts, mountains behind, and lunch.
 - **16:00** Hue. Check in.
 - **16:15 Hue Imperial City (Đại Nội).** Ticket sales close at 17:00 and the site at 17:30, so this is a first look: Thai Hoa Palace, the Nine Dynastic Urns, the To Mieu ancestral temple and the restored Kien Trung Palace. Buy the **combo for the Imperial City plus the tombs of Minh Mang, Tu Duc and Khai Dinh, 530,000 VND, valid two days**, so tomorrow's tombs are covered (200,000 VND for the Imperial City alone). *Winter hours are given as 07:00–17:30 in the most recent source; older sources say 06:30.*
 - **18:00** Walk the riverfront on Le Loi and cross **Truong Tien Bridge**.
 
 ### Food
 - **Breakfast, 07:00 — Hoi An**, at the hotel.
-- **Lunch, 12:00 — Lang Co.** Seafood at a beach *quán*: grilled squid, clams, oysters. 150,000–250,000 VND/person. Don't eat heavily before the afternoon's riding.
+- **Lunch, 12:00 — Lang Co.** Seafood at a beach *quán*: grilled squid, clams, oysters. 150,000–250,000 VND/person.
 - **Dinner part one, 18:30 — Hue rice cakes.** **Quán Bà Đỏ**, 7 Nguyen Binh Khiem, just off Chi Lang, or **Hàng Me Mé**, 60 Tran Quang Khai, Phu Hoi. 120,000–180,000 VND/person for a full spread: **bánh bèo**, **bánh bột lọc**, **bánh nậm** and **bánh ram ít** as a set. Court cooking that escaped into the street.
 - **Dinner part two, 20:00 — Bánh khoái.** **Lạc Thiện**, 6 Dinh Tien Hoang, ~08:00–22:30, or **Chị Hạnh**, 11–15 Pho Duc Chinh, 09:00–21:00. ~100,000 VND/person. A small, turmeric-yellow crisp pancake eaten by hand with herbs and a peanut-and-liver dipping sauce; order **nem lụi** alongside.
 - **Reserve for eight at Bà Đỏ and Lạc Thiện.** Both are small. The hotel will phone.
@@ -244,13 +243,9 @@ The old houses and assembly halls are indoors: a wet day is a good old-town day.
 **Chợ Đông Ba (Dong Ba Market)**, on the north bank by Truong Tien Bridge, roughly 06:00–19:00. Hue's central market; go just before it closes for *bánh ép*, rice-and-shrimp batter pressed flat on a hot iron, 10,000 VND a piece.
 
 ### Rain plan
-**Take this seriously.** A wet Hai Van Pass with eight riders on unfamiliar bikes is the single highest-risk item in this itinerary, and mid-December is still the wet season here.
-
-**If there is meaningful rain forecast, do not ride.** Instead:
-- **The Heritage Train, Da Nang → Hue.** **HĐ2** leaves Da Nang at 07:05 and reaches Hue at 11:03; **HĐ4** leaves at 15:20 and arrives 18:15. Large observation windows and a photo stop at **Lang Co station**. *Fares are listed at 207,000 VND on weekdays, 257,000 or 330,000 VND, or 180,000–500,000 by class (sources disagree); older times were HĐ2 07:50 and HĐ4 15:00.* Sit on the **right** going north for the sea. Taxi from Hoi An to Da Nang station first.
-- **Or a private van over the pass**: you still get the view from the top, with a roof.
-
-**Decide by 07:00 on the day**, and tell the rental company when you reserve that you may cancel; get that in writing.
+You're in a car, so rain changes the stops, not the day. Mid-December is still the wet season here, and the top of the pass is often in cloud.
+- **If the top is in cloud or the rain is heavy,** ask Quang to take the tunnel: you lose the view, not the day. Marble Mountains is caves and pagodas, much of it under cover; keep it.
+- **If you'd rather see the coast from a train:** the Heritage Train, Da Nang → Hue. **HĐ2** leaves Da Nang at 07:05 and reaches Hue at 11:03; **HĐ4** leaves at 15:20 and arrives 18:15. Large observation windows and a photo stop at **Lang Co station**. *Fares are listed at 207,000 VND on weekdays, 257,000 or 330,000 VND, or 180,000–500,000 by class (sources disagree); older times were HĐ2 07:50 and HĐ4 15:00.* Sit on the **right** going north for the sea. This would mean changing the booking with Quang.
 
 ---
 
@@ -498,15 +493,14 @@ Food on this route is the thing you do between the landmarks, not instead of the
 |---|---|---|
 | **Immediately** | **Flights: into Hanoi on 12 Dec (10:00), Hanoi → Da Nang the same afternoon, and home from Hanoi on 21 Dec** | Nothing is booked yet. On separate tickets leave 3.5–4 hours between landing and the Da Nang flight (a departure from about 14:00). Book the domestic leg on the same ticket as the international one if you can, so the airline protects the connection. It's the week before Christmas. |
 | **Immediately** | **Oxalis day tour (16 Dec), 8 places** | 12-person cap, fixed departure dates. Hang Tien (recommended) or Tu Lan. oxalisadventure.com. Full payment confirms. |
-| **Now** | **1968-Convention IDPs for every rider** | Takes 2–6 weeks depending on country. See §11 — this is the item most likely to sink the Hai Van day, which is now Day 3. |
+| **Now** | **Pay Nu Ni Hotel (Hoi An, booked, not paid)** | Christina booked it through Booking.com; check the payment date and the free-cancellation deadline. |
+| **Now** | **1968-Convention IDPs for anyone riding the scooters on Day 6** | Takes 2–6 weeks depending on country. See §11. The Hai Van day is now by car, so this only matters for the Bong Lai loop. |
 | **4 weeks out** | **Night train SE20, 17 Dec, two 4-berth soft-sleeper cabins** | dsvn.vn, or Baolau / 12go for foreign cards. Private cabins 1.8–2.2M per berth. |
 | **4 weeks out** | **Hanoi hotel (2 nights, Sat–Sun, 4 rooms)** | Weekend, and four rooms in one Old Quarter property is not trivial. |
-| **4 weeks out** | **Hoi An hotel (2 nights, Sat–Sun, 4 rooms)** | Weekend, and close to the old town. |
-| **3 weeks out** | **Hoi An → Hue motorbikes (8) with luggage transfer** | Hidden Land / Hue Scooter Rental, Hoianit or Motorvina. Eight bikes in one class needs lead time. Ask for cancellation terms in writing. |
 | **3 weeks out** | **Hue hotel (1 night, Monday, 4 rooms)** | Midweek, easier. |
 | **3 weeks out** | **Phong Nha accommodation (2 nights) + two rooms until 22:00 on 17 Dec** | Several places are cash-only. |
 | **3 weeks out** | **Ninh Binh (1 night) with early check-in on 18 Dec** | You arrive at about 08:30. |
-| **2–3 weeks out** | **All private vans:** DAD → Hoi An, Hue tombs → Phong Nha with Vinh Moc, Phong Nha day hire, Phong Nha → Dong Hoi station at 22:15, Ninh Binh day on 18 Dec, Tam Coc → Hanoi, Hanoi → Noi Bai | WhatsApp. Specify the seat count and luggage. |
+| **2–3 weeks out** | **All private vans:** Hue tombs → Phong Nha with Vinh Moc, Phong Nha day hire, Phong Nha → Dong Hoi station at 22:15, Ninh Binh day on 18 Dec, Tam Coc → Hanoi, Hanoi → Noi Bai | WhatsApp. Specify the seat count and luggage. |
 | **2 weeks out** | **Water puppet tickets, Sat 19 Dec, 18:30** | Book 3–7 days ahead at least, direct with the theatre — not via thanglongwaterpuppet.org. |
 | **1–2 weeks out** | **Travel insurance with motorcycle cover** | Read the licence clause. See §11. |
 | **Anytime** | **Trang An tickets on Klook** | Same price, QR code, skips the queue — worth it for eight. |
@@ -517,7 +511,7 @@ Food on this route is the thing you do between the landmarks, not instead of the
 | When | Item |
 |---|---|
 | Day 1, Hanoi airport | Withdraw cash at a bank ATM before the Da Nang flight |
-| Day 2, Hoi An | Confirm the bike delivery time and the Hue drop-off address in writing; book the My Son car if you're going |
+| Day 2, Hoi An | Confirm Quang's 08:00 pick-up, the pass road and the Hue drop-off address; book the My Son car if you're going |
 | Day 3, on arrival in Hue | **Bà Đỏ** and **Lạc Thiện** reservations for 8; confirm the 07:00 tomb van |
 | Day 4, on arrival | **8 scooters for Day 6**; homestay dinner; confirm the 22:15 station transfer for Day 6 |
 | Day 5 evening | **Dark Cave**, only if the Oxalis tour is cancelled — book in a Phong Nha town office |
@@ -534,14 +528,14 @@ Per person, at eight people sharing four rooms. Excludes international flights, 
 
 | Line | Per person | Notes |
 |---|---|---|
-| **Transport** | **$142** | All vans, the night train, transfers, scooters and the Hoi An → Hue bikes. |
-| **Accommodation** | **$277** | 8 hotel nights (one is the train). ~$35/person/night, including two Phong Nha rooms kept for the evening. |
+| **Transport** | **$127** | All vans, the night train, transfers, scooters, and the two booked transfers with Quang. |
+| **Accommodation** | **$221** | 8 hotel nights (one is the train). ~$28/person/night, including two Phong Nha rooms kept for the evening. Hoi An is the booked price: Nu Ni, €149 for the group for 2 nights. |
 | **Food & drink** | **$270** | 9 days at $25–35. Generous: you could eat very well on $20. |
 | **Activities & entries** | **$197** | Of which **$77 is the Oxalis day tour.** Everything else on this route is $1–20. |
 | **Local transport, coffee, SIM, tips** | **$45** | Grab, *cà phê*, water, incidentals. |
-| **Subtotal** | **$931** | |
-| **Contingency (12%)** | **$112** | For a weather diversion (the heritage train instead of bikes), a price that's moved, one restaurant that's closed. |
-| **Total** | **≈ $1,043** | |
+| **Subtotal** | **$860** | |
+| **Contingency (12%)** | **$103** | For a weather diversion, a price that's moved, one restaurant that's closed. |
+| **Total** | **≈ $963** | |
 
 ### Activities breakdown
 
@@ -568,7 +562,7 @@ Per person, at eight people sharing four rooms. Excludes international flights, 
 
 ### The budget flag you asked for
 
-**Your accommodation band is $40–80 per person per night. You will spend about $35.** Over eight nights that's $277 per person against a budget of $320–640, so you are under the bottom of it.
+**Your accommodation band is $40–80 per person per night. You will spend about $28.** Over eight nights that's $221 per person against a budget of $320–640, so you are under the bottom of it.
 
 Nothing on this route needs the top of that band. Three honest options for the surplus:
 1. **Upgrade the cave days.** The Oxalis **Hang En Cave Adventure 2D1N** (9,500,000 VND) is a step-change in ambition over any day tour, if it's running on your dates.
@@ -609,7 +603,7 @@ I'd take option 1 if Hang En runs; otherwise option 2.
 The temperature swing on this route is the thing people get wrong, and going north it gets colder as the trip goes on. Hue averages a high of about **24°C** and a low of about **19°C**, with around 350 mm of rain in December, more of it in the first half. Ninh Binh is **15–21°C**. Hanoi sits at **15–22°C** with lows near 14°C, high humidity and grey drizzle; it feels considerably colder than the number, and buildings are not heated. You are packing for two different climates nine days apart.
 
 **Bring:**
-- **A proper rain shell**, not a poncho. You will use it in Hoi An and Hue, and possibly on Hai Van. Oxalis specifies a waterproof jacket for November–March tours.
+- **A proper rain shell**, not a poncho. You will use it in Hoi An and Hue. Oxalis specifies a waterproof jacket for November–March tours.
 - **Layers for the north at the end:** a thin merino or fleece mid-layer, a long-sleeved shirt, and something warmer for Hanoi evenings. Nothing heavy.
 - **Quick-dry long trousers and a long-sleeved quick-dry shirt** for the Oxalis day: required for protection against rock, insects and plants.
 - **Trekking or approach shoes with real grip**, broken in. Mua Cave's 486 steps and the Oxalis trail both demand it.
@@ -618,7 +612,7 @@ The temperature swing on this route is the thing people get wrong, and going nor
 - **A second pair of shoes** so you're not putting wet ones on the next morning.
 - **Clothes that cover shoulders and knees** for the Hue tombs, pagodas and the Ho Chi Minh Mausoleum.
 - **A small dry bag** for phones on the boats and in the caves.
-- **Motorcycle gloves and, if you're serious, your own helmet.** Rental helmets in Vietnam are legally compliant and not much more. A jacket with some abrasion resistance for the Hai Van day.
+- **Gloves, and your own helmet if you're serious,** for the Bong Lai scooters. Rental helmets in Vietnam are legally compliant and not much more.
 - **Headtorch** — useful on unlit lanes and boarding a train at midnight.
 - **Small notes wallet** separate from your main one.
 - **A universal adapter** — Vietnam uses Type A/C/F at 220 V.
@@ -626,7 +620,7 @@ The temperature swing on this route is the thing people get wrong, and going nor
 - **An overnight bag for the train** so you don't open suitcases in a sleeper cabin.
 - **Passports on you** for the flights, the Oxalis tour, the train and bike rental.
 
-**Don't bring:** a heavy coat, hiking poles (unnecessary on these trails), a drone (restricted around the Citadel, the national parks and the caves), or expectations about laundry — it's 20,000–40,000 VND/kg everywhere, done same-day; use it in Hoi An before the ride.
+**Don't bring:** a heavy coat, hiking poles (unnecessary on these trails), a drone (restricted around the Citadel, the national parks and the caves), or expectations about laundry — it's 20,000–40,000 VND/kg everywhere, done same-day; use it in Hoi An.
 
 ---
 
@@ -644,7 +638,7 @@ The temperature swing on this route is the thing people get wrong, and going nor
 
 **The Oxalis tour.** Eight of a 12-person cap. **Book all eight in one transaction** so you're on the same departure. Ask on the phone whether you can have a private departure.
 
-**Motorbikes.** Eight bikes is more than a small shop stocks in one model. Book early, and expect a mix of models. **Ride in two groups of four** with a designated lead and sweep in each, and agree stop points in advance: eight bikes trying to stay together through Da Nang traffic will fragment within a kilometre.
+**Scooters.** Eight scooters for the Bong Lai loop is more than a small shop stocks in one model; arrange them on arrival and expect a mix. **Ride in two groups of four** with a designated lead and sweep in each, and agree stop points in advance.
 
 **Hotels.** Room counts are the constraint, not price. **Ask for the room count and configuration explicitly**: "two doubles and two twins" is what you want, and "one dorm and a family room" is not the same thing.
 
@@ -729,15 +723,13 @@ This is the highest-consequence detail in the document, and the one your group i
 
 **The insurance consequence is the real risk, not the fine.** If you are riding without a licence Vietnam recognises, **your travel and medical insurance is voided.** In a serious accident you are personally liable for your own medical costs, third-party damage and the bike.
 
-**Practical upshot.** Check every rider's IDP version **now**, not in December. If any rider is on a 1949 IDP, that person takes the train or a van on Day 3 and skips the scooters on Day 6. Rental shops will hand bikes to anyone; that transfers none of the liability.
+**Practical upshot.** Check every rider's IDP version **now**, not in December. If any rider is on a 1949 IDP, that person skips the scooters on Day 6. (The Hai Van day is by car.) Rental shops will hand bikes to anyone; that transfers none of the liability.
 
 Separately: the bike must carry **compulsory Vietnamese third-party liability insurance** — ask to see it, it's a paper slip. And read your own travel policy's motorcycle clause, including any engine-capacity cap (many exclude over 125 cc) and helmet requirements.
 
 ### Road safety
 - **Helmets always**, including on the Bong Lai farm lanes. It's the law and it's enforced.
 - **Ride in two groups of four.** Eight bikes cannot hold formation.
-- **The Hai Van descent** northbound drops into Lang Co: tight switchbacks, patched surface, sea mist. Engine braking, not brake braking. Go slowly.
-- **Day 3 is two days after a long-haul flight.** Sleep properly on Day 2; nobody rides tired.
 - **Buffalo, dogs and children** appear without warning on rural lanes. Do not ride Bong Lai or the Tam Coc lanes after dark.
 - **Deposits:** rental shops commonly ask for a passport or $300 per bike. **Pay the cash deposit, never surrender a passport.** You legally need it with you.
 - **Photograph every bike** from all sides before you ride it, with the odometer and any existing damage, and get the rental contract in writing.
@@ -782,7 +774,6 @@ Things that could not be pinned down in the October 2026 re-check, or that moved
 - **Vinh Moc Tunnels:** 50,000 or 100,000 VND.
 - **Marble Mountains:** 40,000 VND to climb or 80,000 with the lift; the listing is ambiguous.
 - **Hai Van gate ticket:** a 70,000 VND fee "new in 2026" appears in one source only.
-- **Hoi An → Hue bikes:** luggage free or 50,000 VND a piece on Hidden Land's two sites; Motorvina's price comes from a search snippet.
 - **Night train fares:** Vietnam Railways' own 4-berth fare for Dong Hoi → Ninh Binh wasn't found; Baolau lists from 639,000 VND with the class not shown.
 - **Phong Nha → Dong Hoi transfer:** private-car prices run from 300,000 to 1,200,000 VND depending on the source.
 - **Hoi An Ancient Town ticket:** 120,000 VND, but the two 2026 descriptions of what it covers differ.

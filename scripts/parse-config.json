@@ -50,7 +50,8 @@
     "HĐ2",
     "HĐ4",
     "Late afternoon is right",
-    "Van, Tam Coc → Hanoi Old Quarter"
+    "Van, Tam Coc → Hanoi Old Quarter",
+    "The pass road, not the tunnel"
   ],
   "place_exclude_prefixes": [
     "Reserve",
@@ -196,10 +197,6 @@
       "match": "gate ticket"
     },
     {
-      "subject": "Hoi An → Hue bikes",
-      "match": "Hidden Land|Hoianit|Motorvina"
-    },
-    {
       "subject": "Phong Nha → Dong Hoi transfer",
       "match": "Dong Hoi station",
       "require": "1,300,000|1,200,000"
@@ -290,7 +287,6 @@
     {
       "risk": "Motorbike licensing — read this before you book bikes",
       "days": [
-        3,
         6
       ],
       "sections": [
@@ -444,5 +440,7 @@
     "Phong Nha": 3,
     "Hue": 4,
     "Hoi An": 5
-  }
+  },
+  "_bookings_source": "The group's own log of bookings, actions and decisions; shown as Plan → Bookings log. Variants set it to null.",
+  "bookings_source": "bookings.md"
 }

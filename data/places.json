@@ -33,11 +33,11 @@
    "sections": [
     "accommodation"
    ],
-   "where": "0.7 km from the old town, rated 9.2",
+   "where": "If the booking falls through: 0.7 km from the old town, rated 9.2",
    "hours": null,
    "price": null,
-   "query": "Emm Hotel Hoi An",
-   "addressInQuery": false,
+   "query": "Emm Hotel Hoi An, If the booking falls through: 0.7 km from the old town, rated 9.2",
+   "addressInQuery": true,
    "coords": [
     15.883137,
     108.327357
@@ -64,6 +64,27 @@
     108.33049
    ],
    "coordsNote": "auto: OpenStreetMap match 'Hoi An Historic Hotel, 10, Trần Hưng Đạo, An Hội, Phố cổ Hội An, Phường Hội An, Hội An, Thành phố Đà Nẵng, 64000, Việt N' (not hand-checked)"
+  },
+  {
+   "id": "nu-ni-hotel-hoi-an--hoi-an",
+   "name": "Nu Ni Hotel Hoi An",
+   "base": "Hoi An",
+   "days": [
+    1
+   ],
+   "sections": [
+    "accommodation"
+   ],
+   "where": null,
+   "hours": null,
+   "price": null,
+   "query": "Nu Ni Hotel Hoi An",
+   "addressInQuery": false,
+   "coords": [
+    15.879722,
+    108.325204
+   ],
+   "coordsNote": "auto: OpenStreetMap match 'Nu Ni Homestay, 131/12, Trần Hưng Đạo, An Hội, Phố cổ Hội An, Phường Hội An, Hội An, Thành phố Đà Nẵng, 51319, Việt Nam' (not hand-checked)"
   },
   {
    "id": "river-suites-hoi-an--hoi-an",

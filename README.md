@@ -6,6 +6,7 @@ No backend, no login, no analytics, no external scripts or fonts. Plain HTML/CSS
 ```
 city-guide.md                    ← the readable guide your friends see first (city by city). Edit this for the Guide tab.
 vietnam-itinerary-12-21-dec.md   ← the full itinerary: the source of facts, and of the Plan, Food and Essentials tabs.
+bookings.md                      ← what's booked (by whom, how, price, paid), the to-do list and a dated log. Shown as Plan → Bookings log.
 scripts/parse-itinerary.py       ← markdown → data/trip.json + data/trip.js (+ places, photos, report, offline manifest)
 scripts/parse-config.json        ← structural hints (which bold text is not a place, which §12 item flags what)
 index.html, css/, js/app.js      ← the site; renders only what is in data/trip.js

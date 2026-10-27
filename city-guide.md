@@ -12,24 +12,24 @@ A few things worth knowing before anything else: 12 December 2026 is a **Saturda
 
 Hoi An's UNESCO old town is where the trip starts: lanterns, the river, the assembly halls and the Japanese Covered Bridge, and *cao lầu*, a noodle dish that only exists here. You land in Hanoi at 10:00, fly on to Da Nang in the afternoon, and reach Hoi An by about 17:00, in time for the lanterns.
 
-Day 2 is the old town by daylight, with the Cham ruins at My Son first if you want them. Day 3 is the ride north: about 150 km over the **Hai Van Pass**, 21 km of switchbacks topping out around 500 m, with Da Nang Bay behind you and Lang Co lagoon ahead, into Hue. Motorbikes are banned from the Hai Van tunnel, which keeps the pass quiet: the trucks are underneath you.
+Day 2 is the old town by daylight, with the Cham ruins at My Son first if you want them. Day 3 is the drive north with Quang, about 150 km over the **Hai Van Pass**, 21 km of switchbacks topping out around 500 m, with Da Nang Bay behind you and Lang Co lagoon ahead, into Hue. The tunnel underneath takes the trucks, which keeps the pass quiet; ask for the pass road.
 
 ### At a glance
 
-- **When** — Saturday 12 to Monday 14 December; you ride out on Monday morning.
+- **When** — Saturday 12 to Monday 14 December; you leave on Monday morning.
 - **Weather** — Wet season tail: the chance of a wet day is about 41% on 1 December, falling through the month. Hoi An's flood risk runs to mid-December. Watch the forecast.
 - **Don't miss** — A lantern boat on the Thu Bon, the Japanese Covered Bridge, the view from the top of Hai Van.
 - **Signature dish** — *Cao lầu*, Hoi An only.
-- **Sleep** — Walking distance of the old town.
+- **Sleep** — Nu Ni Hotel, booked.
 
 ### See and do
 
 - **Hoi An Ancient Town** — A ticket for foreigners is **120,000 VND**, open 08:00–17:00, and covers a set of the old houses (Tan Ky, Phung Hung, Duc An, Quan Thang), the assembly halls, the Tran Family Chapel, museums and the **Japanese Covered Bridge** (reopened in August 2024). After 17:00 the old town is the streets themselves, pedestrian until 21:00 in winter. *Sources describe what the ticket covers differently.*
 - **Lantern boat on the Thu Bon** — About 170,000 VND for 1–3 people, 220,000 for 4–5, roughly 16:00–21:30. Lanterns to float are 20,000–40,000 VND. The **night market** on Nguyen Hoang runs from about 17:00.
 - **My Son Sanctuary** — The Cham temple ruins, 37–50 km out, 1–1.5 hours each way. 150,000 VND, open 06:00–18:00 (some sources say 17:00). Go early, before the heat and the groups; skip it in heavy rain.
-- **Marble Mountains** — Limestone hills with caves and pagodas inside, on the coast road south of Da Nang: the first stop on the ride. *40,000 VND to climb or 80,000 with the lift; the listing is ambiguous.*
-- **Hai Van Pass** — Stop at the top: French bunkers, a Nguyen-dynasty gate, and the view back over Da Nang Bay and ahead to Lang Co. Go slowly on the descent: tight switchbacks, patched surface, sea mist. *One 2026 source mentions a new 70,000 VND gate ticket; no other confirms it.*
-- **Lang Co / Lap An Lagoon** — Oyster rafts and mountains behind; the lunch and fuel stop at the foot of the descent.
+- **Marble Mountains** — Limestone hills with caves and pagodas inside, on the coast road south of Da Nang: the first stop on the drive to Hue. *40,000 VND to climb or 80,000 with the lift; the listing is ambiguous.*
+- **Hai Van Pass** — Stop at the top: French bunkers, a Nguyen-dynasty gate, and the view back over Da Nang Bay and ahead to Lang Co. *One 2026 source mentions a new 70,000 VND gate ticket; no other confirms it.*
+- **Lang Co / Lap An Lagoon** — Oyster rafts and mountains behind; the lunch stop at the foot of the descent.
 
 ### Eat and drink
 
@@ -37,34 +37,32 @@ Bold, coastal, built on turmeric, with broth used sparingly.
 
 - **Cao lầu** — Thick, chewy noodles with char siu, greens and crackling, made with water from a specific Hoi An well. Order it with *mì Quảng* at a busy local place in the old town; ask the hotel which this year.
 - **Mì Quảng** — Turmeric rice noodles with barely any broth, shrimp and pork, peanuts, herbs and a rice cracker snapped over the top: Quang Nam's defining dish, and a lunchtime one.
-- **Seafood at Lang Co** — Grilled squid, clams and oysters at a beach *quán* on the ride, 150,000–250,000 VND/person. Don't eat heavily before the afternoon's riding.
+- **Seafood at Lang Co** — Grilled squid, clams and oysters at a beach *quán* on the way, 150,000–250,000 VND/person.
 
 ### Where we sleep
 
-- **Emm Hotel Hoi An** — 0.7 km from the old town, rated 9.2, from ~US$76 a room.
-- **River Suites Hoi An** — 0.6 km, rated 8.8, from ~US$66.
-- **Hoi An Historic Hotel** — 0.5 km, rated 9.1, from ~US$99.
+- **Nu Ni Hotel Hoi An** — Booked by Christina through Booking.com: 2 nights, €149 for the whole group (≈ 4,320,000 VND), not paid yet.
+- **If that falls through** — Emm Hotel Hoi An (0.7 km from the old town, from ~US$76 a room), River Suites Hoi An (0.6 km, from ~US$66) or Hoi An Historic Hotel (0.5 km, from ~US$99).
 
 ### Getting around
 
 - **The Da Nang flight** — You land at Noi Bai Terminal 2 at 10:00 and fly from Terminal 1. On separate tickets allow 3.5–4 hours: a free shuttle runs between terminals, or it's a 10-minute walk. Vietjet's cheapest fares include only 7 kg of cabin bags.
-- **From Da Nang airport** — A pre-booked 16-seat van, 40–50 minutes (about an hour at 17:00), ~750,000–840,000 VND.
+- **From Da Nang airport** — Booked: Quang, the driver, 400,000 VND (≈ €14), arranged by Lefteris on WhatsApp. 40–50 minutes, about an hour at 17:00. Send him the flight number.
 - **Other ways from the airport** — Two 7-seat Grab cars at 350,000–450,000 VND each, or metered Mai Linh or Vinasun taxis at 300,000–450,000 VND a car. Shared shuttles are 130,000–150,000 VND a seat (timetables disagree). Sources: [Vietnamtourism.com, Oct 2026](https://www.vietnamtourism.com/en/getting-to-hoi-an-from-da-nang-airport-and-beyond), [Jungle Boss, Oct 2026](https://junglebosstours.com/explorer/tourism-blog/da-nang-to-hoi-an), [Vietnam Drive](https://www.vietnamdrive.com/danang-airport-to-hoi-an/).
-- **The bikes** — One-way Hoi An → Hue with luggage transfer: **Hidden Land / Hue Scooter Rental** (from US$22 a bike, delivered to your Hoi An hotel, drop-off at 24A Alley 11 Ly Thuong Kiet, Hue), **Hoianit** (750,000 VND including luggage) or **Motorvina**. Take **semi-automatic or manual 110–150 cc** for engine braking on the descent.
-- **Other ways to Hue** — For anyone who won't ride, or if it rains: the Heritage Train from Da Nang, HĐ2 07:05 → 11:03 or HĐ4 15:20 → 18:15, with a stop at Lang Co station (330,000 VND on 12Go; fares listed elsewhere from 207,000). Or a private van over the pass (Vietnam Drive lists a 16-seater at US$120 for the same road the other way), or an Easy Rider, pillion with a local driver, US$58–75 per person on booking sites. Tourist buses take the tunnel, so you miss the views. Sources: [Vietnamtourism.com, Oct 2026](https://www.vietnamtourism.com/en/transport/da-nang-hue), [Vietnam Drive](https://www.vietnamdrive.com/car-rental/private-car-from-hue-to-hoi-an/), [Goodmorning Hoi An, Oct 2026](https://goodmorning-hoian.com/en/how-to-get-from-hoi-an-to-hue/).
+- **To Hue** — Booked: a private car with Quang over the Hai Van Pass, stopping at Marble Mountains, the top of the pass and Lang Co. 3,200,000 VND (≈ €110), arranged by Lefteris on WhatsApp. Your bags ride with you.
+- **Other ways to Hue** — If that falls through, or some of you want to ride: one-way motorbikes with luggage transfer from Hidden Land / Hue Scooter Rental (from US$22 a bike) or Hoianit (750,000 VND including luggage). Or the Heritage Train from Da Nang, HĐ2 07:05 → 11:03 or HĐ4 15:20 → 18:15, with a stop at Lang Co station (330,000 VND on 12Go; fares listed elsewhere from 207,000), or an Easy Rider, pillion with a local driver, US$58–75 per person on booking sites. Sources: [Vietnamtourism.com, Oct 2026](https://www.vietnamtourism.com/en/transport/da-nang-hue), [Goodmorning Hoi An, Oct 2026](https://goodmorning-hoian.com/en/how-to-get-from-hoi-an-to-hue/).
 
 ### Good to know
 
-- **Motorbike licences** — Vietnam recognises only the **1968** Convention International Driving Permit, showing category A, carried with your original licence. Riding without one voids your travel and medical insurance. Anyone on a 1949 IDP takes the van or the train.
-- **If it rains, don't ride** — A wet Hai Van Pass with eight riders on unfamiliar bikes is the highest-risk item of the trip. Take the train or a van; decide by 07:00.
+- **Rain on the pass** — The top is often in cloud in December. In the car that just means the tunnel instead: you lose the view, not the day.
 - **If Hoi An floods** — Risk runs to mid-December, which is when you arrive. Sleep in Da Nang's Hai Chau instead, 40 minutes away.
-- **Laundry** — 20,000–40,000 VND/kg, same day. Use it here before the ride.
+- **Laundry** — 20,000–40,000 VND/kg, same day.
 
 ## Hue
 
 *14–15 December · 1 night · Days 3–4*
 
-The imperial capital of the Nguyen dynasty, seen in two halves: the walled Imperial City on the afternoon you ride in, and the emperors' tombs in the hills along the Perfume River at opening time the next morning, before the drive north. It's also Vietnam's most distinctive regional cooking: court dishes in miniature, and chilli-and-shrimp-paste noodle soups.
+The imperial capital of the Nguyen dynasty, seen in two halves: the walled Imperial City on the afternoon you arrive, and the emperors' tombs in the hills along the Perfume River at opening time the next morning, before the drive north. It's also Vietnam's most distinctive regional cooking: court dishes in miniature, and chilli-and-shrimp-paste noodle soups.
 
 On the way out to Phong Nha you cross the old DMZ: the Vinh Moc Tunnels and the bridge at the 17th parallel.
 
@@ -166,6 +164,7 @@ River fish, eel, chicken and clay-pot braises: the plainest cooking on the route
 - **Keep two rooms until 22:00** — For showers and repacking before the train: book a third night or agree late check-out in writing.
 - **Hospital** — The nearest serious hospital is in Dong Hoi, 45 km away.
 - **Socks** — Calf-length and thick, for leeches on wet trails.
+- **Scooter licences** — Vietnam recognises only the **1968** Convention International Driving Permit, showing category A, carried with your original licence. Riding without one voids your travel and medical insurance. Anyone on a 1949 IDP skips the Bong Lai scooters.
 
 ## The night train
 
